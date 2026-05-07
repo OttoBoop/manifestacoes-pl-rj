@@ -1,146 +1,51 @@
 # Manifestação Técnica — PL nº 74/2025
 
-**Em resposta a:** Ofício CVL nº 823/2026  
-**Órgão:** Subsecretaria — Secretaria Municipal de Desenvolvimento Econômico (SMDE)  
+**Ofício:** CVL nº 823/2026  
+**Órgão:** Subsecretaria / Secretaria Municipal de Desenvolvimento Econômico (SMDE)  
 **Data:** maio de 2026  
-**Prazo:** urgentíssimo (3 dias)
 
 ---
 
-Em atenção ao Ofício CVL nº 823/2026, acerca do PL nº 74/2025, que "Altera e acresce
-dispositivos à Lei nº 7.008, de 18 de agosto de 2021, que institui o Circuito Carioca de
-Economia Solidária no Município do Rio de Janeiro e dá outras providências", rogando
-manifestação técnica sobre a proposição legislativa em tela, cumpre informar que esta
-Subsecretaria se posiciona em sentido de **nada a opor** à proposta.
+Em atenção ao Ofício CVL nº 823/2026, acerca do PL nº 74/2025, que "Altera e acresce dispositivos à Lei nº 7.008, de 18 de agosto de 2021, que institui o Circuito Carioca de Economia Solidária no Município do Rio de Janeiro e dá outras providências", rogando manifestação técnica sobre a proposição legislativa em tela, cumpre informar que esta Subsecretaria se posiciona em sentido de **nada a opor** à proposta.
 
 ---
 
-## 2. Objeto do PL
+## 2. Exegese
 
-A Lei nº 7.008/2021 instituiu o Circuito Carioca de Economia Solidária no Município do Rio de
-Janeiro, formalizando em sede legal o programa criado administrativamente pelo Decreto
-34.388/2011 e apoiado pela política municipal de fomento estabelecida pela Lei 5.435/2012.
-O Circuito reúne atualmente aproximadamente 300 artesãos organizados em 19 Redes, com
-cerca de 90% de participação feminina, realizando feiras de produtos solidários e sustentáveis
-em 13 pontos fixos distribuídos por bairros do município (Prefeitura Rio, 2021;
-SES-Rio, 2024).
+A Lei nº 7.008, de 18 de agosto de 2021, instituiu o Circuito Carioca de Economia Solidária no Município do Rio de Janeiro como política pública de fomento à comercialização de produtos oriundos de empreendimentos da economia solidária, atribuindo a organização e realização dos eventos aos **polos comerciais do Programa Polos do Rio**. Em sua redação original, o diploma legal delimitou o rol de produtos comercializáveis a moda, acessórios artesanais, artesanato e recicláveis, excluindo expressamente alimentos e artesanato religioso. Não foram fixados parâmetros operacionais de frequência mínima, limite de barracas, calendário obrigatório ou autorização de patrocinadores — lacunas que conferiam ao Programa Polos do Rio ampla margem de gestão administrativa sobre o Circuito (CÂMARA MUNICIPAL DO RIO DE JANEIRO. "Agora é lei: Rio terá Circuito de Economia Solidária", Câmara Municipal RJ, 2021).
 
-O PL nº 74/2025, de autoria do Vereador Átila Nunes, aprovado pela Câmara Municipal em 6
-de abril de 2026, propõe alterações operacionais nos arts. 1º, 2º, 3º e 5º da Lei
-nº 7.008/2021 e acrescenta o art. 6º-A. As principais mudanças são: (i) fixação de
-frequência mínima de duas exposições mensais por ponto fixo, com duração de até doze horas
-consecutivas cada (§ 3º do art. 1º); (ii) enumeração taxativa de categorias de produtos,
-incluindo, pela primeira vez, produtos alimentícios artesanais (§ 5º); (iii) limite máximo de
-100 barracas por local com padrão unificado de equipamento (§ 6º); (iv) sujeição dos
-alimentos artesanais às exigências da Vigilância Sanitária Municipal (§ 7º); (v) autorização
-para captação de patrocinadores privados com veiculação de marca, respeitada a Lei
-Orgânica do Município (art. 2º); (vi) substituição do regime de autorização discricionária
-pelo "Nada a Opor" do órgão municipal competente, ressalvadas as hipóteses de autorização
-federal ou estadual (art. 3º); e (vii) obrigação ao Fórum Municipal de apresentar calendário
-anual até novembro de cada ano, com publicação no Diário Oficial em até 15 dias (art. 6º-A).
-As alterações são de natureza operacional e não modificam o objeto central da lei.
+O PL nº 74/2025, de autoria do Vereador Átila Nunes, aprovado pela Câmara Municipal em 6 de abril de 2026, propõe reformulação do vetor institucional da política ao deslocar a titularidade da organização dos eventos do Programa Polos do Rio para o **Fórum Municipal de Economia Solidária**, além de introduzir as seguintes modificações: (i) frequência mínima de duas exposições mensais por ponto fixo, com duração de até doze horas consecutivas, nos termos do § 3º do art. 1º; (ii) enumeração taxativa de produtos, com inclusão de artesanato religioso e alimentos artesanais, nos termos do § 5º do art. 1º; (iii) limite máximo de cem barracas por local com padrão unificado de equipamento, nos termos do § 6º do art. 1º; (iv) sujeição dos alimentos artesanais às exigências da Vigilância Sanitária Municipal, nos termos do § 7º do art. 1º; (v) autorização para captação de patrocinadores privados com veiculação de marca, nos termos do art. 2º; (vi) substituição do regime de autorização por "Nada a Opor" do órgão municipal competente, nos termos do art. 3º; e (vii) obrigação de o Fórum apresentar calendário anual até novembro, com publicação no Diário Oficial em até quinze dias, nos termos do art. 6º-A acrescido. A competência municipal para disciplinar o tema encontra fundamento na Súmula Vinculante 38 do STF e no art. 30, I e II, da Constituição Federal (CÂMARA MUNICIPAL DO RIO DE JANEIRO. "PL nº 74, de 2025 — Texto Extraído", Câmara Municipal RJ, 2025).
 
 ---
 
-## 3. Efeitos Positivos Esperados
+## 3. Benefícios e Efeitos Positivos
 
-A introdução de frequência mínima e calendário previsível responde a uma lacuna operacional
-documentada em programas similares: a irregularidade de funcionamento é apontada como
-fator de erosão da base de consumidores e de redução do faturamento dos empreendimentos
-participantes. O próprio Circuito Carioca ilustrou esse efeito positivamente — após a
-ampliação do programa, as feiras passaram de quinzenais a semanais, consolidando hábito
-de consumo local e ampliando a renda dos artesãos envolvidos (Prefeitura Rio, 2021).
-Evidências de experiências como as feiras solidárias no Cariri Cearense confirmam que a
-regularidade de funcionamento, combinada com localização em espaços de alta circulação,
-gera ganhos simultâneos em renda, visibilidade e articulação entre produtores
-(Cariri Cearense, 2024).
+A regularidade e a estruturação de feiras de economia solidária produzem impacto mensurável na renda dos empreendedores participantes. O Circuito Carioca de Artesanato registrou crescimento de 52% no volume de vendas em um único ano, passando de aproximadamente R$ 1,9 milhão em 2015 para R$ 2,9 milhões em 2016 (PREFEITURA DO RIO. "Artesãos do Rio Ecosol fazem sucesso em meio a crise", Prefeitura Rio, 2016). A própria Secretaria Municipal de Trabalho e Renda reconheceu, em setembro de 2021, que a transição de periodicidade quinzenal para semanal amplia a renda e fideliza consumidores, formalizando a mudança por ato administrativo (PREFEITURA DO RIO; SMTR. "Secretaria de Trabalho e Renda recadastra produtores do Circuito Carioca", Prefeitura Rio, 2021). Pesquisa acadêmica corrobora esse diagnóstico ao demonstrar que feiras estruturadas geram "ganhos multidimensionais" superiores às formas informais de comercialização (SILVA, A. L. F. "A metodologia de construção das feiras de economia solidária e seu impacto sobre os ganhos", Mundo do Trabalho Contemporâneo, UnB, 2017).
 
-A padronização de barracas, documentada em municipalidades como Belém/PA e Olímpia/SP,
-reduz perdas por exposição inadequada, eleva a percepção de profissionalismo pelo público
-e fideliza o consumidor (Sansuy Blog, 2023). No contexto do Circuito, a padronização
-funciona ainda como nivelador de condições entre empreendimentos de diferentes capacidades
-de investimento.
+O calendário fixo e a padronização de infraestrutura operam como mecanismos de construção de credibilidade junto ao consumidor. A padronização das barracas faz com que "consumidores associem a imagem do lugar à qualidade dos produtos", elevando a fidelização (SANSUY. "Padronização de feira livre: saiba por que é uma boa iniciativa", Blog Sansuy, 2023). O caso do Circuito Arariboia, em Niterói, ilustra o efeito combinado dessas variáveis: 216 feiras realizadas em 2022, base de empreendedores expandida de 300 para 600 participantes e R$ 2 milhões em vendas no período (PREFEITURA DE NITERÓI. "Feiras de Economia Solidária movimentaram mais de R$2 milhões em 2022", Prefeitura Niterói, 2022).
 
-A autorização de patrocínio privado com veiculação de marca diversifica as fontes de custeio
-sem transferir controle editorial ou de curadoria ao patrocinador. O modelo está juridicamente
-sustentado pela Lei Federal nº 8.313/1991 (Lei Rouanet) e leis municipais análogas de
-renúncia fiscal de ISSQN, com precedente operacional em editais como o do SEBRAE-MA
-(2024), que apoiou eventos de pequeno porte com até R$ 20 mil por projeto. O patrocínio de
-eventos públicos constitui ferramenta estratégica de retorno mensurável para o setor privado
-(Bezerra, s.d.), tornando a proposta atrativa sem onerar o orçamento municipal.
-
-O conjunto das alterações alinha-se com as diretrizes da Política Nacional de Economia
-Solidária, instituída pela Lei Federal nº 14.867/2024, que prevê, em seu art. 5º, incisos III e
-IV, ações de fomento à comercialização por meio de feiras, mercados e outros canais solidários.
+A viabilidade financeira do modelo proposto no PL 74/2025 apoia-se em arranjo público-privado respaldado pela doutrina jurídica e pelo ordenamento vigente. O patrocínio privado à Administração Pública permite expansão de serviços, fomento econômico e economia de recursos públicos sem comprometer a titularidade estatal da iniciativa (PRANDINO. "O patrocínio privado em favor da Administração Pública como instrumento de oferta de utilidades de interesse coletivo", IBDA, 2021). Esse arranjo encontra suporte normativo na Lei nº 15.068/2024, que instituiu a Política Nacional de Economia Solidária — denominada Lei Paul Singer —, estabelecendo diretrizes federais para o fomento a empreendimentos solidários, conferindo respaldo jurídico nacional a iniciativas municipais como o Circuito Carioca (PRESIDÊNCIA DA REPÚBLICA. "Lei nº 15.068/2024 — Política Nacional de Economia Solidária (Lei Paul Singer)", Diário Oficial da União, 2024).
 
 ---
 
-## 4. Ressalvas Técnicas para Regulamentação
+## 4. Ressalvas Técnicas
 
-A análise não identificou objeções técnicas que recomendem restrição à proposta. As
-ressalvas a seguir são de natureza estritamente operacional e destinam-se a orientar o
-ato regulamentador, sem alterar o mérito favorável da proposição.
+A análise não identificou objeções técnicas de relevo que comprometam a aprovação do PL 74/2025. As ressalvas a seguir são de natureza regulamentar e destinam-se a orientar a fase de implementação.
 
-**Gargalo sanitário para alimentos artesanais.** O § 7º do art. 1º sujeita os produtos
-alimentícios artesanais às normas da Vigilância Sanitária Municipal (IVISA-Rio), sem
-estabelecer prazo para que essa autoridade edite a regulamentação específica nem criar
-regime simplificado para os produtores do Circuito. No quadro normativo vigente, a
-comercialização de alimentos processados artesanais em feiras pode exigir Licença Sanitária
-de Atividades Transitórias (LSAT), com prazo máximo de 180 dias, ou Registro de
-Estabelecimento de Produção Agropecuária (REPA) para produtos como conservas, queijos
-e defumados, conforme a Portaria IVISA-RIO nº 569/2023 e a Resolução SES-RJ nº 2191/2020.
-A ausência de prazo explícito para regulamentação cria lacuna entre a publicação da lei e
-a edição da norma sanitária. Recomenda-se que o ato regulamentador preveja prazo
-determinado — referência: 90 a 180 dias, padrão usual em regulamentações municipais —
-para a CVS/RJ editar norma específica, garantindo previsibilidade aos feirantes.
+Três pontos merecem atenção na edição dos atos normativos subsequentes. **Primeiro**, o § 7º do art. 1º condiciona a comercialização de alimentos artesanais à regulamentação específica do IVISA-Rio, sem fixar prazo para sua edição; o intervalo entre a publicação da lei e a vigência da norma sanitária pode gerar insegurança jurídica para os permissionários, dado que a Licença Sanitária de Atividades Transitórias (LSAT) — obrigatória para atividades alimentares em feiras — exige, além do licenciamento em si, a conclusão do curso de Boas Práticas de Manipulação de Alimentos, conforme a Portaria IVISA-RIO nº 569/2023 (IVISA-RIO. "Portaria IVISA-RIO nº 569/2023", Prefeitura do Rio de Janeiro, 2023); recomenda-se a inclusão de prazo máximo — sugerido em noventa dias — no decreto regulamentador. **Segundo**, a exigência de frequência mínima e calendário obrigatório impõe encargos operacionais ao Fórum Municipal de Economia Solidária, entidade sem personalidade jurídica de direito público e sem dotação orçamentária própria; recomenda-se que o regulamento designe secretaria-executiva no âmbito da SMDE para suporte logístico. **Terceiro**, o art. 3º atribui competência para emissão de "Nada a Opor" sem identificar o órgão responsável; considerando que o Decreto Rio nº 48.753/2021 atribui à SEOP a competência primária para autorizar eventos em espaços públicos (PREFEITURA DO RIO DE JANEIRO. "Decreto Rio nº 48.753/2021", Diário Oficial do Município, 2021), e que o sistema Rio Mais Fácil Eventos demanda pareceres de múltiplos órgãos, a regulamentação deve nomear expressamente o órgão emissor e estabelecer prazo e fluxo de manifestação entre secretarias.
 
-**Suporte operacional ao Fórum Municipal.** O § 3º do art. 1º, combinado com o art. 6º-A,
-impõe ao Fórum Municipal de Economia Solidária — entidade sem personalidade jurídica de
-direito público, operando em parceria com órgãos municipais nos termos do § 2º — obrigações
-de execução recorrente. Recomenda-se que o decreto regulamentador especifique o mecanismo
-de suporte operacional e financeiro do Poder Público para o cumprimento da frequência mínima
-e inclua cláusula de força maior para situações que inviabilizem a realização dos eventos.
-
-**Designação do órgão competente para o "Nada a Opor".** O art. 3º alterado não identifica
-qual órgão municipal é competente para emitir o Nada a Opor, o que pode gerar conflito de
-atribuições entre SMDE, SMU e SEOP em eventos em logradouros públicos, dado o fluxo
-multiagencial de aprovação previsto no sistema Rio Mais Fácil Eventos (Portal 1746, 2025).
-Recomenda-se que o ato regulamentador designe expressamente o órgão emissor e o prazo
-para manifestação.
+Nenhuma dessas ressalvas constitui óbice à aprovação do projeto; tratam-se de recomendações destinadas a tornar a implementação mais célere e segura para os agentes econômicos envolvidos.
 
 ---
 
 ## 5. Contexto e Dados
 
-A economia solidária tem expressão econômica documentada no Rio de Janeiro e no Brasil.
-Mapeamento nacional conduzido pela SENAES/IPEA identificou 19.708 empreendimentos
-econômicos solidários distribuídos em 2.713 municípios, com 1.423.631 participantes
-(SENAES/IPEA, 2016). No Rio de Janeiro, são 1.343 empreendimentos cadastrados no CADSOL,
-sendo o estado o 5º do país em número de registros (Agência Brasil, 2017). No setor de
-artesanato — núcleo do Circuito Carioca —, o SEBRAE estima que a atividade representa
-aproximadamente 3% do PIB nacional, com faturamento de R$ 102 bilhões e envolvimento de
-8,5 milhões de artesãos, 77% mulheres (SEBRAE, 2024).
+O PL 74/2025 insere-se em movimento legislativo mais amplo de consolidação da economia solidária como política pública. No plano nacional, o setor compreende 20.662 empreendimentos econômicos solidários (EES) e aproximadamente 1,423 milhão de trabalhadores (IPEA; SENAES. "Os Novos Dados do Mapeamento de Economia Solidária no Brasil", IPEA, 2016). O artesanato, segmento central do projeto, reúne 8,5 milhões de artesãos, dos quais 77% são mulheres, movimentando cerca de R$ 50 bilhões anuais — aproximadamente 3% do PIB nacional (SEBRAE; CRAB. "Artesanato: uma economia tecida a mãos", Agência Sebrae, 2024).
 
-Municípios que regulamentaram feiras de economia solidária obtiveram resultados positivos
-documentados: em Belo Horizonte, a Lei 10.152/2011 estruturou 260 grupos e 780 membros,
-com 95% de participação feminina (Prefeitura BH, 2024); em São Paulo, a Lei 17.587/2021
-estabeleceu obrigação de convite a empreendimentos solidários em todos os eventos
-municipais (Câmara Municipal SP, 2021); em Curitiba, feiras fixas operam ininterruptamente
-desde 2014 (Cefuria, 2024). O padrão comparativo aponta para aumento de formalizações,
-predominância de mulheres no acesso à renda e ocupação qualificada do espaço público.
+No Rio de Janeiro, o Circuito Carioca de Economia Solidária já demonstra a viabilidade do modelo: mais de 100 empreendimentos solidários, aproximadamente 300 artesãos organizados em 19 Redes e 13 ou mais pontos fixos mensais distribuídos pelo município, com 90% dos participantes sendo mulheres — dado que reforça a dimensão de gênero subjacente ao PL 74/2025 (CÂMARA MUNICIPAL DO RIO DE JANEIRO. "Proposta fortalece Circuito Carioca de Economia Solidária", Câmara Municipal RJ, 2025). Municípios que regulamentaram feiras de economia solidária — como Belo Horizonte (Lei 10.152/2011) e Curitiba (Lei 14.786/2016) — registraram expansão de participantes, consolidação de pontos fixos e maior integração com compras públicas (PREFEITURA DE BELO HORIZONTE. "Feira da Economia Solidária terá ponto fixo no Centro a partir de março", Prefeitura BH, 2024).
 
 ---
 
 ## 6. Conclusão
 
-Portanto, verificada a compatibilidade das alterações e acréscimos propostos com o escopo
-e os objetivos da Lei nº 7.008/2021, sem que se identifiquem conflitos com a legislação
-municipal vigente ou impactos negativos sobre a execução da política de economia solidária
-no Município, esta Subsecretaria posiciona-se em sentido de **nada a opor** ao
-PL nº 74/2025, com a recomendação de que o ato regulamentador contemple:
-(i) prazo determinado para a CVS/RJ editar norma sanitária específica para alimentos
-artesanais;
-(ii) designação expressa do órgão competente para emissão do "Nada a Opor" previsto no
-art. 3º alterado; e
-(iii) mecanismo de suporte operacional e financeiro da Prefeitura ao Fórum Municipal para
-cumprimento das frequências mínimas estabelecidas.
+Portanto, verificada a compatibilidade das alterações e acréscimos propostos com o escopo e os objetivos da Lei nº 7.008/2021, sem que se identifiquem conflitos com a legislação municipal vigente ou impactos negativos sobre a execução da política de economia solidária no Município, esta Subsecretaria posiciona-se em sentido de **nada a opor** ao PL nº 74/2025, com a recomendação de que o ato regulamentador contemple: (i) prazo para o IVISA-Rio editar norma sanitária específica para alimentos artesanais, inclusive regulamentando o fluxo simplificado de obtenção da LSAT para participantes do Circuito; e (ii) designação expressa do órgão competente para emissão do "Nada a Opor" previsto no art. 3º, com estabelecimento de prazo e fluxo intersetorial.
