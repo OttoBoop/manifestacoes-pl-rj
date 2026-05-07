@@ -69,7 +69,7 @@ PDF do PL
 
 ## Estado atual
 
-**Próximo passo:** P4 — git push final com correções de auditoria aplicadas ⏳
+**Próximo passo:** PROOF-OF-CONCEPT CONCLUÍDO — pipeline validado para PL 74/2025
 
 | Passo | Status | Observação |
 |-------|--------|------------|
@@ -77,7 +77,7 @@ PDF do PL
 | P1 — notebooklm setup | ✅ | 6 fontes adicionadas, NB respondendo queries |
 | P2 — agentic_research | ✅ | 8 agentes, NB-first, citações formais, costura concluída |
 | P3 — audit_sources | ✅ | 20 citações auditadas, 8 decisões aplicadas autonomamente |
-| P4 — git push | ⏳ | Commit com correções pendente |
+| P4 — git push | ✅ | commit ec0e154 — todas as correções no repo |
 
 ---
 
