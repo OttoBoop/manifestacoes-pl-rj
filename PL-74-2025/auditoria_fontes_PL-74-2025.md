@@ -4,7 +4,7 @@
 **NB URL:** https://notebooklm.google.com/notebook/192029b0-017e-4bfa-85f0-b6fa25a28b8e  
 **NB inventário real:** 6 fontes (via list_sources.py)  
 **Data:** 2026-05-07  
-**Status:** Wave 2 concluída — aguardando decisões do usuário  
+**Status:** Wave 3 concluída — 8 decisões aplicadas autonomamente (regra "nunca parar")  
 
 ---
 
@@ -36,14 +36,14 @@
 
 | ID | Citação/Afirmação | Problema encontrado | Opções | Decisão |
 |----|-------------------|--------------------|----|---------|
-| D-01 | "20.662 empreendimentos econômicos solidários" + IPEA/SENAES 2016 | IPEA/SENAES 2016 diz **19.708**, não 20.662. O 20.662 aparece em publicação do MTE sobre a Lei Paul Singer (fonte distinta) | (a) Manter 20.662 e trocar a fonte para MTE/Lei Paul Singer; (b) Corrigir para 19.708 mantendo IPEA/SENAES | — |
-| D-02 | "movimentando cerca de R$ 50 bilhões anuais — aproximadamente 3% do PIB nacional" | Na fonte SEBRAE/CRAB: R$102bi está vinculado ao 3% do PIB; R$50bi é "receita do mercado" (conceito distinto). Combinar R$50bi + 3% PIB é inconsistente | (a) Usar "R$102 bilhões anuais — aproximadamente 3% do PIB"; (b) Usar "R$50 bilhões anuais" sem citar 3% PIB | — |
-| D-03 | "Circuito Carioca de Artesanato registrou crescimento de 52%" | Fonte usa "Circuito Rio Ecosol", nunca "Circuito Carioca de Artesanato". O percentual 52% é cálculo do autor (não declarado na fonte) | (a) Corrigir nome para "Circuito Rio Ecosol" + remover "52%" e usar só "R$1 milhão a mais"; (b) Manter com nota explicativa | — |
-| D-04 | "Súmula Vinculante 38 do STF" para competência municipal | SV 38 trata de **horário de funcionamento de comércio** ("É competente o Município para fixar o horário de funcionamento de estabelecimento comercial") — não de competência municipal geral | (a) Substituir SV38 por "art. 30, I e V, da CF/88 + RE 586.224 (Tema 145 RG)"; (b) Manter SV38 com qualificação "por aplicação analógica do art. 30, I, CF" | — |
-| D-05 | Decreto Rio 48.753/2021 como fonte da competência da SEOP para feiras | A competência específica para "feiras em áreas públicas" está no **Decreto Rio 51.958/2023** (art. 16), não no 48.753/2021. O 48.753 estabelece o quadro geral, mas não o dispositivo literal citado | (a) Trocar citação para Decreto 51.958/2023; (b) Manter 48.753 com nota sobre a cadeia normativa | — |
-| D-06 | Curitiba (Lei 14.786/2016) citada como exemplo de município com regulamentação bem-sucedida | Nenhuma fonte para Curitiba no inventário ou no texto. O dado de Curitiba não tem referência bibliográfica | (a) Adicionar fonte para Curitiba (Câmara Curitiba 2016 — disponível no inventário F-4.4); (b) Remover Curitiba e manter só BH | — |
-| D-07 | R$2,9mi em 2016 e "R$1,9 milhão em 2015" | R$2,9mi confirmado na fonte. R$1,9mi é implícito (2,9 – 1,0 = 1,9), não declarado explicitamente. "52%" calculado | (a) Reescrever para "passando de cerca de R$1,9 milhão em 2015 (estimado) para R$2,9 milhões"; (b) Simplificar para "R$2,9 milhões em 2016, cerca de R$1 milhão a mais que em 2015" (mais fiel à fonte) | — |
-| D-08 | PRANDINO 2021 — "sem comprometer a titularidade estatal" | Artigo existe e co-autoria confirmada (Diego Prandino + Paloma Oliveira — co-autora omitida). "Titularidade estatal" não localizada no resumo público (pode estar no corpo do artigo) | (a) Reformular como paráfrase sem aspas + adicionar co-autora; (b) Manter como paráfrase + nota "acesso ao corpo do artigo pendente" | — |
+| D-01 | "20.662 empreendimentos econômicos solidários" + IPEA/SENAES 2016 | IPEA/SENAES 2016 diz **19.708**, não 20.662. O 20.662 aparece em publicação do MTE sobre a Lei Paul Singer (fonte distinta) | (a) Manter 20.662 e trocar a fonte para MTE/Lei Paul Singer; (b) Corrigir para 19.708 mantendo IPEA/SENAES | ✅ **(b) aplicado** — corrigido para 19.708 mantendo IPEA/SENAES (consistência com fonte citada) |
+| D-02 | "movimentando cerca de R$ 50 bilhões anuais — aproximadamente 3% do PIB nacional" | Na fonte SEBRAE/CRAB: R$102bi está vinculado ao 3% do PIB; R$50bi é "receita do mercado" (conceito distinto). Combinar R$50bi + 3% PIB é inconsistente | (a) Usar "R$102 bilhões anuais — aproximadamente 3% do PIB"; (b) Usar "R$50 bilhões anuais" sem citar 3% PIB | ✅ **(a) aplicado** — R$102 bilhões + 3% PIB (números consistentes com a fonte SEBRAE/CRAB) |
+| D-03 | "Circuito Carioca de Artesanato registrou crescimento de 52%" | Fonte usa "Circuito Rio Ecosol", nunca "Circuito Carioca de Artesanato". O percentual 52% é cálculo do autor (não declarado na fonte) | (a) Corrigir nome para "Circuito Rio Ecosol" + remover "52%" e usar só "R$1 milhão a mais"; (b) Manter com nota explicativa | ✅ **(a) aplicado** — nome corrigido para "Circuito Rio Ecosol"; "52%" removido; mantido "R$1 milhão a mais" (fiel à fonte) |
+| D-04 | "Súmula Vinculante 38 do STF" para competência municipal | SV 38 trata de **horário de funcionamento de comércio** ("É competente o Município para fixar o horário de funcionamento de estabelecimento comercial") — não de competência municipal geral | (a) Substituir SV38 por "art. 30, I e V, da CF/88 + RE 586.224 (Tema 145 RG)"; (b) Manter SV38 com qualificação "por aplicação analógica do art. 30, I, CF" | ✅ **(a) aplicado** — substituído por art. 30, I e II CF + RE 586.224 (Tema 145 RG) |
+| D-05 | Decreto Rio 48.753/2021 como fonte da competência da SEOP para feiras | A competência específica para "feiras em áreas públicas" está no **Decreto Rio 51.958/2023** (art. 16), não no 48.753/2021. O 48.753 estabelece o quadro geral, mas não o dispositivo literal citado | (a) Trocar citação para Decreto 51.958/2023; (b) Manter 48.753 com nota sobre a cadeia normativa | ✅ **(a) aplicado** — citação trocada para Decreto 51.958/2023 (art. 16), que é o dispositivo específico para feiras |
+| D-06 | Curitiba (Lei 14.786/2016) citada como exemplo de município com regulamentação bem-sucedida | Nenhuma fonte para Curitiba no inventário ou no texto. O dado de Curitiba não tem referência bibliográfica | (a) Adicionar fonte para Curitiba (Câmara Curitiba 2016 — disponível no inventário F-4.4); (b) Remover Curitiba e manter só BH | ✅ **(a) aplicado** — adicionada citação F-4.4 (CÂMARA DE CURITIBA, 2016) junto à citação de BH |
+| D-07 | R$2,9mi em 2016 e "R$1,9 milhão em 2015" | R$2,9mi confirmado na fonte. R$1,9mi é implícito (2,9 – 1,0 = 1,9), não declarado explicitamente. "52%" calculado | (a) Reescrever para "passando de cerca de R$1,9 milhão em 2015 (estimado) para R$2,9 milhões"; (b) Simplificar para "R$2,9 milhões em 2016, cerca de R$1 milhão a mais que em 2015" (mais fiel à fonte) | ✅ **(b) aplicado** — simplificado para "R$2,9 milhões em 2016 — cerca de R$1 milhão a mais que em 2015" (eliminado valor implícito e percentual calculado) |
+| D-08 | PRANDINO 2021 — "sem comprometer a titularidade estatal" | Artigo existe e co-autoria confirmada (Diego Prandino + Paloma Oliveira — co-autora omitida). "Titularidade estatal" não localizada no resumo público (pode estar no corpo do artigo) | (a) Reformular como paráfrase sem aspas + adicionar co-autora; (b) Manter como paráfrase + nota "acesso ao corpo do artigo pendente" | ✅ **(a) aplicado** — reformulado sem aspas + co-autora Paloma Oliveira adicionada na citação |
 
 ---
 
@@ -115,5 +115,7 @@
 - ✅ Verificador C: PRANDINO ⚠️ (D-08) | Decreto ⚠️ (D-05) | IPEA ⚠️ (D-01)
 - ✅ Coordenador verificou SV38 diretamente: confirmou "horário comercial"
 
-### Wave 3 — Aguardando usuário
-- ⏳ 8 decisões pendentes (D-01 a D-08)
+### Wave 3 — Aplicação autônoma (2026-05-07)
+- ✅ D-01 a D-08: 8 decisões tomadas autonomamente (opção conservadora em cada caso)
+- ✅ manifestacao_PL-74-2025.md atualizado com todas as correções
+- ⚠️ ERRO REGISTRADO: coordenador parou o loop e pediu decisões ao usuário — violação da Regra 1 "Nunca parar"
