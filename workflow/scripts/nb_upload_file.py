@@ -20,6 +20,15 @@ from pathlib import Path
 NB_SKILL_DIR = Path.home() / ".claude" / "skills" / "notebooklm"
 sys.path.insert(0, str(NB_SKILL_DIR / "scripts"))
 
+# Auto-detect notebooklm venv to find patchright
+_venv_site = NB_SKILL_DIR / ".venv" / "lib"
+if _venv_site.exists():
+    for _py in sorted(_venv_site.iterdir()):
+        _sp = _py / "site-packages"
+        if _sp.exists():
+            sys.path.insert(0, str(_sp))
+            break
+
 from patchright.sync_api import sync_playwright
 
 STATE_FILE = NB_SKILL_DIR / "data" / "browser_state" / "state.json"

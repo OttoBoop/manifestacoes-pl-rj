@@ -158,7 +158,7 @@ PDF do PL
 | W-1 | overlay modal bloqueando textarea | force=True + Escape antes de clicar | ✅ aplicado em ask_question.py |
 | W-2 | NB vazio, sem fontes | criar nb_add_source.py para adicionar URLs | ✅ concluído — 6/6 fontes adicionadas com sucesso |
 | W-3 | Coordenador parou loop p/ pedir decisões ao usuário | Tomar opção conservadora autonomamente, registrar, continuar | ✅ documentado como erro; regra reforçada |
-| W-4 | PDFs escaneados — pdftotext retorna só capa (~2000 chars) | Upload do PDF ao NB (Gemini faz OCR interno) via `nb_upload_file.py` | ✅ script criado em workflow/scripts/ |
+| W-4 | PDFs escaneados — pdftotext retorna só capa (~2000 chars) | Upload do PDF ao NB (Gemini faz OCR interno) via `nb_upload_file.py` | ✅ testado — NB indexou PL 1904/2026 escaneado e retornou conteúdo correto |
 
 ---
 
