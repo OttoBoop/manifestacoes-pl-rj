@@ -63,6 +63,6 @@
 
 | # | Tipo | Descrição | Ação recomendada |
 |---|------|-----------|-----------------|
-| ⚠️-1 | Número de lei | Duas referências encontradas para lei nacional de economia solidária: "14.867/2024" (briefing inicial) e "15.068/2024" (P1 + P2 via Planalto). P1 confirmou planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l15068.htm | Verificar no Planalto qual é o número correto |
-| ⚠️-2 | Faturamento artesanato | P4 (SEBRAE/CRAB 2024) informa R$50 bi/ano. Versão anterior de pesquisa indicava R$102 bi. Discrepância pode ser de metodologia ou ano de referência | Confirmar com URL F-4.2 |
-| ⚠️-3 | SILVA 2017 | Artigo acadêmico da UnB citado por P2 (F-2.5). URL de periódico fornecida. Verificar se o artigo existe e se o trecho "ganhos multidimensionais" está presente | Acessar URL F-2.5 |
+| ✅-1 | Número de lei | Confirmado: **Lei 15.068/2024** (Lei Paul Singer). "14.867" era erro do briefing inicial. Planalto.gov.br confirma l15068.htm | Resolvido — P3 audit confirmou |
+| ✅-2 | Faturamento artesanato | SEBRAE/CRAB 2024: R$102 bi/ano vinculado a ~3% PIB; R$50 bi era "receita do mercado" (conceito distinto). Manifestação corrigida para R$102 bi | Resolvido — D-02 aplicado |
+| ✅-3 | SILVA 2017 | Confirmado: artigo existe em Mundo do Trabalho Contemporâneo (UFBA/UnB), trecho "ganhos multidimensionais" presente. Autor é da UFBA, journal da UnB — citação corrigida | Resolvido — Wave 3 aplicado |

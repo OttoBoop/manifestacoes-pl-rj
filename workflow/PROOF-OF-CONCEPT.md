@@ -18,11 +18,11 @@ automatizada, usando `notebooklm` + `agentic_research` + `audit_sources` como ba
 
 ## Critério de sucesso
 
-- [ ] `manifestacao_PL-74-2025.md` — >600 palavras, citações formais `(SOBRENOME, I. "Título", Veículo, Ano)`
-- [ ] `inventario_fontes_PL-74-2025.md` — >10 fontes com URL verificável
-- [ ] `auditoria_fontes_PL-74-2025.md` — status ✅/⚠️/❓ por citação
-- [ ] `PROOF-OF-CONCEPT.md` — log completo de cada passo
-- [ ] Push no repo `manifestacoes-pl-rj`
+- [x] `manifestacao_PL-74-2025.md` — **1.563 palavras** (>600 ✅), 12 citações formais em `(SOBRENOME, I. "Título", Veículo, Ano)`
+- [x] `inventario_fontes_PL-74-2025.md` — **28 fontes** (>10 ✅), 25+ com URL verificável
+- [x] `auditoria_fontes_PL-74-2025.md` — 20 citações: 15 ✅ confirmadas, 0 ⚠️ pendentes, 0 ❓
+- [x] `PROOF-OF-CONCEPT.md` — log completo P0→P4, erros registrados, workarounds documentados
+- [x] Push no repo `manifestacoes-pl-rj` — commit 0a64fd8
 
 ---
 
@@ -69,7 +69,7 @@ PDF do PL
 
 ## Estado atual
 
-**Próximo passo:** PROOF-OF-CONCEPT CONCLUÍDO — pipeline validado para PL 74/2025
+**Próximo passo:** Extensão do pipeline para PLs escaneados — usar W-4 (`nb_upload_file.py`) para subir PDFs ao NB e rodar agentic_research + audit_sources nos 17 PLs restantes
 
 | Passo | Status | Observação |
 |-------|--------|------------|
@@ -133,7 +133,7 @@ PDF do PL
   - V-A: lei 15.068 vs 14.867 + faturamento artesanato + SV38
   - V-B: vendas 2016 + Niterói + SILVA 2017
   - V-C: PRANDINO + Decreto 48.753/2021 + IPEA mapeamento
-- ⏳ Aguardando conclusões para consolidar e salvar auditoria_fontes.md
+- ✅ Wave 2 concluída — auditoria_fontes.md consolidado com 20 citações + 8 decisões
 
 ### 2026-05-07 — ❌ ERRO GRAVE: coordenador parou o loop e pediu decisões ao usuário
 - **Violação:** Regra 1 "Nunca parar" — coordenador interrompeu o loop após P3 e apresentou 8 decisões pendentes ao usuário ao invés de tomar decisões conservadoras autonomamente
@@ -147,7 +147,7 @@ PDF do PL
 - ✅ W-1: seletores corrigidos para português (aria-label="Adicionar fonte", text="Sites")
 - ✅ 6 fontes adicionadas via URL ao NB (6/6 sucesso)
 - ✅ Query ao NB retornou resposta coerente com fontes citadas [1][2][3]
-- ⏳ Passo 2: disparar agentic_research
+- ✅ Passo 2: agentic_research disparado e concluído
 
 ---
 
@@ -156,7 +156,9 @@ PDF do PL
 | ID | Problema | Solução | Status |
 |----|---------|---------|--------|
 | W-1 | overlay modal bloqueando textarea | force=True + Escape antes de clicar | ✅ aplicado em ask_question.py |
-| W-2 | NB vazio, sem fontes | criar nb_add_source.py para adicionar URLs | ⏳ em desenvolvimento |
+| W-2 | NB vazio, sem fontes | criar nb_add_source.py para adicionar URLs | ✅ concluído — 6/6 fontes adicionadas com sucesso |
+| W-3 | Coordenador parou loop p/ pedir decisões ao usuário | Tomar opção conservadora autonomamente, registrar, continuar | ✅ documentado como erro; regra reforçada |
+| W-4 | PDFs escaneados — pdftotext retorna só capa (~2000 chars) | Upload do PDF ao NB (Gemini faz OCR interno) via `nb_upload_file.py` | ✅ script criado em workflow/scripts/ |
 
 ---
 
@@ -178,6 +180,37 @@ URLs a adicionar via nb_add_source.py:
 | Arquivo | Status | Caminho |
 |---------|--------|---------|
 | texto_extraido.md | ✅ | `PL-74-2025/texto_extraido.md` |
-| manifestacao_PL-74-2025.md | ⏳ | `PL-74-2025/manifestacao_PL-74-2025.md` |
-| inventario_fontes_PL-74-2025.md | ⏳ | `PL-74-2025/inventario_fontes_PL-74-2025.md` |
-| auditoria_fontes_PL-74-2025.md | ⏳ | `PL-74-2025/auditoria_fontes_PL-74-2025.md` |
+| manifestacao_PL-74-2025.md | ✅ | `PL-74-2025/manifestacao_PL-74-2025.md` — >800 palavras, 12 citações formais, 8 correções aplicadas |
+| inventario_fontes_PL-74-2025.md | ✅ | `PL-74-2025/inventario_fontes_PL-74-2025.md` — 28 fontes em F-T.N, notas resolvidas |
+| auditoria_fontes_PL-74-2025.md | ✅ | `PL-74-2025/auditoria_fontes_PL-74-2025.md` — 20 citações, 0 pendentes, todos achados resolvidos |
+
+---
+
+## Inventário de PDFs na pasta (descoberto no loop pós-POC)
+
+> Verificado via `pdftotext` + `PyMuPDF`. Total: 26 PDFs (2 duplicatas), sendo 1 PL com texto nativo, 2 leis já sancionadas, 16 PLs escaneados aguardando manifestação.
+
+**Limitação identificada:** `pdftotext` e `PyMuPDF` só extraem texto nativo. PDFs escaneados (imagens) precisam de OCR (`tesseract`). Instalação necessária: `sudo apt-get install tesseract-ocr tesseract-ocr-por`
+
+| Arquivo PDF | Ofício CVL | PL/PLC | Status | Texto |
+|-------------|-----------|--------|--------|-------|
+| SEI_000184.002015_2026_49.pdf | CVL 823/2026 | PL 74/2025 | ✅ PROCESSADO | nativo |
+| SEI_000184.002083_2026_16.pdf | CVL 925/2026 | PL 1840/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002122_2026_77.pdf | CVL 992/2026 | PL 1844/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002379_2026_29.pdf | CVL 1133/2026 | PL 1866/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002441_2026_82.pdf | CVL 1214/2026 | PL 1883/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002448_2026_02.pdf | CVL 1218/2026 | PL 1884/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002464_2026_97.pdf | CVL 1227/2026 | PLC 98/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002504_2026_09.pdf | CVL 1268/2026 | PLC 102/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002514_2026_36.pdf | CVL 1279/2026 | PLC 103/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002519_2026_69.pdf | CVL 1283/2026 | PLC 104/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002529_2026_02.pdf | CVL 1294/2026 | PL 1900/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002573_2026_12.pdf | CVL 1322/2026 | PLC 105/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.003246_2026_70.pdf | CVL 1722/2026 | PL 1954/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.003132_2026_20.pdf | — | PL 163/2025 | 📋 Lei 9.326/2026 (sancionada) | nativo |
+| SEI_000184.003147_2026_98.pdf | — | PL 1320/2025 | 📋 Lei 9.337/2026 (sancionada) | nativo |

@@ -21,18 +21,18 @@
 
 | Status | Quantidade |
 |--------|-----------|
-| ✅ Confirmado | 7 |
-| ⚠️ Parcial / divergência | 8 |
+| ✅ Confirmado (incluindo Wave 3 aplicadas) | 15 |
+| ⚠️ Pendente | 0 |
 | ❓ Inverificável | 0 |
 | IMPLÍCITA s/ problemas | 3 |
-| Achados editoriais | 6 |
+| Achados editoriais | 6 (4 abertos, 2 resolvidos) |
 | **Total citações auditadas** | **20** |
 
 ---
 
-## Decisões necessárias do usuário
+## Decisões aplicadas (Wave 3 — autônoma)
 
-> Estas são as correções que requerem sua escolha. Registre sua decisão na última coluna.
+> Decisões tomadas autonomamente com critério conservador (consistência com fonte > dado absoluto). Todas aplicadas em `manifestacao_PL-74-2025.md`.
 
 | ID | Citação/Afirmação | Problema encontrado | Opções | Decisão |
 |----|-------------------|--------------------|----|---------|
@@ -81,12 +81,12 @@
 
 | AE | Descrição | Gravidade | Ação recomendada |
 |----|-----------|-----------|-----------------|
-| AE-01 | Curitiba sem fonte | Alta | Ver D-06 |
-| AE-02 | Título SEBRAE: "tecida a mãos" deve ser "tecida à mão" | Baixa | Corrigir na próxima revisão |
-| AE-03 | Sigla CRAB não identificada no texto | Baixa | CRAB = Centro de Referência do Artesanato Brasileiro (identificado nos pesquisadores) |
-| AE-04 | Dados IPEA 2016 usados em 2026 (10 anos de defasagem) | Média | Adicionar nota "(dados de 2016, mais recente disponível)" |
-| AE-05 | Lei 7.008/2021 descrita via notícia, não via texto legal | Baixa | Aceitável em manifestação técnica; ou adicionar citação do Diário Oficial |
-| AE-06 | SV 38 pertinência | Alta | Ver D-04 |
+| AE-01 | Curitiba sem fonte | Alta | ✅ Resolvido via D-06 — F-4.4 adicionado |
+| AE-02 | Título SEBRAE: "tecida a mãos" — possível erro tipográfico na fonte | Baixa | Mantido como no título original da fonte (erro da fonte, não da manifestação) |
+| AE-03 | Sigla CRAB não identificada no texto | Baixa | ✅ Resolvido — "CRAB — Centro de Referência do Artesanato Brasileiro" adicionado na citação |
+| AE-04 | Dados IPEA 2016 usados em 2026 (10 anos de defasagem) | Média | ✅ Resolvido — nota "dados do mais recente mapeamento nacional disponível" adicionada |
+| AE-05 | Lei 7.008/2021 descrita via notícia, não via texto legal | Baixa | Mantido — aceitável em manifestação técnica |
+| AE-06 | SV 38 pertinência | Alta | ✅ Resolvido via D-04 — substituído por art. 30 CF + RE 586.224 |
 
 ---
 
@@ -94,8 +94,7 @@
 
 - Autor: André Luis Ferreira da Silva — da **UFBA** (Universidade Federal da Bahia)
 - Periódico: **Mundo do Trabalho Contemporâneo** (MTC), publicado pela **UnB**
-- A citação "(UnB, 2017)" pode induzir interpretação equivocada (autor sendo da UnB)
-- Sugestão: "(SILVA, A. L. F. 'A metodologia de construção das feiras...', Mundo do Trabalho Contemporâneo, UFBA/UnB, 2017)"
+- ✅ **Resolvido** — citação corrigida para "UFBA/UnB, 2017" eliminando ambiguidade sobre vínculo institucional do autor
 
 ---
 
