@@ -69,7 +69,7 @@ PDF do PL
 
 ## Estado atual
 
-**Próximo passo:** Extensão do pipeline para PLs escaneados — usar W-4 (`nb_upload_file.py`) para subir PDFs ao NB e rodar agentic_research + audit_sources nos 17 PLs restantes
+**Próximo passo:** Pipeline completo — v1 e v2 entregues para PL 74/2025
 
 | Passo | Status | Observação |
 |-------|--------|------------|
@@ -78,6 +78,7 @@ PDF do PL
 | P2 — agentic_research | ✅ | 8 agentes, NB-first, citações formais, costura concluída |
 | P3 — audit_sources | ✅ | 20 citações auditadas, 8 decisões aplicadas autonomamente |
 | P4 — git push | ✅ | commit ec0e154 — todas as correções no repo |
+| V2 — reescrita econômica | ✅ | `PL-74-2025-v2/` — 971 palavras, sem incisos, foco em renda/mercado |
 
 ---
 
