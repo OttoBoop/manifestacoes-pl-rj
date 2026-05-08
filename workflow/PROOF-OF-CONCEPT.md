@@ -79,6 +79,8 @@ PDF do PL
 | P3 — audit_sources | ✅ | 20 citações auditadas, 8 decisões aplicadas autonomamente |
 | P4 — git push | ✅ | commit ec0e154 — todas as correções no repo |
 | V2 — reescrita econômica | ✅ | `PL-74-2025-v2/` — 971 palavras, sem incisos, foco em renda/mercado |
+| V3 — PDF 1 página | ✅ | `PL-74-2025-v2/manifestacao_PL-74-2025-v3.pdf` — 354 palavras, Times 12, 1.5 |
+| Aplicação a 4 novos PLs | ✅ | PL 1883, 1844, 1795, 1934 — 6 artefatos cada (texto + 3 .md + 1 short + 1 PDF) |
 
 ---
 
