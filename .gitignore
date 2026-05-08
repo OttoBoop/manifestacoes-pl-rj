@@ -1,4 +1,5 @@
 *.pdf
+!PL-74-2025-v2/manifestacao_PL-74-2025-v3.pdf
 .DS_Store
 __pycache__/
 *.pyc
