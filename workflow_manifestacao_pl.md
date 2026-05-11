@@ -1,5 +1,17 @@
 # Workflow: Manifestação Técnica Automatizada sobre PLs
 
+> ⚠️ **Documento histórico — versão V1 do método (mai/2026).**  
+> Este documento descreve a abordagem **jurídica** original (V1) do projeto, com foco em exegese de incisos e análise de competência constitucional. Esse foco foi **superado** após feedback dos colaboradores ("a SMDE dá opinião econômica, não jurídica").  
+>  
+> **Para o método atual** e para replicar o fluxo, consultar:  
+> - [README.md](README.md) — documentação completa e didática das 4 versões do método (V1→V4) com receita passo a passo  
+> - [workflow/PROOF-OF-CONCEPT.md](workflow/PROOF-OF-CONCEPT.md) — log de execução completo e workarounds  
+> - [workflow/V4-COMPARACAO.md](workflow/V4-COMPARACAO.md) — tabela comparativa V3 vs V4 caso a caso  
+>  
+> Este documento é preservado para referência histórica da evolução do método.
+
+---
+
 **Versão:** 1.0 — mai/2026  
 **Autor:** Otávio Bopp (com suporte do Claude Code / Ariadne)  
 **Contexto:** Subsecretaria — análise de Projetos de Lei da Câmara Municipal do Rio de Janeiro
