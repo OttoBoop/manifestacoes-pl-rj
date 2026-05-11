@@ -81,6 +81,7 @@ PDF do PL
 | V2 — reescrita econômica | ✅ | `PL-74-2025-v2/` — 971 palavras, sem incisos, foco em renda/mercado |
 | V3 — PDF 1 página | ✅ | `PL-74-2025-v2/manifestacao_PL-74-2025-v3.pdf` — 354 palavras, Times 12, 1.5 |
 | Aplicação a 4 novos PLs | ✅ | PL 1883, 1844, 1795, 1934 — 6 artefatos cada (texto + 3 .md + 1 short + 1 PDF) |
+| +2 PLs (rodada 2) | ✅ | PL 1884 (Eixo Econômico Municipal — lei-mãe), PL 1954 (Fundo Reparação População Negra) |
 
 ---
 
