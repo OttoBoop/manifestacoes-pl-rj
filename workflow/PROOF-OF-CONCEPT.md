@@ -83,6 +83,7 @@ PDF do PL
 | Aplicação a 4 novos PLs | ✅ | PL 1883, 1844, 1795, 1934 — 6 artefatos cada (texto + 3 .md + 1 short + 1 PDF) |
 | +2 PLs (rodada 2) | ✅ | PL 1884 (Eixo Econômico Municipal — lei-mãe), PL 1954 (Fundo Reparação População Negra) |
 | +3 PLs (rodada 3) | ✅ | PL 1840 (gratuidade orçamentos), PL 1866 (gorjeta/música), PL 1900 (ISS Assessoria — fecha trilogia com 1883/1884) |
+| V4 (pipeline adversarial) | ✅ | Pró + Contra + Síntese em subpasta `/v4/` para os 9 PLs (74/2025, 1795, 1840, 1844, 1866, 1883, 1884, 1900, 1934, 1954); comparação em `workflow/V4-COMPARACAO.md` |
 
 ---
 
