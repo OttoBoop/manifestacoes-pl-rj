@@ -1,0 +1,16 @@
+# Fontes curadas V5 — PL-1904/2026
+# Tema: Atendimento bancário para PcD e Idosos em terminais de autoatendimento
+# Requisito: ≥6 URLs, ≥2 em inglês
+# ---
+
+# T1 — Legal/Regulatório
+https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm
+https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
+https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm
+
+# T2 — Dados institucionais brasileiros
+https://www.bcb.gov.br/publicacoes/relincfinanceira
+
+# T2 — Internacionais (EN — obrigatório ≥2)
+https://www.who.int/news-room/fact-sheets/detail/ageing-and-health
+https://www.consumerfinance.gov/consumer-tools/fraud/resources/financial-exploitation-older-adults/

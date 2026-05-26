@@ -84,6 +84,8 @@ PDF do PL
 | +2 PLs (rodada 2) | ✅ | PL 1884 (Eixo Econômico Municipal — lei-mãe), PL 1954 (Fundo Reparação População Negra) |
 | +3 PLs (rodada 3) | ✅ | PL 1840 (gratuidade orçamentos), PL 1866 (gorjeta/música), PL 1900 (ISS Assessoria — fecha trilogia com 1883/1884) |
 | V4 (pipeline adversarial) | ✅ | Pró + Contra + Síntese em subpasta `/v4/` para os 9 PLs (74/2025, 1795, 1840, 1844, 1866, 1883, 1884, 1900, 1934, 1954); comparação em `workflow/V4-COMPARACAO.md` |
+| V5 — Workflow setup | ✅ | 3 docs criados em `workflow/V5/`: LONG_TERM_GOALS.md, SHORT_TERM_GOALS.md, V5-VS-V3.md. Auditoria V3: NB vazio em 9/11 PLs, PT-only, 0 citações internacionais, audit_sources nunca aplicado |
+| V5 — Lote A (pendentes) | ⏳ | PL-1904 (texto existe), PL-1897, PLC-98, PLC-102, PLC-103, PLC-104, PLC-105, PLC-106, PL-1921, PL-1826 + 1 desconhecido (IND CMRJ 06549/2025) |
 
 ---
 
@@ -103,6 +105,16 @@ PDF do PL
 ---
 
 ## Log de execução
+
+### 2026-05-26 — V5 inicializado: auditoria V3 + novo workflow
+
+- ✅ Auditoria V3 concluída: NB vazio em 9/10 PLs, PT-only → 0 citações internacionais, parallel agents crasharam (EC-5/W-5) em todos os 9, audit_sources aplicado em 1/10 PLs, carry-through 37%, posição "contrário" em PL-1934 rejeitada por Marcel
+- ✅ `workflow/V5/` criada com 3 documentos: `LONG_TERM_GOALS.md`, `SHORT_TERM_GOALS.md`, `V5-VS-V3.md`
+- ✅ W-6 documentado: retry ×2 (timeout 8min) antes de coordenador-direto
+- ✅ Inventário de PDFs atualizado: 10 PLs marcados como ✅ PROCESSADO (V3); 3 novos SEI_001000 identificados
+- ⏳ Lote A em andamento: PL-1904 (primeiro a processar em V5), seguido de PL-1897, PLC-98, PLC-102, PLC-103, PLC-104, PLC-105, PLC-106, PL-1921, PL-1826, ❓ IND CMRJ 06549/2025
+
+---
 
 ### 2026-05-07 07:30 — P0: Extração PDF e setup inicial
 - ✅ PDF extraído: `SEI_000184.002015_2026_49.pdf`
@@ -165,6 +177,8 @@ PDF do PL
 | W-2 | NB vazio, sem fontes | criar nb_add_source.py para adicionar URLs | ✅ concluído — 6/6 fontes adicionadas com sucesso |
 | W-3 | Coordenador parou loop p/ pedir decisões ao usuário | Tomar opção conservadora autonomamente, registrar, continuar | ✅ documentado como erro; regra reforçada |
 | W-4 | PDFs escaneados — pdftotext retorna só capa (~2000 chars) | Upload do PDF ao NB (Gemini faz OCR interno) via `nb_upload_file.py` | ✅ testado — NB indexou PL 1904/2026 escaneado e retornou conteúdo correto |
+| W-5 | Agentes paralelos crasharam em todos os 9 PLs V3 | Coordenador-direto como fallback (EC-5); usado em toda a rodada V3 | ⚠️ V3 workaround documentado — causou pesquisa mais rasa |
+| W-6 | Agentes paralelos crash em V5 | Retry ×2 com timeout 8min antes de coordenador-direto; registrar como fallback de último recurso | ✅ protocolo V5 — não foi testado ainda |
 
 ---
 
@@ -201,22 +215,25 @@ URLs a adicionar via nb_add_source.py:
 | Arquivo PDF | Ofício CVL | PL/PLC | Status | Texto |
 |-------------|-----------|--------|--------|-------|
 | SEI_000184.002015_2026_49.pdf | CVL 823/2026 | PL 74/2025 | ✅ PROCESSADO | nativo |
-| SEI_000184.002083_2026_16.pdf | CVL 925/2026 | PL 1840/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002122_2026_77.pdf | CVL 992/2026 | PL 1844/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002379_2026_29.pdf | CVL 1133/2026 | PL 1866/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002441_2026_82.pdf | CVL 1214/2026 | PL 1883/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002448_2026_02.pdf | CVL 1218/2026 | PL 1884/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002464_2026_97.pdf | CVL 1227/2026 | PLC 98/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002504_2026_09.pdf | CVL 1268/2026 | PLC 102/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002514_2026_36.pdf | CVL 1279/2026 | PLC 103/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002519_2026_69.pdf | CVL 1283/2026 | PLC 104/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002529_2026_02.pdf | CVL 1294/2026 | PL 1900/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002573_2026_12.pdf | CVL 1322/2026 | PLC 105/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ⏳ aguarda | escaneado |
-| SEI_000184.003246_2026_70.pdf | CVL 1722/2026 | PL 1954/2026 | ⏳ aguarda | escaneado |
+| SEI_000184.002083_2026_16.pdf | CVL 925/2026 | PL 1840/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_000184.002122_2026_77.pdf | CVL 992/2026 | PL 1844/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_000184.002379_2026_29.pdf | CVL 1133/2026 | PL 1866/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_000184.002441_2026_82.pdf | CVL 1214/2026 | PL 1883/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_000184.002448_2026_02.pdf | CVL 1218/2026 | PL 1884/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_000184.002464_2026_97.pdf | CVL 1227/2026 | PLC 98/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002504_2026_09.pdf | CVL 1268/2026 | PLC 102/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002514_2026_36.pdf | CVL 1279/2026 | PLC 103/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002519_2026_69.pdf | CVL 1283/2026 | PLC 104/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002529_2026_02.pdf | CVL 1294/2026 | PL 1900/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_000184.002573_2026_12.pdf | CVL 1322/2026 | PLC 105/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ⏳ aguarda V5 (texto extraído) | escaneado |
+| SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ✅ PROCESSADO (V3) ⚠️ posição contrária — reescrever V5 | escaneado |
+| SEI_000184.003246_2026_70.pdf | CVL 1722/2026 | PL 1954/2026 | ✅ PROCESSADO (V3) | escaneado |
+| SEI_001000.003088_2026_21.pdf | — | ❓ Ofício IND CMRJ 06549/2025 (Vereador Leonel de Esquerda) | ❓ PL desconhecido — aguarda OCR via NB | escaneado |
+| SEI_001000.003809_2026_01.pdf | SMG 1526/2026 | PL 1795/2026 (roteamento) | ✅ PL-1795 PROCESSADO (V3) — este PDF é duplicata de roteamento | escaneado |
+| SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ⏳ aguarda V5 | escaneado |
 | SEI_000184.003132_2026_20.pdf | — | PL 163/2025 | 📋 Lei 9.326/2026 (sancionada) | nativo |
 | SEI_000184.003147_2026_98.pdf | — | PL 1320/2025 | 📋 Lei 9.337/2026 (sancionada) | nativo |
