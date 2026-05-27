@@ -1,0 +1,18 @@
+# Fontes curadas V5 — PL-1897/2026
+# Tema: Voluntariado, ODS/Agenda 2030, prêmios de reconhecimento de voluntários
+# Requisito: ≥6 URLs, ≥2 em inglês
+# ---
+
+# T1 — Legal/Regulatório brasileiro
+https://leismunicipais.com.br/a/rj/r/rio-de-janeiro/lei-ordinaria/2021/691/6906/lei-ordinaria-n-6906-2021-institui-o-programa-de-voluntariado-no-ambito-do-municipio-do-rio-de-janeiro-e-da-outras-providencias
+https://www.planalto.gov.br/ccivil_03/leis/l9608.htm
+
+# T2 — Dados e contexto brasileiro
+https://voluntarios.com.br/pesquisa-voluntariado-brasil/
+
+# T3 — ODS/Agenda 2030 internacionais (EN — obrigatório ≥2)
+https://sdgs.un.org/goals
+https://www.un.org/en/observances/volunteering-day
+
+# T4 — Experiências comparativas e evidências
+https://www.unv.org/sites/default/files/UNV_State_of_the_Worlds_Volunteerism_Report_2018.pdf

@@ -222,13 +222,13 @@ URLs a adicionar via nb_add_source.py:
 | SEI_000184.002448_2026_02.pdf | CVL 1218/2026 | PL 1884/2026 | ✅ PROCESSADO (V3) | escaneado |
 | SEI_000184.002464_2026_97.pdf | CVL 1227/2026 | PLC 98/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.002504_2026_09.pdf | CVL 1268/2026 | PLC 102/2026 | ⏳ aguarda V5 | escaneado |
-| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ⏳ V5 em andamento (P2 completo, P3 em andamento) | escaneado |
 | SEI_000184.002514_2026_36.pdf | CVL 1279/2026 | PLC 103/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.002519_2026_69.pdf | CVL 1283/2026 | PLC 104/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.002529_2026_02.pdf | CVL 1294/2026 | PL 1900/2026 | ✅ PROCESSADO (V3) | escaneado |
 | SEI_000184.002573_2026_12.pdf | CVL 1322/2026 | PLC 105/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ⏳ aguarda V5 | escaneado |
-| SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ⏳ aguarda V5 (texto extraído) | escaneado |
+| SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ✅ PROCESSADO (V5) | escaneado |
 | SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ✅ PROCESSADO (V3) ⚠️ posição contrária — reescrever V5 | escaneado |
 | SEI_000184.003246_2026_70.pdf | CVL 1722/2026 | PL 1954/2026 | ✅ PROCESSADO (V3) | escaneado |
