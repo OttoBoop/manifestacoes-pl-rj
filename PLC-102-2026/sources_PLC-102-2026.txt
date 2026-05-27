@@ -1,0 +1,36 @@
+# Fontes adicionadas ao NotebookLM — PLC 102/2026
+# Notebook: https://notebooklm.google.com/notebook/4fc340a3-8aef-4f2e-aeca-41daba6054f5
+# Data: 2026-05-27
+
+## PT-BR (4 fontes)
+
+[OK] https://www.sindiconet.com.br/informese/nbr-5674-a-bussola-da-gestao-de-manutencao-predial-manutencao-manutencao-predial
+Tema: ABNT NBR 5674 — manutenção de edificações
+
+[OK] https://prefeitura.sp.gov.br/web/licenciamento/w/noticias/362456
+Tema: Primeira legislação de segurança em edificações da cidade de São Paulo — 50 anos
+
+[OK] https://sindilojas-sp.org.br/seguro-incendio-comercial-como-funciona/
+Tema: Seguro incêndio comercial — obrigatoriedade e funcionamento (Lei do Inquilinato 8.245/91)
+
+[OK] https://limacoelhoengenharia.com.br/seguranca-contra-incendio-em-estabelecimentos-comerciais-como-se-preparar-para-fiscalizacoes/
+Tema: Segurança contra incêndio em estabelecimentos comerciais — fiscalizações e AVCB
+
+## EN (3 fontes)
+
+[OK] https://pyebarkerfs.com/fire-protection-systems-retail-stores-need/
+Tema: Fire protection systems for retail stores and shopping centers (NFPA 13, NFPA 72, NFPA 25)
+
+[OK] https://kordfire.com/nfpa-101-overview-life-safety-code-for-2026/
+Tema: NFPA 101 Life Safety Code 2026 — commercial buildings egress and fire safety
+
+[OK] https://sdgs.un.org/goals/goal11
+Tema: SDG 11 — Sustainable cities and communities, urban resilience, safe buildings (UN)
+
+## URLs pesquisadas mas não adicionadas (candidatas de reserva)
+
+https://checklistfacil.com/blog/nbr-5674/
+https://www.jusbrasil.com.br/artigos/os-shopping-centers-na-lei-n-8245-91/387071498
+https://blog.koorsen.com/code-requirements-for-commercial-fire-protection
+https://codes.iccsafe.org/content/IFC2021P2
+https://www.un.org/sustainabledevelopment/cities/

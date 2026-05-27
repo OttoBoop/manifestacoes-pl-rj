@@ -85,7 +85,13 @@ PDF do PL
 | +3 PLs (rodada 3) | ✅ | PL 1840 (gratuidade orçamentos), PL 1866 (gorjeta/música), PL 1900 (ISS Assessoria — fecha trilogia com 1883/1884) |
 | V4 (pipeline adversarial) | ✅ | Pró + Contra + Síntese em subpasta `/v4/` para os 9 PLs (74/2025, 1795, 1840, 1844, 1866, 1883, 1884, 1900, 1934, 1954); comparação em `workflow/V4-COMPARACAO.md` |
 | V5 — Workflow setup | ✅ | 3 docs criados em `workflow/V5/`: LONG_TERM_GOALS.md, SHORT_TERM_GOALS.md, V5-VS-V3.md. Auditoria V3: NB vazio em 9/11 PLs, PT-only, 0 citações internacionais, audit_sources nunca aplicado |
-| V5 — Lote A (pendentes) | ⏳ | PL-1904 (texto existe), PL-1897, PLC-98, PLC-102, PLC-103, PLC-104, PLC-105, PLC-106, PL-1921, PL-1826 + 1 desconhecido (IND CMRJ 06549/2025) |
+| V5 — PL-1904 | ✅ PROCESSADO (V5) | short 332w, 5 citações (2 EN), PASS, commit+push |
+| V5 — PL-1897 | ✅ PROCESSADO (V5) | short 326w, 5 citações (2 EN), PASS (10✅+2⚠️corrigidos), commit+push |
+| V5 — PLC-98 | ✅ PROCESSADO (V5) | short 345w, 4 citações (2 EN), PASS (5✅+3⚠️corrigidos), commit+push |
+| V5 — PLC-102 | ✅ PROCESSADO (V5) | short 355w, 5 citações (2 EN), PASS (5✅+0⚠️), commit+push |
+| V5 — Lote B (pendentes) | ⏳ | PLC-103 (CVL 1279), PLC-104 (CVL 1283) |
+| V5 — Lote C (pendentes) | ⏳ | PLC-105 (CVL 1322), PLC-106 (CVL 1329), PL-1921 (CVL 1476) |
+| V5 — Lote D (pendentes) | ⏳ | PL-1826 (coberturas verdes), IND CMRJ 06549/2025 (desconhecido) |
 
 ---
 
