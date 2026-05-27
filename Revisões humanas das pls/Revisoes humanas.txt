@@ -1,0 +1,361 @@
+
+
+[09:05, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 1294/2026, referente ao PL nº 1900/2026, de autoria
+do Vereador Rafael Aloisio Freitas, que altera a Lei nº 691/1984 para incluir a Assessoria de
+Investimentos na lista de serviços do ISS, esta Subsecretaria posiciona-se em sentido de
+nada a opor à proposta.
+
+O PL promove alteração técnica do Código Tributário Municipal (Lei nº 691/1984):
+insere o subitem 17.25 na lista de serviços e fixa a alíquota de ISS em 2% (mínimo legal)
+para Assessoria de Investimentos. Define expressamente quem é o Assessor (profissional
+autorizado pela CVM, vinculado a instituição financeira autorizada pelo Banco Central,
+conforme Resolução CVM 178/2023) e traz delimitação negativa relevante: a atividade não
+se confunde com consultoria ou assessoria econômica/financeira. O PL é tecnicamente
+complementar ao PL 1883/2026 do mesmo autor: o 1883 cria a política de desenvolvimento
+setorial; o 1900 efetua a alteração concreta da legislação tributária que torna o regime
+juridicamente operacional.
+
+A inserção do subitem específico resolve enquadramento difuso que hoje afeta a
+atividade — sem código próprio, é classificada em códigos genéricos com alíquotas
+variáveis por interpretação fiscal, gerando contencioso administrativo. A alíquota fixa de
+2% produz: (a) previsibilidade tributária ao prestador; (b) redução de litígio; (c) sinalização
+de atratividade fiscal. O setor é dinâmico e estruturalmente concentrado em São Paulo: o
+Brasil encerrou outubro de 2025 com 28.095 assessores credenciados (+5,7% em 12
+meses, +515% em uma década), com Sudeste respondendo por 61,9% e São Paulo por
+40,1% sozinho (ANCORD apud GORILA, 2025). Há, portanto, espaço competitivo para o
+Rio em segmento de alta renda e densidade tecnológica. A renúncia fiscal direta é marginal
+(alíquota mínima legal sobre base hoje pulverizada); o ganho potencial em adensamento
+qualitativo é superior.
+Ressalva operacional
+A regulamentação deve (i) coordenar redação com o PL 1883/2026 para evitar
+duplicação na consolidação legislativa e (ii) atualizar tempestivamente tabelas e sistemas da
+Nota Carioca, respeitada a anterioridade fiscal.
+
+O PL 1900/2026 promove a alteração técnica necessária para conferir tratamento
+próprio e juridicamente operacional à Assessoria de Investimentos. Esta Subsecretaria
+posiciona-se em sentido de nada a opor.
+[09:05, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 1568/2026, referente ao PL nº 1934/2026, de autoria
+do Vereador Fabio Silva, que dispõe sobre desconto proporcional nas diárias de
+hospedagem quando os horários de check-in/check-out resultarem em redução do período
+contratado, esta Subsecretaria apresenta posicionamento contrário à proposta, com base
+em análise estritamente econômica.
+
+O PL obriga estabelecimentos de hospedagem a aplicar desconto proporcional na
+primeira diária quando o check-in for posterior às 14h, o check-out anterior às 12h, ou o
+tempo efetivo de uso inferior a 24h. O desconto deve ser discriminado em nota fiscal. As
+sanções remetem ao Código de Defesa do Consumidor.
+
+A configuração check-in 14h / check-out 12h é padrão internacional consolidado
+da hotelaria, e a janela de duas horas entre check-out e check-in não é desperdício
+comercial: corresponde ao tempo técnico mínimo para limpeza, manutenção e inspeção da
+UH. Eliminar economicamente essa janela transfere ao hotel custo operacional hoje
+absorvido pelo modelo padrão de pricing. O setor encerrou 2024 com diária média 10,6%
+maior e RevPar +11,9% (FOHB/HotelInvest, 2024). A FOHB projeta R$ 8,4 bilhões em
+investimentos no setor até 2028 no Brasil (MTur, 2024). Em mercado nacional
+competitivo, regras municipais que afetem unilateralmente o pricing tendem a deslocar
+investimento para municípios concorrentes — externalidade negativa relevante para destino
+dependente de turismo. Adicionalmente, o desconto reduz a base de cálculo do ISS,
+gerando renúncia fiscal indireta não dimensionada na proposta.
+Ressalva técnica
+Caso o legislador opte por dar continuidade, recomenda-se (i) excludente para o
+tempo técnico operacional entre hóspedes, (ii) gradualidade do percentual de desconto, (iii)
+limite de aplicação a diárias unitárias e (iv) exclusão de check-in atrasado por culpa
+exclusiva do hóspede.
+
+A medida intervém de forma economicamente desvantajosa em variável central do
+modelo de pricing hoteleiro internacionalmente consolidado, sem evidência de prática
+abusiva específica do mercado carioca. Considerando o potencial deslocamento de
+investimento, a renúncia fiscal indireta e a suficiência da tutela federal via CDC, esta
+Subsecretaria posiciona-se em sentido contrário ao PL nº 1934/2026.
+[09:06, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 1218/2026, referente ao PL nº 1884/2026, de autoria
+do Vereador Rafael Aloisio Freitas, que institui o conceito de Eixo Econômico Municipal
+no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a
+opor à proposta.
+
+O PL cria uma lei-quadro para política industrial municipal. Define o "Eixo
+Econômico Municipal" como agrupamento de atividades correlatas, identificadas por
+CNAE e organizadas por afinidade funcional, territorial ou setorial. Autoriza Executivo e
+Legislativo a instituir Eixos específicos por lei própria, associando-os a alíquotas
+diferenciadas, isenções, simplificação de licenciamento e fomento setorial. Cada novo Eixo
+exige estudo prévio de impacto fiscal, econômico e regulatório, e a regulamentação
+prevê o Mapa dos Eixos e o Comitê Executivo de Enquadramento Econômico (C3E).
+Funciona como lei-mãe do PL 1883/2026 (Eixo de Assessoria de Investimentos).
+
+A proposta corrige lacuna do ordenamento carioca: ações de fomento setorial
+ocorrem hoje via leis avulsas sem critérios uniformes de elegibilidade, governança ou
+avaliação. O PL estabelece arcabouço mínimo — correlação CNAE objetiva, estudo de
+impacto fiscal prévio e governança via C3E. Os critérios do art. 5º (impacto fiscal,
+desenvolvimento, compatibilidade com Plano Diretor, sustentabilidade, geração de
+emprego) capturam corretamente as cinco dimensões de avaliação de política industrial. A
+estrutura tributária municipal já admite alíquotas diferenciadas dentro dos limites da LC
+116/2003 (Brasil, 2003); o PL organiza institucionalmente o exercício dessa faculdade,
+reduzindo o risco de capturas regulatórias sem fundamentação econômica.
+Ressalva operacional
+A regulamentação deve contemplar (i) composição do C3E com presidência da
+SMDE e participação obrigatória de Fazenda, Planejamento Urbano e Trabalho; (ii)
+metodologia mínima do estudo de impacto fiscal; e (iii) cronograma de operacionalização
+do Mapa dos Eixos compatível com a complexidade da implementação.
+
+O PL 1884/2026 dota o Município de arcabouço institucional adequado para política
+industrial subnacional, hoje ausente. Esta Subsecretaria posiciona-se em sentido de nada a
+opor.
+[09:07, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 1214/2026, referente ao PL nº 1883/2026, de autoria
+do Vereador Rafael Aloisio Freitas, que institui o Eixo Econômico Municipal de Assessoria
+de Investimentos, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL cria regime tributário específico para a atividade de Assessoria de
+Investimentos no município, alinhado ao marco regulatório federal (Resolução CVM nº
+178/2023). Enquadra a atividade no CNAE 6619-3 e fixa a alíquota de ISS em 2% — o
+mínimo permitido pela LC 116/2003. O efeito prático é dar previsibilidade tributária a um
+setor profissional em rápida expansão e usar o regime fiscal como instrumento de atração
+de profissionais qualificados ao Rio.
+
+A atividade é uma das mais dinâmicas do mercado financeiro nacional. O Brasil
+encerrou outubro de 2025 com 28.095 assessores credenciados — crescimento de 5,7%
+em doze meses e de 515% em uma década (ANCORD apud GORILA
+INVESTIMENTOS, 2025). A distribuição é fortemente concentrada no Sudeste (61,9%),
+com São Paulo respondendo por 40,1%. O dado expõe espaço competitivo disponível ao
+Rio caso ofereça ambiente regulatório-tributário atrativo. A renúncia fiscal envolvida é
+reduzida — alíquota mínima legal aplicada a base hoje pulverizada —, mas o ganho
+potencial em adensamento qualitativo (consumo, ocupação imobiliária, contratação local de
+serviços de suporte) justifica plenamente a medida.
+Ressalva operacional
+A regulamentação deve contemplar (i) integração eletrônica com o sistema da
+CVM, evitando duplicidade cadastral, e (ii) critério objetivo de elegibilidade ao Eixo (ex.:
+comprovação de registro CVM ativo), evitando enquadramentos indevidos por empresas
+cuja atividade preponderante seja outra do mesmo CNAE 6619-3.
+
+O PL 1883/2026 cria instrumento concreto de atração de capital humano qualificado
+em setor com crescimento estrutural acelerado e concentração ainda fortemente paulista.
+Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1883/2026.
+[09:09, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 1133/2026, referente ao PL nº 1866/2026, de autoria
+do Vereador Marcio Ribeiro, que dispõe sobre a apresentação da taxa de serviço (gorjeta) e
+da taxa de música ao vivo nos estabelecimentos comerciais do Município, esta
+Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL estabelece padrões de transparência e apresentação para taxa de serviço
+(gorjeta) e taxa de música ao vivo. Não cria as cobranças nem altera sua natureza jurídica
+— exige apresentação destacada e separada da conta principal, indicação expressa de que
+o pagamento é facultativo, e percentual máximo de 10% quando inserida automaticamente
+como sugestão padrão. Percentual superior exige manifestação específica do consumidor.
+Para a música ao vivo, a destinação informada vincula o estabelecimento (especialmente
+quanto à remuneração do artista). Sanções remetem ao CDC.
+
+O setor de food service é estratégico para a economia carioca: movimentou R$ 455
+bilhões em 2024 no Brasil, emprega 4,9 milhões de pessoas — 7,9% do emprego formal
+(FGV/ABRASEL, 2024); o Rio lidera a geração de empregos formais no setor entre as
+capitais (ABRASEL, 2024). O impacto da regulação sobre custos é marginal: não altera a
+natureza jurídica nem o regime trabalhista, que seguem a Lei Federal nº 13.419/2017
+(BRASIL, 2017). Os 10% como referência automática máxima refletem o padrão de
+mercado consolidado. O efeito principal é sobre a previsibilidade contratual:
+estabelecimentos que já operam com transparência absorvem a regra sem alteração; os que
+praticam cobrança opaca terão custo marginal de adequação de PDV. A regra sobre música
+ao vivo (vinculação à finalidade informada) protege simultaneamente o consumidor e o
+ecossistema musical local.
+Ressalva operacional
+A regulamentação deve (i) coordenar a definição dos Anexos I e II com ABRASEL-
+RJ para compatibilidade técnica com sistemas de PDV e (ii) estabelecer prazo de 120 dias
+para adequação dos estabelecimentos.
+
+O PL 1866/2026 codifica em norma municipal padrão de transparência já
+parcialmente consolidado no plano federal, com impacto marginal sobre a estrutura de
+custos do setor. Esta Subsecretaria posiciona-se em sentido de nada a opor.
+[09:09, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 992/2026, referente ao PL nº 1844/2026, de autoria
+do Vereador Wagner Tavares, que dispõe sobre a sinalização dos polos gastronômicos no
+Município, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL estabelece sinalização urbana padronizada para os polos gastronômicos
+oficialmente reconhecidos (Lei 7.498/2022), com função de orientação turística,
+ordenamento de trânsito e indicação de estacionamento. Introduz diretrizes de ordenamento
+de estacionamento (rotatividade, acessibilidade para PcD, áreas de carga e descarga,
+incentivo ao transporte coletivo) e autoriza expressamente parcerias com o setor para
+implantação sem ônus ao erário.
+
+O setor de bares e restaurantes movimentou R$ 455 bilhões em 2024 no Brasil e
+emprega cerca de 4,9 milhões de pessoas — 7,9% do emprego formal brasileiro (FGV/
+ABRASEL, 2024). O Rio lidera a geração de empregos formais entre as capitais brasileiras:
+gerou 2.622 vagas em bares e restaurantes em um único mês, à frente de São Paulo (2.512)
+e Salvador (1.124) (ABRASEL apud Diário do Rio, 2024). A sinalização padronizada eleva
+o reconhecimento e o fluxo de visitantes, reduz fricção de acesso (estacionamento,
+circulação) e cria identidade visual de "marca territorial" associada a maior fidelização. A
+possibilidade de financiamento via parcerias viabiliza implementação sem aumento de
+despesa pública.
+Ressalva operacional
+A regulamentação deve contemplar (i) compatibilização técnica com a sinalização
+viária e turística existente (CET-Rio, Riotur), evitando duplicidade ou conflito visual; (ii)
+articulação prévia com a Secretaria de Transportes para o ordenamento de estacionamento;
+e (iii) regras de governança das parcerias (critérios de seleção, transparência), evitando
+captura privada da identidade visual do espaço público.
+
+O PL 1844/2026 dá efetividade operacional a uma política consolidada (Lei
+7.498/2022), com potencial de elevar ticket médio e fluxo turístico nos polos sem
+comprometer o orçamento municipal. Esta Subsecretaria posiciona-se em sentido de nada
+a opor ao PL nº 1844/2026.
+[09:10, 5/15/2026] Luiza Branco SMDEIS: Em atenção ao Ofício CVL nº 925/2026, referente ao PL nº 1840/2026, de autoria
+do Vereador Marcio Santos, que dispõe sobre a gratuidade de orçamentos e visitas técnicas
+prévios à contratação de serviços, esta Subsecretaria posiciona-se em sentido de nada a
+opor à proposta.
+
+O PL assegura ao consumidor o direito à elaboração gratuita de orçamento prévio e
+à realização de visita técnica gratuita pelas empresas prestadoras estabelecidas no
+Município. Veda cobrança de qualquer rubrica (taxa de deslocamento, de visita, de emissão
+de proposta) anterior à efetiva contratação. Admite, em caráter excepcional, cobrança
+quando o orçamento envolver projetos complexos com trabalho intelectual especializado,
+desde que (i) informado claramente, (ii) autorizado pelo consumidor e (iii) deduzido do
+preço final em caso de contratação. Sanção: multa de R$ 2.000,00 por ocorrência (IPCA-
+E), com reincidência em dobro e suspensão de alvará por até 30 dias.
+
+A medida codifica em norma municipal entendimento já consolidado na defesa do
+consumidor brasileira — o Procon, em diversos estados, considera o orçamento prévio
+obrigatório, gratuito e discriminado (PROCON-SC, s.d.). O efeito sobre o consumidor é
+positivo (reduz fricção contratual e estimula a comparação entre prestadores). Para os
+prestadores, em especial microempreendedores, há custo de oportunidade de visitas que não
+geram contratação — fenômeno hoje compensado pela cobrança informal de "taxa de
+deslocamento". A vedação tende a produzir (a) embutimento do custo no preço final, (b)
+seleção mais criteriosa de chamados ou (c) migração para modelos digitais de pré-
+orçamento. A salvaguarda para projetos complexos é economicamente acertada: evita
+expropriação do trabalho intelectual personalizado.
+Ressalva operacional
+A regulamentação deve definir (i) critério objetivo de complexidade que enseja
+cobrança excepcional, (ii) gradação de multa para MEI e EPP (R$ 2.000 é pesada para
+microempreendedor individual) e (iii) designação expressa do PROCON Carioca como
+órgão fiscalizador.
+
+O PL 1840/2026 codifica prática já exigível por via administrativa, dotando o
+município de instrumento sancionador específico. Esta Subsecretaria posiciona-se em
+sentido de nada a opor.
+Em atenção ao ofício referente ao PL nº 1795/2026, de autoria do Vereador Salvino
+Oliveira, que dispõe sobre normas de transparência e segurança na prestação de serviços de
+entrega por plataformas digitais, esta Subsecretaria posiciona-se em sentido de nada a
+opor à proposta.
+
+O PL estabelece três pilares regulatórios para plataformas digitais de entrega que
+operam no Município. Primeiro, exige transparência prévia ao entregador sobre distância,
+valor e alertas de Defesa Civil na rota. Segundo, proíbe mecanismos algorítmicos que
+premiem velocidade extrema ou desconsiderem normas de trânsito como condição de
+priorização. Terceiro, obriga sistemas de bloqueio ou alerta para entregas em áreas de alto
+risco identificadas pela Defesa Civil ou Segurança Pública. Sanções remetem ao Código de
+Defesa do Consumidor.
+
+O setor é estruturalmente relevante: há 2,2 milhões de trabalhadores ativos em
+plataformas digitais no Brasil, dos quais 455.621 são entregadores — crescimento de
+18% sobre 2022 (CEBRAP, 2025). A renda bruta média do setor cresceu 5% acima da
+inflação no último ano (AMOBITEC, 2025), evidenciando mercado em consolidação. O
+PL atua sobre três externalidades: (i) opacidade contratual, que gera corridas
+economicamente desvantajosas; (ii) incentivo algorítmico ao risco, que externaliza custos
+hospitalares ao SUS; e (iii) entregas em áreas vulneráveis, que geram custos públicos não
+capturados pelas plataformas. A medida deve aumentar marginalmente o custo operacional
+das plataformas (geofencing, ajustes de algoritmo), sem comprometer o modelo de negócio.
+Ressalva operacional
+A regulamentação deve (i) definir critério objetivo georreferenciado para "áreas de
+alto risco" — baseando-se em camadas oficiais da Defesa Civil Municipal e da Secretaria
+de Ordem Pública —, e (ii) estabelecer prazo de cento e oitenta dias para adequação técnica
+das plataformas, considerando a complexidade da implementação algorítmica em escala.
+
+O PL 1795/2026 endereça externalidades econômicas relevantes do setor de
+entregas por aplicativo sem comprometer a viabilidade do modelo. Esta Subsecretaria
+posiciona-se em sentido de nada a opor ao PL nº 1795/2026.
+[11:35, 5/19/2026] Marcel Grillo Balassiano: Em atenção ao Ofício CVL nº 1.294/2026, referente ao PL nº 1.900/2026, de autoria do Vereador Rafael Aloisio Freitas, que altera a Lei nº 691/1984 para incluir a Assessoria de Investimentos na lista de serviços do ISS, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL promove alteração técnica do Código Tributário Municipal (Lei nº 691/1984): insere o subitem 17.25 na lista de serviços e fixa a alíquota de ISS em 2% (mínimo legal) para Assessoria de Investimentos. Define expressamente quem é o Assessor (profissional autorizado pela CVM, vinculado a instituição financeira autorizada pelo Banco Central, conforme Resolução CVM 178/2023) e traz delimitação relevante: a atividade não se confunde com consultoria ou assessoria econômica/financeira. O PL é tecnicamente complementar ao PL 1.883/2026 do mesmo autor, que cria a política de desenvolvimento setorial; o 1.900, que efetua a alteração concreta da legislação tributária que torna o regime juridicamente operacional.
+
+A inserção do subitem específico resolve enquadramento difuso que hoje afeta a atividade — sem código próprio, é classificada em códigos genéricos com alíquotas variáveis por interpretação fiscal, gerando contencioso administrativo. A alíquota fixa de 2% produz: (a) previsibilidade tributária ao prestador; (b) redução de litígio; (c) sinalização de atratividade fiscal. O setor é dinâmico e estruturalmente concentrado em São Paulo: o Brasil encerrou outubro de 2025 com 28.095 assessores credenciados (+5,7% em 12 meses, +515% em uma década), com Sudeste respondendo por 61,9% e São Paulo por 40,1% sozinho (ANCORD apud GORILA, 2025). Há, portanto, espaço competitivo para o Rio em segmento de alta renda e densidade tecnológica.
+
+Nesse sentido, o PL 1.900/2026 promove a alteração técnica necessária para conferir tratamento próprio e juridicamente operacional à Assessoria de Investimentos. Esta Subsecretaria posiciona-se em sentido de nada a opor.
+[11:35, 5/19/2026] Marcel Grillo Balassiano: @Luiza Branco SMDEIS 👆
+[11:44, 5/19/2026] Marcel Grillo Balassiano: Em atenção ao Ofício CVL nº 1568/2026, referente ao PL nº 1934/2026, de autoria
+do Vereador Fabio Silva, que dispõe sobre desconto proporcional nas diárias de
+hospedagem quando os horários de check-in/check-out resultarem em redução do período
+contratado, esta Subsecretaria apresenta posicionamento contrário à proposta, com base
+em análise estritamente econômica.
+
+O PL obriga estabelecimentos de hospedagem a aplicar desconto proporcional na
+primeira diária quando o check-in for posterior às 14h, o check-out anterior às 12h, ou o
+tempo efetivo de uso inferior a 24h. O desconto deve ser discriminado em nota fiscal. As
+sanções remetem ao Código de Defesa do Consumidor.
+
+A configuração check-in 14h / check-out 12h é padrão internacional consolidado
+d
+@Luiza Branco SMDEIS, @Otávio Bopp e @Perla Rocha Fgv/o Veterano/SMDEIS: refazer esse, por favor. Está como contrário. Colocar nada a opor, e citar os argumentos contrários…
+[11:54, 5/19/2026] Marcel Grillo Balassiano: Em atenção ao Ofício CVL nº 1218/2026, referente ao PL nº 1884/2026, de autoria
+do Vereador Rafael Aloisio Freitas, que institui o conceito de Eixo Econômico Municipal
+no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a
+opor à proposta.
+
+O PL cria uma lei-quadro para política industrial municipal. Define o "Eixo
+Econômico Municipal" como agrupamento de atividades correlatas, identificadas por
+CNAE e organizadas por afinidade funcional, territorial ou setorial. Autoriza Executivo e
+Legislativo a instituir Eixos específicos por lei própria, associando-os a alíquotas
+diferenciadas, isenções, simplificação de licenciamento e fomento setorial. Cada novo Eixo
+exige estudo prévio de impacto fiscal, econômico e regulatório,
+Em atenção ao Ofício CVL nº 1.218/2026, referente ao PL nº 1.884/2026, de autoria do Vereador Rafael Aloisio Freitas, que institui o conceito de Eixo Econômico Municipal no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL cria uma lei-quadro para política industrial municipal. Define o "Eixo Econômico Municipal" como agrupamento de atividades correlatas, identificadas por CNAE e organizadas por afinidade funcional, territorial ou setorial. Autoriza Executivo e Legislativo a instituir Eixos específicos por lei própria, associando-os a alíquotas diferenciadas, isenções, simplificação de licenciamento e fomento setorial. Cada novo Eixo exige estudo prévio de impacto fiscal, econômico e regulatório, e a regulamentação prevê o Mapa dos Eixos e o Comitê Executivo de Enquadramento Econômico.
+
+O PL estabelece arcabouço mínimo — correlação CNAE objetiva, estudo de impacto fiscal prévio e governança. Os critérios do art. 5º (impacto fiscal, desenvolvimento, compatibilidade com Plano Diretor, sustentabilidade, geração de emprego) capturam corretamente as cinco dimensões de avaliação de política industrial. A estrutura tributária municipal já admite alíquotas diferenciadas dentro dos limites da LC 116/2003 (Brasil, 2003); o PL organiza institucionalmente o exercício dessa faculdade, reduzindo o risco de capturas regulatórias sem fundamentação econômica.
+
+O PL 1.884/2026 dota o Município de arcabouço institucional adequado para política industrial subnacional. Esta Subsecretaria posiciona-se em sentido de nada a opor.
+[11:54, 5/19/2026] Marcel Grillo Balassiano: @Luiza Branco SMDEIS 👆
+[11:59, 5/19/2026] Marcel Grillo Balassiano: Em atenção ao Ofício CVL nº 1214/2026, referente ao PL nº 1883/2026, de autoria
+do Vereador Rafael Aloisio Freitas, que institui o Eixo Econômico Municipal de Assessoria
+de Investimentos, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL cria regime tributário específico para a atividade de Assessoria de
+Investimentos no município, alinhado ao marco regulatório federal (Resolução CVM nº
+178/2023). Enquadra a atividade no CNAE 6619-3 e fixa a alíquota de ISS em 2% — o
+mínimo permitido pela LC 116/2003. O efeito prático é dar previsibilidade tributária a um
+setor profissional em rápida expansão e usar o regime fiscal como instrumento de atração
+de profissionais qualificados ao Rio.
+
+A atividade é uma das mais dinâmicas do m
+Em atenção ao Ofício CVL nº 1.214/2026, referente ao PL nº 1.883/2026, de autoria do Vereador Rafael Aloisio Freitas, que institui o Eixo Econômico Municipal de Assessoria de Investimentos, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL cria regime tributário específico para a atividade de Assessoria de Investimentos no município, alinhado ao marco regulatório federal (Resolução CVM nº 178/2023). Enquadra a atividade no CNAE 6619-3 e fixa a alíquota de ISS em 2% — o mínimo permitido pela LC 116/2003. O efeito prático é dar previsibilidade tributária a um setor profissional em rápida expansão e usar o regime fiscal como instrumento de atração de profissionais qualificados ao Rio.
+
+A atividade é uma das mais dinâmicas do mercado financeiro nacional. O Brasil encerrou outubro de 2025 com 28.095 assessores credenciados — crescimento de 5,7% em doze meses e de 515% em uma década (ANCORD apud GORILA INVESTIMENTOS, 2025). A distribuição é fortemente concentrada no Sudeste (61,9%), com São Paulo respondendo por 40,1%. O dado expõe espaço competitivo disponível ao Rio caso ofereça ambiente regulatório-tributário atrativo. O ganho potencial em adensamento qualitativo (consumo, ocupação imobiliária, contratação local de serviços de suporte) justifica a medida.
+
+Nesse sentido, o PL 1.883/2026 cria instrumento concreto de atração de capital humano qualificado em setor com crescimento estrutural acelerado e concentração ainda fortemente em São Paulo. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1883/2026.
+Em atenção ao Ofício CVL nº 1.133/2026, referente ao PL nº 1.866/2026, de autoria do Vereador Marcio Ribeiro, que dispõe sobre a apresentação da taxa de serviço (gorjeta) e da taxa de música ao vivo nos estabelecimentos comerciais do Município, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL estabelece padrões de transparência e apresentação para taxa de serviço (gorjeta) e taxa de música ao vivo. Não cria as cobranças nem altera sua natureza jurídica — exige apresentação destacada e separada da conta principal, indicação expressa de que o pagamento é facultativo, e percentual máximo de 10% quando inserida automaticamente como sugestão padrão. Percentual superior exige manifestação específica do consumidor.
+
+Para a música ao vivo, a destinação informada vincula o estabelecimento (especialmente quanto à remuneração do artista).
+
+O setor é estratégico para a economia brasileira e carioca: movimentou R$ 455 bilhões em 2024 no Brasil, emprega 4,9 milhões de pessoas — 7,9% do emprego formal (FGV/ABRASEL, 2024); o Rio lidera a geração de empregos formais no setor entre as capitais (ABRASEL, 2024).
+
+O efeito principal é sobre a previsibilidade contratual: estabelecimentos que já operam com transparência absorvem a regra sem alteração. E a regra sobre música ao vivo (vinculação à finalidade informada) protege simultaneamente o consumidor e o ecossistema musical local.
+
+Nesse sentido, o PL 1.866/2026 codifica em norma municipal padrão de transparência já parcialmente consolidado no plano federal, com impacto marginal sobre a estrutura de custos do setor. Esta Subsecretaria posiciona-se em sentido de nada a opor.
+[12:39, 5/19/2026] Marcel Grillo Balassiano: Em atenção ao Ofício CVL nº 992/2026, referente ao PL nº 1.844/2026, de autoria do Vereador Wagner Tavares, que dispõe sobre a sinalização dos polos gastronômicos no Município, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL estabelece sinalização urbana padronizada para os polos gastronômicos oficialmente reconhecidos (Lei 7.498/2022), com função de orientação turística, ordenamento de trânsito e indicação de estacionamento. Introduz diretrizes de ordenamento de estacionamento (rotatividade, acessibilidade para PcD, áreas de carga e descarga, incentivo ao transporte coletivo) e autoriza expressamente parcerias com o setor para implantação sem ônus ao erário.
+
+O setor de bares e restaurantes movimentou R$ 455 bilhões em 2024 no Brasil e emprega cerca de 4,9 milhões de pessoas — 7,9% do emprego formal brasileiro (FGV/ABRASEL, 2024). O Rio lidera a geração de empregos formais entre as capitais brasileiras. A sinalização padronizada eleva o reconhecimento e o fluxo de visitantes, reduz fricção de acesso (estacionamento, circulação) e cria identidade visual de "marca territorial" associada a maior fidelização. A possibilidade de financiamento via parcerias viabiliza implementação sem aumento de despesa pública.
+
+Nesse sentido, o PL 1.844/2026 dá efetividade operacional a uma política consolidada (Lei 7.498/2022), com potencial de elevar ticket médio e fluxo turístico nos polos sem comprometer o orçamento municipal. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1.844/2026.
+[12:39, 5/19/2026] Marcel Grillo Balassiano: @Luiza Branco SMDEIS 👆
+[12:44, 5/19/2026] Marcel Grillo Balassiano: Em atenção ao Ofício CVL nº 925/2026, referente ao PL nº 1840/2026, de autoria
+do Vereador Marcio Santos, que dispõe sobre a gratuidade de orçamentos e visitas técnicas
+prévios à contratação de serviços, esta Subsecretaria posiciona-se em sentido de nada a
+opor à proposta.
+
+O PL assegura ao consumidor o direito à elaboração gratuita de orçamento prévio e
+à realização de visita técnica gratuita pelas empresas prestadoras estabelecidas no
+Município. Veda cobrança de qualquer rubrica (taxa de deslocamento, de visita, de emissão
+de proposta) anterior à efetiva contratação. Admite, em caráter excepcional, cobrança
+quando o orçamento envolver projetos complexos com trabalho intelectual especializado,
+desde que (i) informado claramente, (ii) autorizado pe
+Em atenção ao Ofício CVL nº 925/2026, referente ao PL nº 1.840/2026, de autoria do Vereador Marcio Santos, que dispõe sobre a gratuidade de orçamentos e visitas técnicas prévios à contratação de serviços, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL assegura ao consumidor o direito à elaboração gratuita de orçamento prévio e à realização de visita técnica gratuita pelas empresas prestadoras estabelecidas no Município. Veda cobrança de qualquer rubrica (taxa de deslocamento, de visita, de emissão de proposta) anterior à efetiva contratação. Admite, em caráter excepcional, cobrança quando o orçamento envolver projetos complexos com trabalho intelectual especializado, desde que (i) informado claramente, (ii) autorizado pelo consumidor e (iii) deduzido do preço final em caso de contratação. Sanção: multa de R$ 2.000,00 por ocorrência (IPCA-E), com reincidência em dobro e suspensão de alvará por até 30 dias.
+
+A medida codifica em norma municipal entendimento já consolidado na defesa do consumidor brasileira — o Procon, em diversos estados, considera o orçamento prévio obrigatório, gratuito e discriminado. O efeito sobre o consumidor é positivo (reduz fricção contratual e estimula a comparação entre prestadores). Para os prestadores, em especial microempreendedores, há custo de oportunidade de visitas que não geram contratação — fenômeno hoje compensado pela cobrança informal de "taxa de deslocamento". A vedação tende a produzir (a) embutimento do custo no preço final, (b) seleção mais criteriosa de chamados ou (c) migração para modelos digitais de pré-orçamento. A salvaguarda para projetos complexos é economicamente acertada: evita expropriação do trabalho intelectual personalizado.
+
+Nesse sentido, o PL 1.840/2026 codifica prática já exigível por via administrativa, dotando o município de instrumento sancionador específico. Esta Subsecretaria posiciona-se em sentido de nada a opor.
+Em atenção ao ofício referente ao PL nº 1.795/2026, de autoria do Vereador Salvino Oliveira, que dispõe sobre normas de transparência e segurança na prestação de serviços de entrega por plataformas digitais, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL estabelece três pilares regulatórios para plataformas digitais de entrega que operam no Município. Primeiro, exige transparência prévia ao entregador sobre distância, valor e alertas de Defesa Civil na rota. Segundo, proíbe mecanismos algorítmicos que premiem velocidade extrema ou desconsiderem normas de trânsito como condição de priorização. Terceiro, obriga sistemas de bloqueio ou alerta para entregas em áreas de alto risco identificadas pela Defesa Civil ou Segurança Pública. Sanções remetem ao Código de Defesa do Consumidor.
+
+O setor é estruturalmente relevante: há 2,2 milhões de trabalhadores ativos em plataformas digitais no Brasil, dos quais 455.621 são entregadores — crescimento de 18% sobre 2022 (CEBRAP, 2025). A renda bruta média do setor cresceu 5% acima da inflação no último ano (AMOBITEC, 2025), evidenciando mercado em consolidação. O PL atua sobre três externalidades: (i) opacidade contratual, que gera corridas economicamente desvantajosas; (ii) incentivo algorítmico ao risco, que externaliza custos hospitalares ao SUS; e (iii) entregas em áreas vulneráveis, que geram custos públicos não capturados pelas plataformas. A medida deve aumentar marginalmente o custo operacional das plataformas (geofencing, ajustes de algoritmo), sem comprometer o modelo de negócio.
+
+Nesse sentido, o PL 1.795/2026 endereça externalidades econômicas relevantes do setor de entregas por aplicativo sem comprometer a viabilidade do modelo. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1795/2026.
