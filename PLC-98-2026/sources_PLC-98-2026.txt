@@ -1,0 +1,59 @@
+# Fontes curadas para PLC 98/2026 (Vereador Salvino Oliveira, CMRJ)
+# Notebook: https://notebooklm.google.com/notebook/4f771810-1d68-4398-9fc6-bf4567826383
+# Curação: 2026-05-26
+
+## FONTES INDEXADAS NO NB (confirmadas em list_sources)
+
+# [PT] Secretaria Municipal de Habitação - Enquadramento HIS (Prefeitura Rio)
+# Título no NB: "ENQUADRAMENTO DE PROJETOS PELA LEI – Secretaria Municipal de Habitação – SMH"
+https://habitacao.prefeitura.rio/enquadramento-de-projetos-pela-lei/
+
+# [PT] Relatório Observatório das Metrópoles - MCMV Rio (impactos urbanos e sociais)
+# Título no NB: URL literal (indexada sem título limpo)
+https://www.observatoriodasmetropoles.net.br/avaliacao-do-mcmv-no-rio-de-janeiro-impactos-urbanos-e-sociais/relatorio-final-avaliacao-do-programa-minha-casa-minha-vida-na-regiao-metropolitana-do-rio-de-janeiro_-impactos-urbanos-e-sociais/
+
+# [EN] SDG 11 - Goal 11 | Department of Economic and Social Affairs (sdgs.un.org)
+# Título no NB: "Goal 11 | Department of Economic and Social Affairs"
+https://sdgs.un.org/goals/goal11
+
+# [EN] World Habitat - The Airbnb Effect: short-term rentals with long-term consequences
+# Título no NB: "The Airbnb Effect: short-term rentals with long-term consequences - World Habitat"
+https://world-habitat.org/blog/airbnb-and-the-housing-crisis/
+
+# [EN] Inside Airbnb - The Threat of Short-Term Rentals to Housing
+# Título no NB: "The Threat of Short-Term Rentals to Housing: A Critical Perspective on Airbnb's Global Expansion | Inside Airbnb"
+https://insideairbnb.com/report/the-threat-of-short-term-rentals-to-housing/
+
+# [?] "Attention Required! | Cloudflare" — fonte entrou bloqueada (leismunicipais.com.br ou normasbrasil.com.br)
+# Provável URL: https://leismunicipais.com.br/a/rj/r/rio-de-janeiro/lei-complementar/2009/10/97/...
+# Alternativa a tentar manualmente: https://e.camara.rj.gov.br/ (site oficial CMRJ)
+
+# [?] SEI_000184.002464_2026_97.pdf — já estava no NB antes desta curação (provavelmente o PLC original)
+
+
+## FONTES ENVIADAS MAS NÃO CONFIRMADAS NA LISTAGEM
+
+# [PT] Lei 11.977/2009 PMCMV - Planalto (versão compilada)
+# FALHOU indexação — Planalto provavelmente bloqueou crawler NB
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/L11977compilado.htm
+
+# [PT] Lei 11.977/2009 PMCMV - Planalto (versão original)
+https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11977.htm
+
+# [EN] UNECE study on short-term rental housing
+# Enviada mas não confirmada na listagem final
+https://unece.org/media/press/374564
+
+# [PT] leismunicipais.com.br LC 97/2009 (bloqueada por Cloudflare - entrou como "Attention Required!")
+https://leismunicipais.com.br/a/rj/r/rio-de-janeiro/lei-complementar/2009/10/97/lei-complementar-n-97-2009-estabelece-normas-relativas-a-edificacoes-e-grupamentos-de-edificacoes-aplicaveis-a-empreendimentos-de-interesse-social-vinculados-a-politica-habitacional-municipal-estadual-e-federal
+
+# [PT] normasbrasil.com.br LC 97/2009 (alternativa, enviada)
+https://www.normasbrasil.com.br/norma/lei-complementar-97-2009-rio-de-janeiro_177471.html
+
+
+## RESUMO
+# Fontes confirmadas no NB: 7 (incluindo SEI PDF pré-existente)
+# Fontes novas confirmadas: 5 (2 PT + 3 EN)
+# Fontes EN confirmadas: 3 (sdgs.un.org, world-habitat.org, insideairbnb.com)
+# Fontes PT confirmadas: 2 (habitacao.prefeitura.rio, observatoriodasmetropoles.net.br)
+# Fontes que falharam/bloqueadas: 4 (leismunicipais, normasbrasil, planalto x2)

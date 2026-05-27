@@ -220,9 +220,9 @@ URLs a adicionar via nb_add_source.py:
 | SEI_000184.002379_2026_29.pdf | CVL 1133/2026 | PL 1866/2026 | ✅ PROCESSADO (V3) | escaneado |
 | SEI_000184.002441_2026_82.pdf | CVL 1214/2026 | PL 1883/2026 | ✅ PROCESSADO (V3) | escaneado |
 | SEI_000184.002448_2026_02.pdf | CVL 1218/2026 | PL 1884/2026 | ✅ PROCESSADO (V3) | escaneado |
-| SEI_000184.002464_2026_97.pdf | CVL 1227/2026 | PLC 98/2026 | ⏳ aguarda V5 | escaneado |
+| SEI_000184.002464_2026_97.pdf | CVL 1227/2026 | PLC 98/2026 | ✅ PROCESSADO (V5) | escaneado |
 | SEI_000184.002504_2026_09.pdf | CVL 1268/2026 | PLC 102/2026 | ⏳ aguarda V5 | escaneado |
-| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ⏳ V5 em andamento (P2 completo, P3 em andamento) | escaneado |
+| SEI_000184.002513_2026_91.pdf | CVL 1276/2026 | PL 1897/2026 | ✅ PROCESSADO (V5) | escaneado |
 | SEI_000184.002514_2026_36.pdf | CVL 1279/2026 | PLC 103/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.002519_2026_69.pdf | CVL 1283/2026 | PLC 104/2026 | ⏳ aguarda V5 | escaneado |
 | SEI_000184.002529_2026_02.pdf | CVL 1294/2026 | PL 1900/2026 | ✅ PROCESSADO (V3) | escaneado |
