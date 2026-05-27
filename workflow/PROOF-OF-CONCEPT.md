@@ -69,7 +69,7 @@ PDF do PL
 
 ## Estado atual
 
-**Próximo passo:** Pipeline completo — v1 e v2 entregues para PL 74/2025
+**Próximo passo:** Lote D — PL-1826 + IND CMRJ 06549/2025 + reescrita PL-1934
 
 | Passo | Status | Observação |
 |-------|--------|------------|
@@ -91,8 +91,10 @@ PDF do PL
 | V5 — PLC-102 | ✅ PROCESSADO (V5) | short 355w, 5 citações (2 EN), PASS (5✅+0⚠️), commit+push |
 | V5 — PLC-103 | ✅ PROCESSADO (V5) | short 364w, 5 citações (2 EN), PASS (4✅+1⚠️corrigido), commit+push |
 | V5 — PLC-104 | ✅ PROCESSADO (V5) | short 366w, 4 citações (2 EN), PASS (2✅+2⚠️corrigidos), commit+push |
-| V5 — Lote C (pendentes) | ⏳ | PLC-105 (CVL 1322), PLC-106 (CVL 1329), PL-1921 (CVL 1476) |
-| V5 — Lote D (pendentes) | ⏳ | PL-1826 (coberturas verdes), IND CMRJ 06549/2025 (desconhecido) |
+| V5 — Lote C | ✅ | PLC-105 (short 346w, PASS), PLC-106 (short 348w, PASS), PL-1921 (short 331w, PASS) — commit 23beed6→093ddfb |
+| V5 — PL-1826 | ✅ PROCESSADO (V5.1) | short 361w, 4 citações (2 EN), PASS (3✅+1⚠️), commit pendente |
+| V5 — PL-1934 (reescrita) | ✅ PROCESSADO (V5.1) | posição contrária → nada a opor, 4 citações (1 EN), commit pendente |
+| V5 — IND CMRJ 06549/2025 | ❓ BLOQUEADO | PDF só contém despachos de roteamento — texto da IND ausente; aguarda documento da Câmara |
 
 ---
 
@@ -233,14 +235,14 @@ URLs a adicionar via nb_add_source.py:
 | SEI_000184.002514_2026_36.pdf | CVL 1279/2026 | PLC 103/2026 | ✅ PROCESSADO (V5.1) | escaneado |
 | SEI_000184.002519_2026_69.pdf | CVL 1283/2026 | PLC 104/2026 | ✅ PROCESSADO (V5.1) | escaneado |
 | SEI_000184.002529_2026_02.pdf | CVL 1294/2026 | PL 1900/2026 | ✅ PROCESSADO (V3) | escaneado |
-| SEI_000184.002573_2026_12.pdf | CVL 1322/2026 | PLC 105/2026 | ✅ PROCESSADO (V5.1) | escaneado |
-| SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ✅ PROCESSADO (V5.1) | escaneado |
+| SEI_000184.002573_2026_12.pdf | CVL 1322/2026 | PLC 105/2026 | ✅ PROCESSADO (V5.1) — commit 23beed6 | escaneado |
+| SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ✅ PROCESSADO (V5.1) — commit 9b966ae | escaneado |
 | SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ✅ PROCESSADO (V5.1) | escaneado |
-| SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ✅ PROCESSADO (V5.1) | escaneado |
-| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ✅ PROCESSADO (V3) ⚠️ posição contrária — reescrever V5 | escaneado |
+| SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ✅ PROCESSADO (V5.1) — commit 093ddfb | escaneado |
+| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ✅ PROCESSADO (V5.1) — posição corrigida (contrário → nada a opor), commit pendente | escaneado |
 | SEI_000184.003246_2026_70.pdf | CVL 1722/2026 | PL 1954/2026 | ✅ PROCESSADO (V3) | escaneado |
-| SEI_001000.003088_2026_21.pdf | — | ❓ Ofício IND CMRJ 06549/2025 (Vereador Leonel de Esquerda) | ❓ PL desconhecido — aguarda OCR via NB | escaneado |
+| SEI_001000.003088_2026_21 (1).pdf | — | IND CMRJ 06549/2025 (Vereador Leonel de Esquerda) | ❓ BLOQUEADO — PDF contém só despachos; texto da IND ausente; ver IND-CMRJ-06549-2025/BLOQUEIO.md | escaneado |
 | SEI_001000.003809_2026_01.pdf | SMG 1526/2026 | PL 1795/2026 (roteamento) | ✅ PL-1795 PROCESSADO (V3) — este PDF é duplicata de roteamento | escaneado |
-| SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ⏳ aguarda V5 | escaneado |
+| SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ✅ PROCESSADO (V5.1) — commit pendente | escaneado |
 | SEI_000184.003132_2026_20.pdf | — | PL 163/2025 | 📋 Lei 9.326/2026 (sancionada) | nativo |
 | SEI_000184.003147_2026_98.pdf | — | PL 1320/2025 | 📋 Lei 9.337/2026 (sancionada) | nativo |
