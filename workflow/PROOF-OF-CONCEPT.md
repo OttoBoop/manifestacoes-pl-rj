@@ -89,7 +89,8 @@ PDF do PL
 | V5 — PL-1897 | ✅ PROCESSADO (V5) | short 326w, 5 citações (2 EN), PASS (10✅+2⚠️corrigidos), commit+push |
 | V5 — PLC-98 | ✅ PROCESSADO (V5) | short 345w, 4 citações (2 EN), PASS (5✅+3⚠️corrigidos), commit+push |
 | V5 — PLC-102 | ✅ PROCESSADO (V5) | short 355w, 5 citações (2 EN), PASS (5✅+0⚠️), commit+push |
-| V5 — Lote B (pendentes) | ⏳ | PLC-103 (CVL 1279), PLC-104 (CVL 1283) |
+| V5 — PLC-103 | ✅ PROCESSADO (V5) | short 364w, 5 citações (2 EN), PASS (4✅+1⚠️corrigido), commit+push |
+| V5 — Lote B (pendentes) | ⏳ | PLC-104 (CVL 1283) |
 | V5 — Lote C (pendentes) | ⏳ | PLC-105 (CVL 1322), PLC-106 (CVL 1329), PL-1921 (CVL 1476) |
 | V5 — Lote D (pendentes) | ⏳ | PL-1826 (coberturas verdes), IND CMRJ 06549/2025 (desconhecido) |
 
