@@ -95,15 +95,16 @@ PDF do PL
 | V5 — PL-1826 | ✅ PROCESSADO (V5.1) | short 361w, 4 citações (2 EN), PASS (3✅+1⚠️), commit f20ea0e |
 | V5 — PL-1934 (reescrita) | ✅ PROCESSADO (V5.1) | posição contrária → nada a opor, 4 citações (1 EN), commit f20ea0e |
 | V5 — IND CMRJ 06549/2025 | ❓ BLOQUEADO | PDF só contém despachos de roteamento — texto da IND ausente; aguarda documento da Câmara |
-| V5.1 — PL-1795 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2019/1152/UE + CDC), commit pendente |
-| V5.1 — PL-1840 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2011/83/UE + CF/1988), commit pendente |
-| V5.1 — PL-1844 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: OECD Tourism 2012 + FGV/ABRASEL), commit pendente |
-| V5.1 — PL-1866 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2011/83/UE + Lei 13.419/2017), commit pendente |
-| V5.1 — PL-1883 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + LC 116/2003), commit pendente |
-| V5.1 — PL-1884 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Rodrik 2004 + LC 116/2003), commit pendente |
-| V5.1 — PL-1900 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + ANCORD/Gorila), commit pendente |
-| V5.1 — PL-1954 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: World Bank 2022 + SEBRAE), commit pendente |
-| V5.1 — PL-74/2025 (upgrade V3) | ✅ PROCESSADO (V5.1) | v4.md + PDF: sem ressalvas, 4 citações (1 EN: OIT ILC 2022), 343w, commit pendente |
+| V5.1 — PL-1795 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2019/1152/UE + CDC), commit 7a9478f |
+| V5.1 — PL-1840 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2011/83/UE + CF/1988), commit 7a9478f |
+| V5.1 — PL-1844 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: OECD Tourism 2012 + FGV/ABRASEL), commit 7a9478f |
+| V5.1 — PL-1866 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2011/83/UE + Lei 13.419/2017), commit 7a9478f |
+| V5.1 — PL-1883 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + LC 116/2003), commit 7a9478f |
+| V5.1 — PL-1884 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Rodrik 2004 + LC 116/2003), commit 7a9478f |
+| V5.1 — PL-1900 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + ANCORD/Gorila), commit 7a9478f |
+| V5.1 — PL-1954 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: World Bank 2022 + SEBRAE), commit 7a9478f |
+| V5.1 — PL-74/2025 (upgrade V3) | ✅ PROCESSADO (V5.1) | v4.md + PDF: sem ressalvas, 4 citações (1 EN: OIT ILC 2022), 343w, commit 0908526 |
+| entregáveis 01-06-2026/ | ✅ ENTREGUE | 11 PDFs V5.1 + manifestacoes_01-06-2026.txt, commit 73ec35d |
 
 ---
 
@@ -248,10 +249,10 @@ URLs a adicionar via nb_add_source.py:
 | SEI_000184.002582_2026_03.pdf | CVL 1329/2026 | PLC 106/2026 | ✅ PROCESSADO (V5.1) — commit 9b966ae | escaneado |
 | SEI_000184.002605_2026_71.pdf | CVL 1342/2026 | PL 1904/2026 | ✅ PROCESSADO (V5.1) | escaneado |
 | SEI_000184.002830_2026_16.pdf | CVL 1476/2026 | PL 1921/2026 | ✅ PROCESSADO (V5.1) — commit 093ddfb | escaneado |
-| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ✅ PROCESSADO (V5.1) — posição corrigida (contrário → nada a opor), commit pendente | escaneado |
+| SEI_000184.003025_2026_00.pdf | CVL 1568/2026 | PL 1934/2026 | ✅ PROCESSADO (V5.1) — posição corrigida (contrário → nada a opor), commit f20ea0e | escaneado |
 | SEI_000184.003246_2026_70.pdf | CVL 1722/2026 | PL 1954/2026 | ✅ PROCESSADO (V3) | escaneado |
 | SEI_001000.003088_2026_21 (1).pdf | — | IND CMRJ 06549/2025 (Vereador Leonel de Esquerda) | ❓ BLOQUEADO — PDF contém só despachos; texto da IND ausente; ver IND-CMRJ-06549-2025/BLOQUEIO.md | escaneado |
-| SEI_001000.003809_2026_01.pdf | SMG 1526/2026 | PL 1795/2026 (roteamento) | ✅ PL-1795 PROCESSADO (V3) — este PDF é duplicata de roteamento | escaneado |
-| SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ✅ PROCESSADO (V5.1) — commit pendente | escaneado |
+| SEI_001000.003809_2026_01.pdf | SMG 1526/2026 | PL 1795/2026 (roteamento) | ✅ PL-1795 PROCESSADO (V5.1) — commit 7a9478f | escaneado |
+| SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ✅ PROCESSADO (V5.1) — commit f20ea0e | escaneado |
 | SEI_000184.003132_2026_20.pdf | — | PL 163/2025 | 📋 Lei 9.326/2026 (sancionada) | nativo |
 | SEI_000184.003147_2026_98.pdf | — | PL 1320/2025 | 📋 Lei 9.337/2026 (sancionada) | nativo |
