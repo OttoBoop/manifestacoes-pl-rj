@@ -92,9 +92,17 @@ PDF do PL
 | V5 — PLC-103 | ✅ PROCESSADO (V5) | short 364w, 5 citações (2 EN), PASS (4✅+1⚠️corrigido), commit+push |
 | V5 — PLC-104 | ✅ PROCESSADO (V5) | short 366w, 4 citações (2 EN), PASS (2✅+2⚠️corrigidos), commit+push |
 | V5 — Lote C | ✅ | PLC-105 (short 346w, PASS), PLC-106 (short 348w, PASS), PL-1921 (short 331w, PASS) — commit 23beed6→093ddfb |
-| V5 — PL-1826 | ✅ PROCESSADO (V5.1) | short 361w, 4 citações (2 EN), PASS (3✅+1⚠️), commit pendente |
-| V5 — PL-1934 (reescrita) | ✅ PROCESSADO (V5.1) | posição contrária → nada a opor, 4 citações (1 EN), commit pendente |
+| V5 — PL-1826 | ✅ PROCESSADO (V5.1) | short 361w, 4 citações (2 EN), PASS (3✅+1⚠️), commit f20ea0e |
+| V5 — PL-1934 (reescrita) | ✅ PROCESSADO (V5.1) | posição contrária → nada a opor, 4 citações (1 EN), commit f20ea0e |
 | V5 — IND CMRJ 06549/2025 | ❓ BLOQUEADO | PDF só contém despachos de roteamento — texto da IND ausente; aguarda documento da Câmara |
+| V5.1 — PL-1795 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2019/1152/UE + CDC), commit pendente |
+| V5.1 — PL-1840 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2011/83/UE + CF/1988), commit pendente |
+| V5.1 — PL-1844 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: OECD Tourism 2012 + FGV/ABRASEL), commit pendente |
+| V5.1 — PL-1866 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Diretiva 2011/83/UE + Lei 13.419/2017), commit pendente |
+| V5.1 — PL-1883 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + LC 116/2003), commit pendente |
+| V5.1 — PL-1884 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Rodrik 2004 + LC 116/2003), commit pendente |
+| V5.1 — PL-1900 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + ANCORD/Gorila), commit pendente |
+| V5.1 — PL-1954 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: World Bank 2022 + SEBRAE), commit pendente |
 
 ---
 
