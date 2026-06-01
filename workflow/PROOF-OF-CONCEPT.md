@@ -103,6 +103,7 @@ PDF do PL
 | V5.1 — PL-1884 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: Rodrik 2004 + LC 116/2003), commit pendente |
 | V5.1 — PL-1900 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: IOSCO 2023 + ANCORD/Gorila), commit pendente |
 | V5.1 — PL-1954 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: World Bank 2022 + SEBRAE), commit pendente |
+| V5.1 — PL-74/2025 (upgrade V3) | ✅ PROCESSADO (V5.1) | v4.md + PDF: sem ressalvas, 4 citações (1 EN: OIT ILC 2022), 343w, commit pendente |
 
 ---
 
