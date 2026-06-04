@@ -254,5 +254,5 @@ URLs a adicionar via nb_add_source.py:
 | SEI_001000.003088_2026_21 (1).pdf | — | IND CMRJ 06549/2025 (Vereador Leonel de Esquerda) | ❓ BLOQUEADO — PDF contém só despachos; texto da IND ausente; ver IND-CMRJ-06549-2025/BLOQUEIO.md | escaneado |
 | SEI_001000.003809_2026_01.pdf | SMG 1526/2026 | PL 1795/2026 (roteamento) | ✅ PL-1795 PROCESSADO (V5.1) — commit 7a9478f | escaneado |
 | SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ✅ PROCESSADO (V5.1) — commit f20ea0e | escaneado |
-| SEI_000184.003132_2026_20.pdf | — | PL 163/2025 | 📋 Lei 9.326/2026 (sancionada) | nativo |
-| SEI_000184.003147_2026_98.pdf | — | PL 1320/2025 | 📋 Lei 9.337/2026 (sancionada) | nativo |
+| SEI_000184.003132_2026_20.pdf | Despacho Ciência SEI 3412879 | PL 163/2025 (Lei 9.326/2026) | ✅ PROCESSADO (V5.1) — ciência da lei, commit pendente | nativo |
+| SEI_000184.003147_2026_98.pdf | Despacho Ciência SEI 3412944 | PL 1320/2025 (Lei 9.337/2026) | ✅ PROCESSADO (V5.1) — ciência da lei, commit pendente | nativo |
