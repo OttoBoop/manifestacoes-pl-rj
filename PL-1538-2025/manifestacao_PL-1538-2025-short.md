@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 1538/2025
+
+**Ofício:** SGV nº OFI-2025/10541 (SGV/G/CGALP) | **Órgão:** SMDE | **Data:** dezembro de 2025
+
+---
+
+Em atenção ao Ofício SGV nº OFI-2025/10541, encaminhado pela Secretaria Municipal de Governo em 3 de dezembro de 2025, referente ao PL nº 1538/2025, de autoria da Vereadora Helena Vieira, que dispõe sobre o credenciamento, regulamentação e fiscalização de empresas privadas gestoras de comércio popular voltadas à administração de Microempreendedores Individuais — MEI, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL nº 1538/2025 institui o marco regulatório das empresas gestoras que já atuam na organização do comércio ambulante no Município. A proposição define os conceitos de empresa gestora e de vendedor autônomo cadastrado como MEI; os requisitos documentais para credenciamento junto ao órgão competente; as obrigações operacionais das empresas — estrutura padronizada, equipamentos certificados, higiene e suporte técnico —; as obrigações dos vendedores autônomos vinculados; as modalidades de parceria com o Poder Executivo via editais de credenciamento, convênios e termos de cooperação; e o regime de penalidades por descumprimento. A iniciativa não cria novas pessoas jurídicas, mas regula as já existentes, garantindo segurança jurídica a um segmento até então sem normatização específica.
+
+O comércio popular tem expressão relevante na economia brasileira e carioca. O segmento MEI reúne 13,1 milhões de empreendedores no País, sendo 3,1 milhões no setor de comércio (RECEITA FEDERAL. "Dados do Microempreendedor Individual", Portal do MEI, 2025). No Rio de Janeiro, 60% dos pequenos negócios ainda operam na informalidade, evidenciando a importância de marcos regulatórios municipais de formalização progressiva (SEBRAE RJ. "Informalidade nos Pequenos Negócios", Agência SEBRAE RJ, 2024). No plano internacional, a OIT estima que 60% da força de trabalho global atua na economia informal, com déficits em proteção social e acesso a crédito (ILO. "Women and Men in the Informal Economy: A Statistical Picture", International Labour Organization, 2023). A regulação por empresas gestoras credenciadas reduz a vulnerabilidade dos ambulantes, garante padrões sanitários e apoia a integração ao ecossistema produtivo formal (WIEGO. "Street Vendors and Market Traders", Women in Informal Employment: Globalizing and Organizing, 2024).
+
+Nesse sentido, o PL nº 1538/2025 institui estrutura regulatória que beneficia diretamente os microempreendedores vinculados ao comércio popular carioca. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1538/2025.
