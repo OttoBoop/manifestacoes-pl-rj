@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2097/2026
+
+**Ofício:** CVL nº 3646/2026 (CVL/CGALP) | **Órgão:** SMDE | **Data:** maio de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 3646/2026, encaminhado pela Secretaria Municipal da Casa Civil em 20 de maio de 2026, referente ao PL nº 2097/2026, de autoria do Vereador Salvino Oliveira, que institui a Política Municipal de Incentivo à Implantação de Residências Estudantis no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL nº 2097/2026 estabelece marco legal para uma política de moradia estudantil ancorada em quatro diretrizes: promoção de moradia digna para estudantes em situação de vulnerabilidade socioeconômica; estímulo à ocupação de áreas dotadas de infraestrutura próximas a polos educacionais; articulação entre setor público, instituições de ensino e setor privado; e requalificação de imóveis subutilizados ou degradados para fins habitacionais estudantis. O art. 4.º faculta ao Poder Executivo a concessão de incentivos concretos — simplificação do licenciamento para reformas e parâmetros urbanísticos diferenciados em Áreas de Especial Interesse Social ou Cultural —, sem criar obrigações de desembolso imediato e sem alterar as regras gerais de parcelamento do solo fora dessas áreas especiais.
+
+A proximidade habitacional com os centros de ensino influencia diretamente a permanência e o desempenho acadêmico, com impactos sobre a formação do capital humano local. O Banco Mundial documenta que essa proximidade é fator central de desempenho e retenção estudantil em economias em desenvolvimento (World Bank. "What Factors Affect Student Academic Performance", World Bank, 2022). A OCDE aponta que cidades universitárias com oferta adequada de residências estudantis apresentam ecossistemas de inovação e empreendedorismo mais densos, com maior formação de startups oriundas de ambientes universitários (OECD. "Promoting Entrepreneurship and Innovative SMEs", OECD, 2004). O GEM Brasil registra que 39% dos empreendedores iniciais brasileiros têm entre 18 e 34 anos, faixa etária beneficiada por políticas de moradia que reduzem o custo de permanência urbana (GEM. "Global Entrepreneurship Monitor: Brasil", GEM, 2023). O IBGE estima que o Rio de Janeiro concentra mais de 350 mil estudantes universitários, posicionando a cidade como polo nacional de formação de força de trabalho qualificada (IBGE. "Censo Demográfico", IBGE, 2022).
+
+Nesse sentido, o PL nº 2097/2026 institui política de moradia estudantil que fortalece o capital humano e o ecossistema empreendedor carioca. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 2097/2026.
