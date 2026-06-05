@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2076/2026
+
+**Ofício:** CVL nº 3513/2026 (CVL/CGALP) | **Órgão:** SMDE | **Data:** maio de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 3513/2026, encaminhado pela Secretaria Municipal da Casa Civil em 20 de maio de 2026, referente ao PL nº 2076/2026, de autoria da Vereadora Alana Passos, que institui a Aliança Comercial de Bairro destinada à integração, cooperação e fortalecimento de microcorredores comerciais no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL nº 2076/2026 institui, em nove artigos, instrumento de adesão voluntária por meio do qual comerciantes, prestadores de serviços, associações comerciais e entidades representativas podem se articular em torno de objetivos comuns: melhoria da segurança, limpeza urbana, combate à desordem e ao comércio irregular, e fortalecimento da vitalidade econômica dos corredores de bairro. O art. 5.º confere à Aliança o papel de interlocutora qualificada junto ao Poder Público, com capacidade de propor priorização de zeladoria urbana, sinalização e integração com a Guarda Municipal. O art. 6.º faculta ao Executivo a concessão do selo "Comércio Forte" a regiões com padrões satisfatórios de organização, sem impor qualquer encargo aos estabelecimentos aderentes.
+
+Modelos análogos de cooperação empresarial territorial — como os Business Improvement Districts (BIDs) norte-americanos e os distritos comerciais europeus — demonstram que a articulação organizada entre comerciantes reduz custos de transação, revitaliza espaços subutilizados e amplifica o efeito das políticas públicas de desenvolvimento local (OECD. "Local Economic and Employment Development", OECD, 2023). A Organização Internacional do Trabalho documenta que intervenções de desenvolvimento econômico local baseadas em parcerias público-privadas territoriais geram impacto mensurável na formalização, produtividade e renda das MPEs envolvidas (ILO. "Local Economic Development: Challenges and Responses", ILO, 2022). O IBGE registra que o setor varejista emprega mais de 10 milhões de trabalhadores formais no Brasil, com forte concentração em corredores comerciais de bairro (IBGE. "Pesquisa Anual de Comércio", IBGE, 2023). O SEBRAE aponta que as micro e pequenas empresas respondem por 27% do PIB nacional e são altamente dependentes do ambiente de negócios local para sua sobrevivência (SEBRAE. "Participação das MPEs no PIB", SEBRAE, 2022).
+
+Nesse sentido, o PL nº 2076/2026 cria instrumento de governança territorial voluntária com potencial de fortalecer a economia de bairro e a formalidade comercial. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 2076/2026.
