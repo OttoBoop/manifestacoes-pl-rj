@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 1985/2026
+
+**Ofício:** CVL nº 1902/2026 (CVL/CGALP) | **Órgão:** SMDE | **Data:** abril de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 1902/2026, encaminhado pela Secretaria Municipal da Casa Civil em 27 de abril de 2026, referente ao PL nº 1985/2026, de autoria do Vereador Rick Azevedo, que institui a Política Municipal de Apoio à Mobilidade dos Entregadores por Bicicleta no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL nº 1985/2026 cria, em oito artigos, a estrutura de diretrizes para a instalação de bicicletários públicos em locais estratégicos da cidade. Os artigos 2.º a 4.º estabelecem os critérios de localização — proximidade com polos comerciais, centros gastronômicos, shoppings e áreas com elevado volume de pedidos por aplicativos — e os padrões mínimos de infraestrutura dos bicicletários, incluindo segurança estrutural, sinalização, iluminação e identificação. O art. 5.º autoriza parcerias com empresas de aplicativos e iniciativa privada para implementação e manutenção; o art. 6.º garante uso gratuito; e o art. 7.º condiciona a execução à disponibilidade orçamentária. A proposição não cria obrigações ao setor privado nem impõe encargos imediatos ao Executivo.
+
+O crescimento do trabalho intermediado por plataformas digitais de entrega elevou os entregadores de bicicleta ao status de componente estrutural da economia urbana. A OIT documenta que plataformas digitais de trabalho geram oportunidades de renda para populações vulneráveis, ao mesmo tempo em que evidenciam lacunas de proteção e infraestrutura que o Poder Público deve endereçar (ILO. "World Employment and Social Outlook: The Role of Digital Labour Platforms in Transforming the World of Work", International Labour Organization, 2021). No Rio de Janeiro, parte significativa desses trabalhadores atua registrada como Microempreendedor Individual, integrando o ecossistema formal de empreendedorismo urbano apoiado pela SMDE (SEBRAE. "Entregadores MEI: Crescimento no Brasil", Agência SEBRAE, 2025). A provisão de bicicletários próximos a polos comerciais fortalece a logística de última milha e amplia a competitividade do comércio local. O Banco Mundial reconhece que a infraestrutura de mobilidade por bicicleta contribui para a eficiência do transporte urbano e para a sustentabilidade das cidades (WORLD BANK. "Cycling for Sustainable Transport", World Bank, 2024).
+
+Nesse sentido, o PL nº 1985/2026 institui política de baixo custo e elevado impacto para os trabalhadores de plataforma do Município. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1985/2026.
