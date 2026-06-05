@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 1990/2026
+
+**Ofício:** CVL nº 1933/2026 (CVL/CGALP) | **Órgão:** SMDE | **Data:** abril de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 1933/2026, encaminhado pela Secretaria Municipal da Casa Civil em 27 de abril de 2026, referente ao PL nº 1990/2026, de autoria do Vereador Salvino Oliveira, que institui o regime de Auditoria de Conformidade e o Relatório de Transparência Operacional para empresas prestadoras de serviços de telecomunicações em favelas no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL nº 1990/2026 cria, em sete artigos, um mecanismo de accountability para telecomunicações em territórios de favela. O art. 2.º institui o Relatório de Transparência Operacional anual, exigindo das empresas a relação de técnicos atuantes, comprovação de regularidade trabalhista, mapeamento das redes instaladas e declaração de livre acesso a agentes públicos. O art. 3.º define as hipóteses de auditoria — interrupções seletivas de sinal favorecendo fornecedores clandestinos, restrição de acesso a técnicos concorrentes e intermediação de interesses de grupos armados —, enquanto o art. 5.º prevê sanções incluindo cassação imediata da licença. O art. 6.º permite o compartilhamento dos dados obtidos com órgãos de segurança pública estadual e federal.
+
+O acesso universal a serviços de telecomunicações de qualidade é condição habilitante para a digitalização de MPEs e a formalização de MEIs em territórios populares. Segundo o IBGE, 82,7% dos domicílios brasileiros acessam a internet, mas a taxa cai em áreas de baixa renda, onde práticas monopolísticas aprofundam as lacunas de conectividade (IBGE. "Pesquisa Nacional por Amostra de Domicílios Contínua — TIC", IBGE, 2023). A OCDE documenta que a qualidade e competitividade do mercado de telecomunicações local é determinante para a digitalização de pequenas empresas (OECD. "SME Digitalisation", OECD Going Digital, 2024). O Instituto Igarapé registra que monopólios territoriais informais de telecom em favelas do Rio restringem a competição e geram custos superiores para empreendedores locais (IGARAPÉ. "Telecom nas favelas: monopólio e violência", Instituto Igarapé, 2023). A transparência operacional das concessionárias contribui para um ambiente de negócios mais justo para os MEIs que dependem de conectividade digital (WORLD BANK. "Digital Economy for Growth and Poverty Reduction", World Bank, 2024).
+
+Nesse sentido, o PL nº 1990/2026 fortalece o ambiente regulatório para as telecomunicações em favelas. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 1990/2026.
