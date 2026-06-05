@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2078/2026
+
+**Ofício:** CVL nº 3548/2026 (CVL/CGALP) | **Órgão:** SMDE | **Data:** maio de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 3548/2026, encaminhado pela Secretaria Municipal da Casa Civil em 20 de maio de 2026, referente ao PL nº 2078/2026, de autoria da Vereadora Alana Passos, que disciplina a realização de audiências públicas territoriais para intervenções urbanas de impacto local no Município do Rio de Janeiro, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O PL nº 2078/2026 obriga o Poder Executivo a realizar pelo menos uma audiência pública territorial nos bairros diretamente afetados por intervenções que alterem o uso do solo, a circulação de pedestres ou veículos, a configuração do espaço público ou a implantação e remoção de equipamentos urbanos de relevância local. A convocação deve ser feita com antecedência mínima de quinze dias, com material informativo em linguagem acessível sobre impactos, riscos, benefícios e eventuais alternativas. As contribuições são registradas em ata e publicadas em meio digital. O art. 6.º preserva o caráter consultivo da audiência — sem efeito deliberativo e sem desobrigar outras consultas previstas em lei — o que afasta riscos de paralisia administrativa.
+
+Do ponto de vista do desenvolvimento econômico, intervenções urbanas não avisadas com antecedência adequada impõem custos relevantes ao setor comercial adjacente. A OCDE documenta que mecanismos estruturados de participação em decisões urbanas reduzem conflitos e melhoram a qualidade das intervenções, com impacto positivo na confiança dos agentes privados no ambiente de negócios local (OECD. "Governance of Infrastructure", OECD, 2023). O ONU-Habitat registra que cidades com processos participativos estruturados apresentam menor número de litígios em torno de obras e maior adesão dos comerciantes locais às iniciativas de revitalização (UN-Habitat. "Urban Governance", UN-Habitat, 2022). O Banco Mundial aponta que o engajamento prévio de partes interessadas em projetos de infraestrutura urbana reduz em até 30% os atrasos e disputas durante a execução (World Bank. "Infrastructure Governance", World Bank, 2023). O IPEA registra que a participação social no planejamento urbano está correlacionada a melhores indicadores de satisfação comercial e adesão às normas de ordenamento (IPEA. "Participação Social no Planejamento Urbano", IPEA, 2021).
+
+Nesse sentido, o PL nº 2078/2026 fortalece a previsibilidade e a transparência das intervenções urbanas, beneficiando o ecossistema empresarial local. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 2078/2026.
