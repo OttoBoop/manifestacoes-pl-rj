@@ -256,3 +256,14 @@ URLs a adicionar via nb_add_source.py:
 | SEI_001000.004374_2026_12.pdf | SMG 1665/2026 | PL 1826/2026 — Coberturas Verdes e Sustentáveis | ✅ PROCESSADO (V5.1) — commit f20ea0e | escaneado |
 | SEI_000184.003132_2026_20.pdf | Despacho Ciência SEI 3412879 | PL 163/2025 (Lei 9.326/2026) | ✅ PROCESSADO (V5.1) — ciência da lei, commit 5878f27 | nativo |
 | SEI_000184.003147_2026_98.pdf | Despacho Ciência SEI 3412944 | PL 1320/2025 (Lei 9.337/2026) | ✅ PROCESSADO (V5.1) — ciência da lei, commit 5878f27 | nativo |
+| SEI_SGV_OFI_2025_10541.pdf | SGV OFI 2025/10541 | PL 1538/2025 — Credenciamento Empresas Gestoras Comércio Popular (MEI) | ✅ PROCESSADO (V5.1) — Vereadora Helena Vieira, commit bbdfd39 | escaneado |
+| SEI_000184.003281_2026_99.pdf | CVL 1765/2026 | PL 1964/2026 — Dia do Empresário no Calendário Oficial | ✅ PROCESSADO (V5.1) — Vereador Fernando Armelau, commit bbdfd39 | escaneado |
+| SEI_000184.003445_2026_88.pdf | CVL 1902/2026 | PL 1985/2026 — Política de Apoio à Mobilidade dos Entregadores por Bicicleta | ✅ PROCESSADO (V5.1) — Vereador Rick Azevedo, commit bbdfd39 | escaneado |
+| SEI_000184.003490_2026_32.pdf | CVL 1933/2026 | PL 1990/2026 — Auditoria de Conformidade para Telecom em Favelas | ✅ PROCESSADO (V5.1) — Vereador Salvino Oliveira, commit bbdfd39 | escaneado |
+| SEI_000184.003637_2026_94.pdf | CVL 2002/2026 | PL 2007/2026 — Programa de Garantia de Acesso a Serviços Básicos e Combate a Monopólios | ✅ PROCESSADO (V5.1) — Vereador Salvino Oliveira, commit bbdfd39 | escaneado |
+| SEI_000184.003817_2026_76.pdf | CVL 2108/2026 | PLC 112/2026 — Banheiro Família em Restaurantes | ✅ PROCESSADO (V5.1) — Vereador Inaldo Silva, commit bbdfd39 | escaneado |
+| SEI_000184.003956_2026_08.pdf | CVL 2229/2026 | PL 2040/2026 — Selo de Prevenção e Combate ao Antissemitismo | ✅ PROCESSADO (V5.1) — Vereador Flávio Valle, commit e71663a | escaneado |
+| SEI_000184.004011_2026_03.pdf | CVL 2288/2026 | PELOM 5/2026 — Engenhos Publicitários Túneis/Pontes/Viadutos e Eventos Esportivos | ✅ PROCESSADO (V5.1) — Vereador Rafael Aloisio Freitas, commit 7ae4f8f | escaneado |
+| SEI_000184.005602_2026_90.pdf | CVL 3513/2026 | PL 2076/2026 — Aliança Comercial de Bairro / Microcorredores Comerciais | ✅ PROCESSADO (V5.1) — Vereadora Alana Passos, commit 28faaa5 | escaneado |
+| SEI_000184.005668_2026_80.pdf | CVL 3548/2026 | PL 2078/2026 — Audiências Públicas Territoriais para Intervenções Urbanas | ✅ PROCESSADO (V5.1) — Vereadora Alana Passos, commit e504837 | escaneado |
+| SEI_000184.005782_2026_18.pdf | CVL 3646/2026 | PL 2097/2026 — Política Municipal de Incentivo a Residências Estudantis | ✅ PROCESSADO (V5.1) — Vereador Salvino Oliveira, commit 2490e77 | escaneado |
