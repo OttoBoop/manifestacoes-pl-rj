@@ -1,6 +1,7 @@
 # V5-AUDIT — PLC nº 98/2026
 
 **Data de processamento:** 2026-05-27
+**Reescrita:** 2026-06-16 — clareza + ângulo econômico (pedido do Marcel: "não entendi direito")
 **Pipeline versão:** V5
 **Arquivo auditado:** manifestacao_PLC-98-2026-short.md
 **Ofício:** CVL nº 1227/2026
@@ -17,7 +18,7 @@
 | manifestacao-short ≥ 4 citações | ✅ | 4 citações: CF/1988, SECOM/Agência Gov 2024, World Habitat 2025 (EN), ONU Goal 11 (EN) |
 | ≥1 citação internacional no short | ✅ | WORLD HABITAT 2025 (EN) + ONU Goal 11 (EN) |
 | audit_sources Wave 1+2 aplicado | ✅ | 5 ✅ confirmados + 3 ⚠️ corrigidos + 0 ❓ |
-| PDF gerado ≤ 1 página | ✅ | 1 página, 14 KB, 345 palavras |
+| PDF gerado ≤ 1 página | ✅ | 1 página, 14 KB, 368 palavras (reescrita 16-06) |
 | V5-AUDIT.md criado | ✅ | Este arquivo |
 | commit + push para manifestacoes-pl-rj | ⏳ | Pendente |
 
@@ -41,3 +42,8 @@
 
 ## STATUS
 ✅ PASS — 5 ✅ confirmados + 3 ⚠️ corrigidos + 0 ❓ inverificáveis
+
+## Reescrita 2026-06-16 (clareza)
+- Motivo: Marcel não entendeu a versão anterior; auditoria já confirmara que não havia erro factual → problema de legibilidade.
+- Mudanças: removidas as siglas soltas HIS/EIS (usados termos por extenso); 3 medidas separadas com o propósito de cada; enquadramento econômico explícito (subsídio escasso → focalização, transparência ao consumidor, integridade do mercado de locação).
+- Citações inalteradas (mesmo conjunto já auditado): CF/1988, Agência Gov 2024, World Habitat 2025 (EN), ONU Goal 11 (EN). 368 palavras, PDF 1 página.
