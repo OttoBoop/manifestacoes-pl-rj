@@ -2,7 +2,7 @@
 
 > Tabela mestre de todas as manifestações já produzidas pela pipeline.
 > Fonte canônica de detalhe por PL: `workflow/PROOF-OF-CONCEPT.md` (inventário de PDFs) + `<PASTA>/V5-AUDIT.md`.
-> **Atualizado:** 2026-06-15 — **33 manifestações entregues** + 1 bloqueada.
+> **Atualizado:** 2026-06-23 — **37 manifestações entregues** + 1 bloqueada.
 
 ---
 
@@ -28,7 +28,7 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 
 ---
 
-## Tabela mestre — 33 manifestações
+## Tabela mestre — 37 manifestações
 
 | # | PL/PLC | Ofício | Autor | Ementa (resumo) | Posição | Palavras | Citações (EN) | Entregável |
 |---|--------|--------|-------|-----------------|---------|----------|---------------|------------|
@@ -65,6 +65,10 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 31 | PL 2076/2026 | CVL 3513/2026 | Alana Passos | Aliança Comercial de Bairro / microcorredores comerciais | Nada a opor | 367 | 4 (2) | 07-06 |
 | 32 | PL 2078/2026 | CVL 3548/2026 | Alana Passos | Audiências Públicas Territoriais p/ intervenções urbanas | Nada a opor | 367 | 4 (3) | 07-06 |
 | 33 | PL 2097/2026 | CVL 3646/2026 | Salvino Oliveira | Política de Incentivo a Residências Estudantis | Nada a opor | 368 | 4 (2) | 07-06 |
+| 34 | PL 799/2025 | CVL 934/2026 (urgentíssimo) | Maíra do MST | Sistemas Produtivos Agroecológicos p/ Mulheres da Agricultura Urbana (autonomia econômica) | Nada a opor | 341 | 4 (2) | 23-06 |
+| 35 | PL 2261/2026 | CVL 4434/2026 | — (a confirmar) | Reconhece interesse público do Rio Innovation Week | Nada a opor | 287 | 4 (2) | 23-06 |
+| 36 | PL 2262/2026 | CVL 4436/2026 | — (a confirmar) | Inclui Semana do Rio Innovation Week no calendário (Lei 5.146/10) | Nada a opor | 291 | 4 (2) | 23-06 |
+| 37 | PL 2263/2026 | CVL 4439/2026 | — (a confirmar) | Inclui Dia do Empreendedorismo Prateado no calendário (Lei 5.146/10) | Nada a opor | 273 | 4 (2) | 23-06 |
 
 ---
 
@@ -76,8 +80,9 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | `entregáveis 01-06-2026/` | D/E + POC (PL-74, 1795, 1826, 1840, 1844, 1866, 1883, 1884, 1900, 1934, 1954) | 11 | 20 |
 | `entregáveis 04-06-2026/` | F — ciência da lei (PL-163, PL-1320) | 2 | **22** |
 | `entregáveis 07-06-2026/` | G+H (PL-1538, 1964, 1985, 1990, 2007, PLC-112, 2040, PELOM-5, 2076, 2078, 2097) | 11 | **33** |
+| `entregáveis 23-06-26/` | I (PL-799, 2261, 2262, 2263) | 4 | **37** |
 
-> O número **22** corresponde ao acervo concluído até o entregável de **04-06-2026**. A varredura da pasta de despachos identificou os **11 faltantes** (Lote G+H), processados e entregues em 07-06-2026 → **33** no total.
+> O número **22** corresponde ao acervo concluído até o entregável de **04-06-2026**. A varredura da pasta de despachos identificou os **11 faltantes** (Lote G+H), processados e entregues em 07-06-2026 → **33**. O lote de **23-06-2026** acrescentou 4 (incl. o PL 799/2025, que constava como "não localizado" na lista da Luiza) → **37** no total.
 
 ---
 
@@ -86,6 +91,15 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | Documento | Autor | Motivo |
 |-----------|-------|--------|
 | IND CMRJ 06549/2025 | Vereador Leonel de Esquerda | PDF contém apenas despachos de roteamento; texto da indicação ausente. Ver `IND-CMRJ-06549-2025/BLOQUEIO.md`. Aguarda documento da Câmara. |
+
+## Pendentes da lista da Luiza (15-06-2026) ainda não localizados
+
+Da lista de 20 SEI da Luiza, restam **2 não localizados** (não estão no dump do chat nem no repo) — o terceiro, `000184.002086/2026-41`, era o **PL 799/2025**, agora processado (item 34):
+
+- `001000.001254/2026-55`
+- `001000.000130/2026-52`
+
+Ação: pedir reenvio dos PDFs à Câmara/Luiza. Detalhe em `CONFERENCIA-PENDENTES-LUIZA.md`.
 
 ## Fora de escopo (não são despachos a processar)
 

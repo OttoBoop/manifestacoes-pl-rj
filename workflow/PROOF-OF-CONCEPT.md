@@ -105,6 +105,9 @@ PDF do PL
 | V5.1 — PL-1954 (upgrade V3) | ✅ PROCESSADO (V5.1) | short reescrito: sem ressalvas, 4 citações (2 EN: World Bank 2022 + SEBRAE), commit 7a9478f |
 | V5.1 — PL-74/2025 (upgrade V3) | ✅ PROCESSADO (V5.1) | v4.md + PDF: sem ressalvas, 4 citações (1 EN: OIT ILC 2022), 343w, commit 0908526 |
 | entregáveis 01-06-2026/ | ✅ ENTREGUE | 11 PDFs V5.1 + manifestacoes_01-06-2026.txt, commit 73ec35d |
+| Lote G+H (11 PLs) | ✅ ENTREGUE | entregáveis 07-06-2026/ — PL-1538, 1964, 1985, 1990, 2007, PLC-112, 2040, PELOM-5, 2076, 2078, 2097 |
+| PLC-98 reescrita | ✅ | Clareza (pedido Marcel), commit cace2f8 |
+| Lote I (4 PLs) | ✅ ENTREGUE | entregáveis 23-06-26/ — PL-799/2025, 2261, 2262, 2263; commit 3a6a907. **Total acumulado: 37 manifestações** |
 
 ---
 
@@ -267,3 +270,7 @@ URLs a adicionar via nb_add_source.py:
 | SEI_000184.005602_2026_90.pdf | CVL 3513/2026 | PL 2076/2026 — Aliança Comercial de Bairro / Microcorredores Comerciais | ✅ PROCESSADO (V5.1) — Vereadora Alana Passos, commit 28faaa5 | escaneado |
 | SEI_000184.005668_2026_80.pdf | CVL 3548/2026 | PL 2078/2026 — Audiências Públicas Territoriais para Intervenções Urbanas | ✅ PROCESSADO (V5.1) — Vereadora Alana Passos, commit e504837 | escaneado |
 | SEI_000184.005782_2026_18.pdf | CVL 3646/2026 | PL 2097/2026 — Política Municipal de Incentivo a Residências Estudantis | ✅ PROCESSADO (V5.1) — Vereador Salvino Oliveira, commit 2490e77 | escaneado |
+| SEI_000184.002086_2026_41.pdf | CVL 934/2026 (urgentíssimo) | PL 799/2025 — Sistemas Produtivos Agroecológicos p/ Mulheres da Agricultura Urbana | ✅ PROCESSADO (V5.1) — Vereadora Maíra do MST, commit 3a6a907; era "não localizado" na lista da Luiza | nativo |
+| SEI_000184.006655_2026_28.pdf | CVL 4434/2026 | PL 2261/2026 — Reconhece interesse público do Rio Innovation Week | ✅ PROCESSADO (V5.1) — autor a confirmar, commit 3a6a907 | escaneado |
+| SEI_000184.006659_2026_14.pdf | CVL 4436/2026 | PL 2262/2026 — Inclui Semana do Rio Innovation Week no calendário (Lei 5.146/2010) | ✅ PROCESSADO (V5.1) — autor a confirmar, commit 3a6a907 | escaneado |
+| SEI_000184.006662_2026_20.pdf | CVL 4439/2026 | PL 2263/2026 — Inclui Dia do Empreendedorismo Prateado no calendário (Lei 5.146/2010) | ✅ PROCESSADO (V5.1) — autor a confirmar, commit 3a6a907 | escaneado |
