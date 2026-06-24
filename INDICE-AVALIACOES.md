@@ -66,8 +66,8 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 32 | PL 2078/2026 | CVL 3548/2026 | Alana Passos | Audiências Públicas Territoriais p/ intervenções urbanas | Nada a opor | 367 | 4 (3) | 07-06 |
 | 33 | PL 2097/2026 | CVL 3646/2026 | Salvino Oliveira | Política de Incentivo a Residências Estudantis | Nada a opor | 368 | 4 (2) | 07-06 |
 | 34 | PL 799/2025 | CVL 934/2026 (urgentíssimo) | Maíra do MST | Sistemas Produtivos Agroecológicos p/ Mulheres da Agricultura Urbana (autonomia econômica) | Nada a opor | 341 | 4 (2) | 23-06 |
-| 35 | PL 2261/2026 | CVL 4434/2026 | — (a confirmar) | Reconhece interesse público do Rio Innovation Week | Nada a opor | 287 | 4 (2) | 23-06 |
-| 36 | PL 2262/2026 | CVL 4436/2026 | — (a confirmar) | Inclui Semana do Rio Innovation Week no calendário (Lei 5.146/10) | Nada a opor | 291 | 4 (2) | 23-06 |
+| 35 | PL 2261/2026 | CVL 4434/2026 | — (a confirmar) | Reconhece interesse público do Rio Innovation Week | Nada a opor | 308 | 4 (1) | 23-06 |
+| 36 | PL 2262/2026 | CVL 4436/2026 | — (a confirmar) | Inclui Semana do Rio Innovation Week no calendário (Lei 5.146/10) | Nada a opor | 316 | 4 (1) | 23-06 |
 | 37 | PL 2263/2026 | CVL 4439/2026 | — (a confirmar) | Inclui Dia do Empreendedorismo Prateado no calendário (Lei 5.146/10) | Nada a opor | 273 | 4 (2) | 23-06 |
 
 ---

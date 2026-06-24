@@ -13,9 +13,9 @@
 | Critério | Status | Observação |
 |----------|--------|------------|
 | Substância do PL identificada | ✅ | Ementa literal (reconhece interesse público do Rio Innovation Week) |
-| manifestacao-short ≥ 4 citações | ✅ | 4: RIOTUR 2025, UNWTO 2006 (EN), OECD 2004 (EN), CF/1988 |
-| ≥1 citação internacional | ✅ | UNWTO + OECD (EN) |
-| 250–370 palavras | ✅ | 287 palavras |
+| manifestacao-short ≥ 4 citações | ✅ | 4: Prefeitura "Rio o Ano Inteiro" 2025, Prefeitura RIW 2025, UNWTO 2006 (EN), CF/1988 |
+| ≥1 citação internacional | ✅ | UNWTO (EN) |
+| 250–370 palavras | ✅ | 308 palavras (rev. 24-06) |
 | PDF ≤ 1 página | ✅ | 1 página, 14 KB |
 | commit + push | ⏳ | Pendente |
 
@@ -28,5 +28,13 @@
 ## Pendências para revisão humana
 - **Autor não obtido** (não consta do ofício; base camara.rio dinâmica). Inserir nome do vereador na abertura quando confirmado.
 
+## Revisão 2026-06-24 (pedido do chefe via Marcel)
+- Áudio do Marcel (22/06) pediu citar fontes oficiais específicas. Substituídas as fontes:
+  - + PREFEITURA DO RIO. "Calendário Rio o Ano Inteiro", 2025 → 4 mil eventos/2024, +20 mi pessoas, ~R$ 20 bi de movimentação, R$ 1,7 bi de arrecadação projetada até 2028 (verificado em prefeitura.rio/riotur).
+  - + PREFEITURA DO RIO. "Rio Innovation Week movimenta cerca de R$ 150 milhões...", 2025 → R$ 149,7 mi, +200 mil participantes (verificado).
+  - Removidas RIOTUR-genérica/Exame (R$ 4 bi, 90% hotéis) e OECD. Mantida UNWTO (EN).
+- Nota: o áudio atribuía os números à "Tatiana Roque", mas as fontes oficiais NÃO os atribuem a ela (citam Paes/Riotur/Cavaliere) → citado institucionalmente, sem atribuição pessoal.
+- Mesma justificativa aplicada ao PL 2262 (instrução "bota os dois a mesma justificativa").
+
 ## STATUS
-✅ PASS — 4 citações (2 EN), nada a opor, 287 palavras, PDF 1 página. Autor a confirmar.
+✅ PASS — 4 citações (1 EN), nada a opor, 308 palavras, PDF 1 página. Autor a confirmar.
