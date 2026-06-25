@@ -36,5 +36,9 @@
 - Nota: o áudio atribuía os números à "Tatiana Roque", mas as fontes oficiais NÃO os atribuem a ela (citam Paes/Riotur/Cavaliere) → citado institucionalmente, sem atribuição pessoal.
 - Mesma justificativa aplicada ao PL 2262 (instrução "bota os dois a mesma justificativa").
 
+## Revisão 2026-06-25 (aceno à SMCT)
+- Investigado o "da Tatiana Roque" do áudio: ela é a Secretária Municipal de Ciência, Tecnologia e Inovação (SMCT), que CONDUZ o RIW — mas os números são da Riotur (Fellows) + Osmar Lima (SMDE), não dela. Decisão do Otávio: aceno factual à SMCT como condutora do evento, sem colar cifra no nome dela.
+- Acrescentado: "Conduzido pela Secretaria Municipal de Ciência, Tecnologia e Inovação, o Rio Innovation Week sobressai nesse universo: ...". Cifras seguem atribuídas a PREFEITURA DO RIO. 317 palavras.
+
 ## STATUS
 ✅ PASS — 4 citações (1 EN), nada a opor, 308 palavras, PDF 1 página. Autor a confirmar.

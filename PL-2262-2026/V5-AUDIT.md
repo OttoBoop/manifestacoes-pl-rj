@@ -33,5 +33,8 @@
 - Fontes oficiais: PREFEITURA DO RIO "Calendário Rio o Ano Inteiro" 2025 (4 mil eventos, +20 mi pessoas, ~R$ 20 bi, R$ 1,7 bi até 2028) + PREFEITURA DO RIO "Rio Innovation Week..." 2025 (R$ 149,7 mi). Mantida UNWTO (EN). Removidas RIOTUR-genérica/OECD.
 - Números não atribuídos a "Tatiana Roque" (fontes citam Paes/Riotur), apenas institucionalmente.
 
+## Revisão 2026-06-25 (aceno à SMCT)
+- Acrescentado aceno factual à Secretaria Municipal de Ciência, Tecnologia e Inovação (Tatiana Roque) como condutora do RIW, mantendo cifras com PREFEITURA DO RIO. Mesma frase do PL 2261. 325 palavras.
+
 ## STATUS
 ✅ PASS — 4 citações (1 EN), nada a opor, 316 palavras, PDF 1 página. Autor a confirmar.
