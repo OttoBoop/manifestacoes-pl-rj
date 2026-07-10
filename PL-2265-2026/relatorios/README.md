@@ -1,0 +1,1 @@
+Consolidação criada via coordenador em 2026-07-10. Relatórios integrais recebidos dos 4 pesquisadores (T1 exegese, T2 prós, T3 contras, T4 dados). Ver texto integral nos outputs de tasks; síntese e fontes-chave abaixo foram passadas ao escritor.

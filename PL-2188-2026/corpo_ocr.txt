@@ -1,0 +1,347 @@
+AcompanharProjeto
+FinaldoDocumento
+VOLTAR
+Texto Inicial do Projeto de Lei
+PROJETO DE LEI N° 2188/2026
+EMENTA:
+DISPOE SOBRE DIRETRIZES DE SEGURANCA
+INTEGRAL, VERIFICACAO DE IDENTIDADE E
+TRANSPARENCIA DE DADOS NOS SERVICOS DE
+PASSAGEIROS INTERMEDIADOS POR OPERADORAS
+DE TECNOLOGIA DE MOBILIDADE (OTM) NO
+MUNICiPIO DO RIO DE JANEIRO - LEI ALEXIA NUNES.
+Autor(es): VEREADORA THAIS FERREIRA
+A CAMARA MUNICIPAL DO RIO DE JANEIRO
+DECRETA:
+CAPiTULO I
+DAS DISPOSICOES GERAIS
+para a operacao de servicos de transporte privado remunerado de passageiros intermediados por
+Operadoras de Tecnologia de Mobilidade - OTM, visando a protecao da vida e da integridade de
+passageiros e condutores no ambito do Municipio do Rio de Janeiro.
+Paragrafo unico. A execucao desta Lei é condicionada ao que estabelece a Lei Federal n° 12.587,
+de 3 de janeiro de 2012 - Politica Nacional de Mobilidade Urbana, a Lei Federal n° 9.503, de 23 de
+setembro de 1997- Codigo de Transito Brasileiro e especialmente, a Lei Federal n° 13.614, de 11
+de janeiro de 2018- Plano Nacional de Reducao de Mortes e Lesoes no Transito - PNATRANS.
+Art. 2o Para os fins desta Lei, aplicam-se as seguintes definicoes:
+I - operadora de tecnologia de mobilidade -OTM: pessoa juridica que detém e opera plataforma
+tecnologica para a intermediacao de servicos de transporte individual privado;
+Il - condutor: pessoa cadastrada na plataforma da OTM para a prestacao do servico de transporte
+privado remunerado de passageiros;
+privado remunerado de passageiros;
+IV - usuario: termo que engloba condutores e passageiros;
+V - seguranca integral: estado de protecao que assegura a integridade biopsicossocial de
+condutores e passageiros, compreendendo a preservacao da saude fisica, o equilibrio psiquico e
+a dignidade nas interacoes sociais mediadas pela plataforma, bem como a protecao de seus
+dados pessoais;
+Vl - sinistro de transito: evento que resulte em dano, lesao ou obito, ocorrido durante o ciclo da
+viagem intermediada, compreendendo o trajeto entre a aceitagao da chamada e o desembarque
+do passageiro.
+SEl 000184.008038/2026-67 / pg. 1
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+
+--- fim página pg-1.png ---
+
+Art. 3o Todo o tratamento de dados previsto nesta Lei esta condicionado ao disposto na Lei
+Federal n° 13.709, de 14 de agosto de 2018 - Lei Geral de Protecao de Dados Pessoais (LGPD):
+ou outra que vier a ela substituir.
+CAPiTULO II
+DOS PROTOCOLOS DE SEGURANCA E IDENTIFICACAO
+Art. 4 As OTMs deverao implementar protocolos permanentes, ativos e responsivos de:
+I - validacao da identidade dos usuarios desde o cadastro e em verificacoes periodicas;
+Il - validacao da Carteira Nacional de Habilitacao - CNH;
+CNH do condutor;
+IV - garantia de seguranca integral dos usuarios, incluindo:
+a) monitoramento em tempo real do trajeto com deteccao de desvios ou paradas nao
+programadas;
+b) exigencia de equipamentos de protegao individual - EPls conforme a natureza do modal e a
+legislagao vigente;
+c) interface de emergencia ("Botao de Panico") com opcao de compartilhamento de rota em tempo
+real e integracao progressiva com os orgaos de seguranca publica;
+d) canal de pronto atendimento aos usuarios em situacoes de sinistro de transito;
+e) canal de recepcao e resolucao de denuncias de situacao irregular de identidade,
+documentacao, veiculo, conducao ou postura, violenta ou assediosa, identificada por usuarios.
+s 1° Os protocolos indicados nos incisos deste artigo deverao ser executados com vistas a
+eliminagao de todos os riscos evitaveis a integridade biopsicossocial dos usuarios, em respeito a
+legislacao de transito e mobilidade em vigor.
+s 2o Os protocolos de que este artigo trata devem contemplar as diferentes condicoes,
+equipamentos, riscos e capacidades de seus usuarios.
+Art. 5o E vedado o compartilhamento ou cessao de contas de condutores a terceiros, devendo a
+OTM utilizar tecnologias de reconhecimento para deteccao de uso indevido e bloqueio imediato da
+conta em caso de divergencia.
+CAPiTULO III
+DA TRANSPARENCIA E DIREITOS DO PASSAGEIRO
+Art. 6o O passageiro tera acesso, antes do inicio da viagem, a:
+I - identificacao inequivoca do condutor - nome social e foto atualizada;
+Il - placa, modelo e cor do veiculo;
+Ill - informacoes sobre a cobertura do seguro APP vigente para aquela viagem.
+Art. 7o Em caso de sinistro de transito, a OTM garantira aos usuarios vitimados orientacao, com
+postura humanizada e em linguagem simples e assertiva, sobre o acionamento de seguros, e as
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+SEI 000184.008038/2026-67 /pg.2
+
+--- fim página pg-2.png ---
+
+Art. 8o Os usuarios terao direito a resposta em tempo compativel a emergencia e gravidade dos
+processos abertos junto a OTM, bem como o acompanhamento das ocorrencias comunicadas, em
+CAPiTULO IV
+DO SEGURO
+Art. go As OTMs deverao contratar e manter em vigor seguro de acidentes pessoais para cobertura
+de sinistros de transito ocorridos durante a prestacao do servico, observadas as diretrizes da Lei
+Federal n° 12.587/2012, que cubra, obrigatoriamente:
+I - o passageiro, desde o momento do embarque até o desembarque final;
+Il - o condutor, desde o momento da aceitacao da viagem no aplicativo até o seu encerramento,
+incluindo o trajeto de deslocamento para busca do passageiro.
+s 1° A cobertura de que trata este artigo devera incluir, no minimo, indenizacao por morte
+s 2° E vedado qualquer repasse de custos de contratacao deste seguro ao condutor ou ao
+passageiro de forma discriminada ou adicional ao valor da tarifa.
+Art. 10. As OTMs deverao assegurar a disponibilizacao de cobertura securitaria de sinistros de
+transito aos usuarios, cumprindo os termos do Codigo de Defesa do Consumidor - Lei Federal n°
+8.078/1990.
+integridade fisica e a saude dos usuarios, podendo contemplar, entre outros, eventos relacionados
+a morte, invalidez e despesas médicas, hospitalares ou suplementares.
+s 2° As condicoes, limites e critérios da cobertura poderao ser regulamentados pelo Poder
+Executivo, observadas as normas gerais aplicaveis ao setor securitario e os principios da protecao
+ao usuario e da adequada prestacao do servico.
+s 3° As plataformas deverao assegurar ao usuario informacao clara, adequada e préevia a
+de acionamento.
+CAPiTULO V
+DA FISCALIZACAO
+Art. 11. As OTMs deverao manter registro das viagens realizadas, incluindo a identificacao do
+condutor, veiculo utilizado, horario e trajeto da viagem e assegurada a preservagao dessas
+informacoes para fins de fiscalizacao e investigacao de sinistros de transito.
+Art. 12. As OTMs fornecerao ao Poder Executivo, semestralmente, dados estatisticos
+seguranca publica e no transito.
+Art. 13. O Poder Executivo podera tratar os dados agregados sobre sinistros do transporte privado
+transparencia de informacao.
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+SEI 000184.008038/2026-67 /pg.3
+
+--- fim página pg-3.png ---
+
+CAPiTULO VI
+DAS SANCOES E PENALIDADES
+Art. 14. O descumprimento das obrigacoes previstas nesta Lei sujeitara as OTMs as seguintes
+sancoes administrativas, sem prejuizo das responsabilidades civis e penais cabiveis:
+I - advertéencia, com prazo para saneamento da irregularidade;
+Il - multa pecuniaria aplicada a OTM de Rs 15.000,00 (quinze mil reais);
+IV - cassacao definitiva do credenciamento em casos de gravidade extrema ou reiterado
+descumprimento de protocolos de seguranca que resultem em obito.
+s 1 Em caso de reincidéencia especifica no periodo de doze meses, a multa sera aplicada em
+dobro.
+s 2o Os valores serao atualizados anualmente pelo Indice Nacional de Precos ao Consumidor
+Amplo Especial (IPCA-E) ou outro indice que venha a substitui-lo.
+s 3° A aplicacao das sancoes considerara a gravidade da infracao, os antecedentes da operadora,
+a capacidade economica da empresa e o dano causado a integridade publica e biopsicossocial
+dos envolvidos.
+CAPiTULO VII
+DAS DISPOSICOES FINAIS E TRANSITORIAS
+Art. 15. O Poder Executivo regulamentara esta Lei no que couber.
+Art. 16. Esta Lei entra em vigor cento e vinte dias apos a data de sua publicacao.
+Plenario Teotonio Villela, 4 de maio de 2026.
+JUSTIFICATIVA
+verificagao de identidade e transparencia na prestagao dos servicos de transporte individual
+Janeiro.
+A iniciativa se insere em um contexto recente e concreto: o caso de Alexia Nunes de Oliveira, filha
+de Catia Aparecida Nunes de Oliveira e Alexander Vieira de Oliveira, jovem que perdeu a vida em
+20 de novembro de 2025 durante uma corrida intermediada por aplicativo de transporte por
+motocicleta. A gravidade do ocorrido evidenciou fragilidades relevantes nos mecanismos de
+ainda persistem na regulacao desse tipo de servico.
+Nos ultimos anos, o transporte por aplicativo se consolidou como alternativa relevante de
+mobilidade urbana na cidade, em um cenario de fragilidade do sistema de transporte publico,
+especialmente no caso das motocicletas, o servico tem ampliado o acesso ao deslocamento,
+sobretudo entre a populacao de menor renda: dados indicam que cerca de 57% dos usuarios
+SEI 000184.008038/2026-67 / pg. 4
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+
+--- fim página pg-4.png ---
+
+possuem renda inferior a Rs 2 mil.
+Esse crescimento, no entanto, ocorre em ritmo superior a capacidade de regulacao e garantia de
+seguranca. Segundo a Secretaria Nacional de Transito (SENATRAN), a frota de motocicletas no
+Municipio do Rio de Janeiro mais que dobrou entre 2018 e 2025, passando de aproximadamente
+205 mil para 462 mil veiculos. No mesmo periodo, a rede municipal de saude registrou, apenas
+entre janeiro e junho de 2025, 14.497 atendimentos a vitimas de sinistros envolvendo
+motocicletas.
+mecanismos de verificagao de identidade dos condutores nas plataformas digitais, incluindo o
+efetivamente realiza a viagem. Tais praticas comprometem a confianca no servico e ampliam
+riscos aos usuarios.
+Diante desse cenario, a presente proposta busca atuar dentro das competencias municipais,
+estabelecendo diretrizes que reforcam a responsabilidade das plataformas na organizacao e
+seguranca do servico prestado no territorio da cidade. Entre as medidas propostas, destacam-se o
+fortalecimento dos mecanismos de verificacao de identidade, a vedagao ao uso indevido de
+contas, a ampliacao da transparencia das informacoes ao usuario antes do inicio da viagem e a
+estruturacao de protocolos de seguranca e atendimento em situacoes de risco e sinistro.
+O projeto também incorpora a logica de seguranga integral do servico, compreendendo que a
+protecao de passageiros e condutores é indissociavel da adequada prestagao da atividade
+operacao de transporte de passageiros por motocicleta via aplicativos nao foi autorizada pelo
+Poder Publico municipal, justamente em razao das preocupacoes relacionadas a seguranca viaria
+e a elevada letalidade associada a esse modal. Esse contexto reforca a necessidade de que, nos
+locais onde o servico é permitido, existam parametros minimos de protecao aos usuarios.
+A seguranca no transporte por aplicativo também possui dimensao relevante sob a perspectiva de
+género. Mulheres sao usuarias frequentes desse tipo de servico, especialmente em trajetos curtos,
+noturnos ou como alternativa a situacoes de inseguranca no transporte publico e no deslocamento
+a pé. Nesse contexto, a previsibilidade e a identificacao inequivoca do condutor tornam-se
+elementos centrais para garantir deslocamentos mais seguros.
+A dor da familia de Alexia, transformada em mobilizacao e incidéncia publica, explicita a urgencia
+de respostas institucionais capazes de reduzir riscos e evitar que novas tragédias ocorram. Este
+Projeto de Lei nasce desse compromisso: transformar uma perda irreparavel em acao concreta de
+protecao a vida.
+Assim, a proposta estabelece parametros minimos de seguranca e transparencia, contribuindo
+para a reducao de riscos e para a melhoria da qualidade do servico prestado, sem inviabilizar o
+acesso a mobilidade, mas assegurando que ele ocorra de forma mais segura, responsavel e
+orientada a protecao da vida.
+Texto Original:
+- PROJETO 4760.pdf
+Legislacao Citada
+LEI N° 12.587, DE 3 DE JANEIRO DE 2012.
+Institui as diretrizes da Politica Nacional de Mobilidade Urbana
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+SEl 000184.008038/2026-67/pg.5
+
+--- fim página pg-5.png ---
+
+(..)
+LEI N° 9.503, DE 23 DE SETEMBRO DE 1997
+Institui o Codigo de Transito Brasileiro.
+(..)
+LEI N° 8.078, DE 11 DE SETEMBRO DE 1990
+Dispoe sobre a protecao do consumidor e da outras providéncias.
+(..)
+LEI N° 13.709. DE 14 DE AGOSTO DE 2018
+Lei Geral de Protecao de Dados Pessoais (LGPD)
+(..)
+LEI N° 13.614, DE 11 DE JANEIRO DE 2018
+Cria o Plano Nacional de Reducao de Mortes e Lesoes no Transito (Pnatrans) e acrescenta
+dispositivo a Lei n° 9.503, de 23 de setembro de 1997 (Codigo de Transito Brasileiro), para dispor
+sobre regime de metas de reducao de indice de mortos no transito por grupos de habitantes e de
+indice de mortos no transito por grupos de veiculos.
+(..)
+Atalho_para outros documentos
+Informacoes Basicas
+Ordinaria
+Regime de Tramitacao
+Projeto
+Datas:
+Entrada
+05/05/2026
+Despacho
+12/05/2026
+Republicacao
+Publicacao
+14/05/2026
+Outras Informacoes:
+Pag. do DCM da
+Pag- do DCM da
+16 a 19
+Republicacao
+Publicacao
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+SEl 000184.008038/2026-67 / pg. 6
+
+--- fim página pg-6.png ---
+
+MA
+Nao
+Arquivado
+Tipo de Quorum
+Nao
+Motivo da Republicacao
+Pendencias?
+Observacoes:
+DESPACHO: A imprimir e a(s) Comissao(oes) de:
+Comissao de Constituicao Justica e Redacao, Comissao de Administracao Publica e
+Assuntos Ligados ao Servidor Publico, Comissao de Transportes e Transito,
+Comissao de Ciéncia Tecnologia Comunicacao e Informatica, Comissao de Higiene Saude
+Publica e Bem-Estar Social, Comissao de Seguranca e Ordem Publica,
+Comissao Municipal de Defesa do Consumidor, Comissao de Educacao, Comissao de
+Financas Orcamento e Fiscalizacao Financeira.
+Em 12/05/2026
+CARLO CAIADO - Presidente
+Comissoes a serem distribuidas
+oi.:Comissao de Constituicao Justica e Redacao
+o2.:Comissao de Administracao Publica e Assuntos Ligados ao Servidor Publico
+o3.:Comissao de Transportes e Transito
+04.:Comissao de Ciéncia Tecnologia Comunicacao e Informatica
+o5.:Comissao de Higiene Saude Publica e Bem-Estar Social
+06.:Comissao de Seguranca e Ordem Publica
+o7.:Comissao Municipal de Defesa do Consumidor
+08.:Comissao de Educacao
+o9.:Comissao de Financas Orcamento e Fiscalizacao Financeira
+TRAMITACAO DO PROJETO DE LEI N0 2188/2026
+PROXIMO>>
+CONTRAIR
+BUSCAESPECIFICA
+<<ANTERIOR
++EXPANDIR
+Cadastro de Proposicoes
+Data Public Autor(es)
+Projeto de Lei
+20260302188
+DISPOE SOBRE DIRETRIZES DE SEGURANCA INTEGRAL: 14/05/2026 Vereadora
+VERIFICACAO DE IDENTIDADE E TRANSPARENCIA DE
+Thais
+DADOS NOS SERVICOS DE TRANSPORTE INDIVIDUAL
+Ferreira
+PRIVADO REMUNERADO DE PASSAGEIROS
+INTERMEDIADOS POR OPERADORAS DE TECNOLOGIA DE
+LEI ALEXIA NUNES. => 20260302188 => {Comissao de
+Constituicao Justica e Redacao Comissao de Administracao
+Publica e Assuntos Ligados ao Servidor Publico Comissao
+de Transportes e Transito Comissao de Ciéncia Tecnologia
+Comunicacao e Informatica Comissao de Higiene Saide
+Publica e Bem-Estar Social Comissao de Seguranca e
+Ordem Publica Comissao Municipal de Defesa do
+Consumidor Comissao de Educacao Comissao de Financas
+Orcamento e Fiscalizacao Financeira }
+-CONTRAIR
++EXPANDIR
+PROXIMO>>
+ANTERIOR
+BUSCAESPECIFICA
+SEl 000184.008038/2026-67 /pg.7
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+
+--- fim página pg-7.png ---
+
+Topo
+Camara Municipal do Rio de Janeiro
+Acesse o arquivo digital.
+SEI 000184.008038/2026-67 /pg.8
+Projeto PL 2188/2026 Extrato site CMRJ (4954512)
+
+--- fim página pg-8.png ---
+
+PREFEITURADACIDADE DORIODE JANEIRO
+Secretaria Municipal da Casa Civil
+Oficio CVL n° 5120/2026
+Ao Senhor
+Osmar Carneiro Guimaraes de Lima
+Secretario Municipal de Desenvolvimento Economico
+SMDE
+Rio de Janeiro, na data da assinatura.
+Assunto: ASSESSORAMENTO LEGISLATIVO: PROJETO DE LEI
+Senhor(a) Dirigente,
+Encaminhamos copia do PL n° 2188/2026, que "DISPOE SOBRE DIRETRIZES DE SEGURANCA INTEGRAL,
+VERIFICACAO DE IDENTIDADE E TRANSPARENCIA DE DADOS NOS SERVICOS DE TRANSPORTE INDIVIDUAL
+PRIVADO REMUNERADO DE PASSAGEIROS INTERMEDIADOS POR OPERADORAS DE TECNOLOGIA DE MOBILIDADE
+legislativa em tela. Solicitamos que, junto a manifestacao, o orgao indique de maneira objetiva posicionamento "Favoravel",
+Caso haja entendimento deste orgao em alterar, suprimir e/ou inserir dispositivos legais na referida proposicao
+(por exemplo, art., s, inciso e alinea), solicitamos vossa manifestacao nesse sentido.
+Respeitosamente,
+DANIEL ARAUJO DE OLIVEIRA
+Coordenador Geral de Acompanhamento Legislativo e Parlamentar
+Matricula: 325.215-2
+sei!
+Documento assinado eletronicamente por DANIEL ARAUJODE OLIVEIRA, Coordenador Geral, em 19/06/2026, as 12:01,
+conforme horario oficial de Brasilia, com fundamento no art. 26 do Decreto Rio n° 57.250, de 19 de novembro de 2025
+assinatura
+eletronica
+A autenticidade deste documento pode ser conferida no site https://prefeitura.sei.rio/sei/controlador_externo.php?
+aca0=documento_conferir&aca0_origem=documento_conferir&lang=pt _BR&id_0rga0_acess0_externo=0&cv=4954515&crc=92F3024B,
+informando o codigo verificador 4954515 e o codigo CRC 92F3024B.
+Referencia:Processon°000184.008038/2026-67
+SEI n°4954515
+Oficio 5120 Solicita Manifestacao (4954515)
+SEl 000184.008038/2026-67 /pg. 9
+
+--- fim página pg-9.png ---
