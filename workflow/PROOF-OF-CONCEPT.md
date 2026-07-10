@@ -107,7 +107,8 @@ PDF do PL
 | entregáveis 01-06-2026/ | ✅ ENTREGUE | 11 PDFs V5.1 + manifestacoes_01-06-2026.txt, commit 73ec35d |
 | Lote G+H (11 PLs) | ✅ ENTREGUE | entregáveis 07-06-2026/ — PL-1538, 1964, 1985, 1990, 2007, PLC-112, 2040, PELOM-5, 2076, 2078, 2097 |
 | PLC-98 reescrita | ✅ | Clareza (pedido Marcel), commit cace2f8 |
-| Lote I (4 PLs) | ✅ ENTREGUE | entregáveis 23-06-26/ — PL-799/2025, 2261, 2262, 2263; commit 3a6a907. **Total acumulado: 37 manifestações** |
+| Lote I (4 PLs) | ✅ ENTREGUE | entregáveis 23-06-26/ — PL-799/2025, 2261, 2262, 2263; commit 3a6a907 |
+| Lote J (8 PLs) | ✅ ENTREGUE | entregáveis 10-07/ — pipeline AGENTIC completo (4 pesquisadores T1-T4 + escritor por PL; relatorios/ com F-T.N). PL-1884 autógrafo (224d7fe), batch 1 (d632780), batch 2 + docs (este commit). ⚠️ 2 CONTRÁRIOS (PLC-118 forma; PL-2199) — 1ºs do acervo, revisão Marcel. NB indisponível (sessão Google expirada) — desvio W-6 registrado por PL; popular NBs + audit 2ª passada quando reauth. **Total acumulado: 45 manifestações** |
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Tabela mestre de todas as manifestações já produzidas pela pipeline.
 > Fonte canônica de detalhe por PL: `workflow/PROOF-OF-CONCEPT.md` (inventário de PDFs) + `<PASTA>/V5-AUDIT.md`.
-> **Atualizado:** 2026-06-23 — **37 manifestações entregues** + 1 bloqueada.
+> **Atualizado:** 2026-07-10 — **45 manifestações entregues** + 1 bloqueada. ⚠️ Lote J traz as **2 primeiras posições contrárias** do acervo (PLC-118 e PL-2199) — revisão do Marcel obrigatória antes do envio.
 
 ---
 
@@ -28,7 +28,7 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 
 ---
 
-## Tabela mestre — 37 manifestações
+## Tabela mestre — 45 manifestações
 
 | # | PL/PLC | Ofício | Autor | Ementa (resumo) | Posição | Palavras | Citações (EN) | Entregável |
 |---|--------|--------|-------|-----------------|---------|----------|---------------|------------|
@@ -69,6 +69,14 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 35 | PL 2261/2026 | CVL 4434/2026 | — (a confirmar) | Reconhece interesse público do Rio Innovation Week | Nada a opor | 308 | 4 (1) | 23-06 |
 | 36 | PL 2262/2026 | CVL 4436/2026 | — (a confirmar) | Inclui Semana do Rio Innovation Week no calendário (Lei 5.146/10) | Nada a opor | 316 | 4 (1) | 23-06 |
 | 37 | PL 2263/2026 | CVL 4439/2026 | — (a confirmar) | Inclui Dia do Empreendedorismo Prateado no calendário (Lei 5.146/10) | Nada a opor | 273 | 4 (2) | 23-06 |
+| 38 | PL 1884/2026 (2ª rodada) | CVL 5305/2026 (urgentíssimo) | Rafael Aloisio Freitas | AUTÓGRAFO Eixo Econômico Municipal — texto idêntico, zero emendas | Nada a opor à sanção | 369 | 4 (2) | 10-07 |
+| 39 | PLC 118/2026 | CVL 4965/2026 | Junior da Lucinha | Requalificação de galpões industriais (Jacarepaguá/Bangu/Sta Cruz) | 🔴 **Contrário na forma atual** (mérito reconhecido) | 370 | 4 (2) | 10-07 |
+| 40 | PL 2188/2026 | CVL 5120/2026 | Thais Ferreira | Lei Alexia Nunes — segurança/identidade em apps de transporte (OTM) | Nada a opor + emendas | 369 | 5 (2) | 10-07 |
+| 41 | PL 2199/2026 | CVL 5115/2026 | Felipe Michel | Isenção de pedágio 60+ (Linha Amarela/Transolímpica) | 🔴 **Contrário** | 365 | 6 (1) | 10-07 |
+| 42 | PL 2239/2026 | CVL 5207/2026 | Diego Faro | Turismo religioso + empreendedorismo religioso (Lei 5.675/13) | Nada a opor | 370 | 4 (1) | 10-07 |
+| 43 | PL 2242/2026 | CVL 5372/2026 | Marcos Dias | QR Code de identificação de entregadores (apensado ao PL 324/2025) | Nada a opor + emendas | 370 | 4 (1) | 10-07 |
+| 44 | PL 2265/2026 | CVL 5431/2026 | Salvino Oliveira, Dr. Gilberto, Marcio Ribeiro | Hospedagem de curta duração em imóveis residenciais (cadastro/Airbnb) | Nada a opor + sugestões | 370 | 5 (2) | 10-07 |
+| 45 | PL 2276/2026 | CVL 5446/2026 | Alana Passos | Programa Adote um Quarteirão (manutenção cooperada) | Nada a opor | 367 | 4 (2) | 10-07 |
 
 ---
 
@@ -81,6 +89,7 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | `entregáveis 04-06-2026/` | F — ciência da lei (PL-163, PL-1320) | 2 | **22** |
 | `entregáveis 07-06-2026/` | G+H (PL-1538, 1964, 1985, 1990, 2007, PLC-112, 2040, PELOM-5, 2076, 2078, 2097) | 11 | **33** |
 | `entregáveis 23-06-26/` | I (PL-799, 2261, 2262, 2263) | 4 | **37** |
+| `entregáveis 10-07/` | J (PL-1884 autógrafo + PLC-118, 2188, 2199, 2239, 2242, 2265, 2276) — pipeline agentic completo | 8 | **45** |
 
 > O número **22** corresponde ao acervo concluído até o entregável de **04-06-2026**. A varredura da pasta de despachos identificou os **11 faltantes** (Lote G+H), processados e entregues em 07-06-2026 → **33**. O lote de **23-06-2026** acrescentou 4 (incl. o PL 799/2025, que constava como "não localizado" na lista da Luiza) → **37** no total.
 
@@ -94,12 +103,11 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 
 ## Pendentes da lista da Luiza (15-06-2026) ainda não localizados
 
-Da lista de 20 SEI da Luiza, restam **2 não localizados** (não estão no dump do chat nem no repo) — o terceiro, `000184.002086/2026-41`, era o **PL 799/2025**, agora processado (item 34):
+Da lista de 20 SEI da Luiza, resta **1 não localizado** — o `000184.002086/2026-41` era o **PL 799/2025** (processado, item 34) e o `001000.001254/2026-55` foi identificado em 08/07 como o **PDL 110/2025** (susta Decreto Rio 56.398/2025; PDF em `despachos tarefas/`; manifestação em elaboração pelo Marcel, com 2 versões em disputa — ver `despachos tarefas/RELATORIO_VEJA_SE_ACHA_110_103.md`):
 
-- `001000.001254/2026-55`
 - `001000.000130/2026-52`
 
-Ação: pedir reenvio dos PDFs à Câmara/Luiza. Detalhe em `CONFERENCIA-PENDENTES-LUIZA.md`.
+Ação: pedir reenvio do PDF à Câmara/Luiza. Detalhe em `CONFERENCIA-PENDENTES-LUIZA.md`.
 
 ## Fora de escopo (não são despachos a processar)
 

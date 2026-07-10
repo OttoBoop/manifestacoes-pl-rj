@@ -1,0 +1,207 @@
+AcompanharProjeto
+Final do Documento
+VOLTAR
+Texto Inicial do Projeto de Lei
+PROJETO DE LEI N° 2242/2026
+EMENTA:
+DISPOE SOBRE A OBRIGATORIEDADE DE
+IDENTIFICACAO VISUAL E DIGITAL, POR MEIO DE
+CODIGO DE RESPOSTA RAPIDA (QR CODE), NOS
+EQUIPAMENTOS E MEIOS DE TRANSPORTE
+UTILIZADOS POR ENTREGADORES VINCULADOS A
+PLATAFORMAS DIGITAIS NO MUNICIPIO DO RIO DE
+JANEIRO, E DA OUTRAS PROVIDENCIAS.
+Autor(es): VEREADOR MARCOS DIAS
+A CAMARA MUNICIPAL DO RIO DE JANEIRO
+DECRETA:
+Art. 1o Fica instituida, no ambito do Municipio do Rio de Janeiro, a obrigatoriedade de identificacao
+visual e digital, por meio de codigo de resposta rapida - QR Code, nos equipamentos e meios de
+transporte utilizados por entregadores vinculados a plataformas digitais de entrega durante o
+exercicio da atividade.
+Paragrafo unico. Para os fins desta Lei, consideram-se meios de transporte utilizados na atividade
+de entrega bicicletas, motocicletas, ciclomotores, automoveis e quaisquer outros veiculos
+empregados na prestacao do servico.
+Art. 2o O codigo de resposta rapida - QR Code devera permitir a verificacao da autenticidade do
+cadastro do entregador junto a plataforma digital, contendo exclusivamente informacoes minimas
+necessarias a confirmacao da regularidade da atividade e da vinculacao funcional ativa do
+s 1° O acesso publico as informacoes disponibilizadas devera observar os principios da
+necessidade, finalidade e seguranca previstos na legislacao vigente.
+s 2o E vedada a divulgacao publica de dados pessoais sensiveis ou excessivos do entregador.
+Art. 3° As plataformas digitais de entrega que operem no Municipio do Rio de Janeiro deverao:
+Code;
+Il - assegurar a autenticidade e atualizacao das informacoes vinculadas ao codigo;
+IV - adotar medidas adequadas de protecao de dados pessoais, nos termos da legislacao federal
+aplicavel.
+Art. 4o O codigo de resposta rapida - QR Code devera permanecer visivel durante a atividade de
+entrega e estar afixado em equipamento ou meio de transporte utilizado pelo entregador,
+especialmente no colete, capacete, bau de transporte, bicicleta, motocicleta ou outro item
+funcional vinculado a prestacao do servico.
+Paragrafo unico. O Poder Executivo podera regulamentar padroes minimos de visibilidade,
+SEl 000184.008444/2026-20 /pg.1
+Projeto PL 2242/2026 Extrato site CMRJ (5041691)
+
+--- fim página pg-1.png ---
+
+legibilidade e posicionamento do codigo de resposta rapida - QR Code nos equipamentos e
+veiculos utilizados na atividade.
+Art. 5o O disposto nesta Lei possui natureza administrativa e de interesse local, voltada a
+seguranca urbana, a transparéncia e a protecao da coletividade, nao implicando regulamentagao
+profissional, criacao de vinculo trabalhista ou invasao de matéria de competencia privativa da
+Uniao.
+Art. 6° O descumprimento desta Lei sujeitara a empresa operadora da plataforma digital as
+seguintes sancoes administrativas, observado o devido processo legal:
+I - adverténcia;
+Il - multa; e
+Ill - multa diaria em caso de reincidencia ou continuidade da infracao.
+Paragrafo unico. Os valores das penalidades e os criterios de aplicacao serao definidos em
+regulamento.
+Art. 7o O Poder Executivo regulamentara esta Lei no que couber, especialmente quanto:
+Il - aos procedimentos de fiscalizacao;
+Ill - as diretrizes de protecao de dados pessoais; e
+IV - aos parametros administrativos para aplicagao das penalidades.
+Art. 8o Esta Lei entra em vigor na data de sua publicacao.
+Plenario Teotonio Villela, 14 de maio de 2026.
+JUSTIFICATIVA
+O presente Projeto de Lei visa fortalecer a seguranga urbana, a transparencia e a protecao da
+no Municipio do Rio de Janeiro.
+O crescimento significativo dos servicos de entrega por aplicativos trouxe impactos diretos a
+dinamica urbana da cidade, ampliando a circulagao de entregadores e veiculos utilizados na
+atividade em areas residenciais, comerciais e de grande fluxo populacional. Nesse contexto, a
+adocao de mecanismos minimos de identificacao funcional contribui para aumentar a seguranca
+da populacao, facilitar a fiscalizacao administrativa e ampliar a confiabilidade na prestacao do
+servico.
+A proposta estabelece a utilizagao de codigo de resposta rapida - QR Code - como instrumento
+moderno e acessivel de validagao cadastral, permitindo a confirmacao da regularidade do
+entregador vinculado a plataforma digital, sem exposicao indevida de dados pessoais.
+A inclusao dos meios de transporte utilizados na atividade busca ampliar a efetividade da
+identificacao visual, facilitando procedimentos de fiscalizacao, seguranca preventiva e eventual
+apuracao de ocorrencias relacionadas a prestacao do servico.
+Importante destacar que a matéria nao interfere nas relacoes trabalhistas, contratuais ou
+profissionais entre plataformas e entregadores, restringindo-se ao exercicio da competencia
+legislativa municipal relacionada ao interesse local, a ordenacao urbana, a protecao do
+consumidor e a seguranca da coletividade, nos termos do art. 3o, incisos I e Il, da Constituicao
+Federal.
+O projeto também observa os principios previstos na Lei Geral de Protecao de Dados Pessoais,
+limitando a divulgacao de informacoes ao estritamente necessario para validacao funcional e
+protecao da atividade.
+Trata-se, portanto, de medida administrativa, preventiva e compativel com o interesse publico
+SEl 000184.008444/2026-20 / pg. 2
+Projeto PL 2242/2026 Extrato site CMRJ (5041691)
+
+--- fim página pg-2.png ---
+
+municipal, alinhada aos principios da seguranca, da transparéncia e da modernizacao dos
+servicos urbanos.
+Diante da relevancia da matéria, conto com o apoio dos nobres Pares para aprovagao da presente
+proposicao.
+Texto Original:
+- PROJETO 4869.pdf
+Legislacao Citada
+Atalho_para outros documentos
+Informacoes Basicas
+Ordinaria
+Regime de Tramitacao
+Projeto
+Anexado
+Datas:
+19/05/2026
+Entrada
+Despacho
+22/05/2026
+Publicacao
+25/05/2026
+Republicacao
+Outras Informacoes:
+Pag. do DCM da
+19/20
+Pag. do DCM da
+Publicacao
+Republicacao
+Nao
+Arquivado
+Tipo de Quorum
+Nao
+Motivo da
+Pendencias?
+Republicacao
+Observacoes:
+DESPACHO: A imprimir Nos termos do art. 239, $ 5o, do Regimento Interno, numere-se,
+publique-se e proceda-se ao APENSAMENTO do presente projeto legislativo ao PL no
+324/2025 por versar sobre assunto previsto na proposta ja em tramitacao.
+Em 22/05/2026
+CARLO CAIADO - Presidente
+Comissoes a serem distribuidas
+01.:A imprimir
+SEl 000184.008444/2026-20 / pg. 3
+Projeto PL 2242/2026 Extrato site CMRJ (5041691)
+
+--- fim página pg-3.png ---
+
+TRAMITACAO DO PROJETO DE LEI N0 2242/2026
+EXPANDIR
+PROXIMO>>
+CONTRAIR
+<ANTERIOR
+BUSCAESPECIFICA
+Data Public Autor(es)
+Cadastro de Proposicoes
+Projeto de Lei
+20260302242
+25/05/2026Vereador
+DISPOE SOBRE A OBRIGATORIEDADE DE
+Marcos
+IDENTIFICACAO VISUAL E DIGITAL, POR MEIO DE
+Dias
+CODIGO DE RESPOSTA RAPIDA (QR CODE), NOS
+DIGITAIS NO MUNICIPIO DO RIO DE JANEIRQ, E DA
+OUTRAS PROVIDENCIAS. =≥ 20260302242 =>_{A
+imprimir 
+25/05/2026
+Anexado => PL No 324/2025
+CONTRAIR
+PROXIMO>>
+<<ANTERIOR
+EXPANDIR
+BUSCAESPECIFICA
+Topo
+Camara Municipal do Rio de Janeiro
+Acesse o arquivo digital.
+SEl 000184.008444/2026-20/pg.4
+Projeto PL 2242/2026 Extrato site CMRJ (5041691)
+
+--- fim página pg-4.png ---
+
+PREFEITURADACIDADEDORIODEJANEIRO
+Secretaria Municipal da Casa Civil
+Oficio CVL n° 5372/2026
+Ao Senhor
+Osmar Carneiro Guimaraes de Lima
+Secretario Municipal de Desenvolvimento Economico
+SMDE
+Rio de Janeiro, na data da assinatura.
+Assunto: ASSESSORAMENTO LEGISLATIVO: PROJETO DE LEI
+Senhor(a) Dirigente,
+VISUAL E DIGITAL, POR MEIO DE CODIGO DE RESPOSTA RAPIDA (QR CODE), NOS EQUIPAMENTOS E MEIOS DE
+TRANSPORTE UTILIZADOS POR ENTREGADORES VINCULADOS A PLATAFORMAS DIGITAIS NO MUNICiPIO DO RIO
+DE JANEIRO, E DA OUTRAS PROVIDENCIAS.", rogando manifestacao técnica acerca da proposicao legislativa em tela.
+Solicitamos que, junto a manifestacao, o rgao indique de maneira objetiva posicionamento "Favoravel", "Contrario", "Nada a opor",
+ou "Sem competencia" para subsidiar a atuacao legislativa do Governo no prazo de 20 (vinte) dias.
+(por exemplo, art., s, inciso e alinea), solicitamos vossa manifestacao nesse sentido.
+Respeitosamente,
+DANIEL ARAUJO DE OLIVEIRA
+Coordenador Geral de Acompanhamento Legislativo e Parlamentar
+Matricula: 325.215-2
+sei!
+Documento assinado eletronicamente por DANIEL ARAUJO DE OLIVEIRA, Coordenador Geral, em 24/06/2026, as 14:35,
+assinatura
+conforme horario oficial de Brasilia, com fundamento no art. 26 do Decreto Rio n° 57.250. de 19 de novembro de 2025
+eletronica
+A autenticidade deste documento pode ser conferida no site https:/prefeitura.sei.rio/sei/controlador externo.php?
+acao=documento_conferir&acao_origem=documento_conferir&lang=pt BR&id_orgao0_acesso_externo=0&cv=5041734&crc=2164F1A0,
+informando o codigo verificador 5041734 e o codigo CRC 2164F1A0.
+SEI n° 5041734
+Referencia:Processon°000184.008444/2026-20
+Oficio 5372 Solicita Manifestacao (5041734)
+SEl 000184.008444/2026-20 /pg. 5
+
+--- fim página pg-5.png ---
