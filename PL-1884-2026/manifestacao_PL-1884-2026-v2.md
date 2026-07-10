@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 1884/2026 (Autógrafo — 2ª rodada)
+
+**Ofício:** CVL nº 5305/2026 | **Órgão:** SMDE | **Data:** julho de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 5305/2026, referente ao autógrafo do PL nº 1884/2026, de autoria do Vereador Rafael Aloisio Freitas, que institui e disciplina o conceito de Eixo Econômico Municipal, esta Subsecretaria posiciona-se em sentido de **nada a opor** à sanção da proposta. O autógrafo firmado em 16 de junho de 2026 é idêntico ao texto analisado por esta Subsecretaria na primeira rodada de opinamento (Ofício CVL nº 1218/2026), sem qualquer emenda no processo legislativo, de modo que a manifestação anterior se aplica integralmente ao autógrafo.
+
+Quanto à exegese, o autógrafo cria uma lei-quadro para política industrial municipal, com fundamento nos arts. 30, I e III, da CF/1988 (BRASIL. "Constituição Federal", Senado Federal, 1988). Define o Eixo Econômico Municipal como agrupamento de atividades correlatas identificadas por CNAE, por afinidade funcional, territorial ou setorial; condiciona a instituição de cada Eixo a lei específica com estudo prévio de impacto fiscal, econômico e regulatório; e organiza a governança pelo Mapa dos Eixos e pelo Comitê Executivo de Enquadramento Econômico (C3E). Eventuais alíquotas diferenciadas operam nos limites da legislação nacional do ISS (BRASIL. "Lei Complementar nº 116/2003", Presidência da República, 2003) — instrumento vigente até a extinção do ISS pela reforma tributária em 2033, sem prejuízo dos mecanismos de fomento e simplificação da lei-quadro, que independem do tributo.
+
+Quanto aos fundamentos econômicos, a lei-quadro corrige lacuna do ordenamento carioca, no qual o fomento setorial ocorre por leis avulsas, sem critérios uniformes de elegibilidade, governança e avaliação. Os critérios do art. 5º — impacto fiscal, potencial de desenvolvimento, compatibilidade com o Plano Diretor, sustentabilidade e geração de emprego e renda — capturam as cinco dimensões relevantes de avaliação de política industrial subnacional, em linha com a literatura que associa estudo prévio de impacto e governança multissetorial a menor risco de captura regulatória (RODRIK, D. "Industrial Policy for the Twenty-First Century", United Nations Industrial Development Organization, 2004) e com a experiência internacional de política industrial territorial (OECD. "Regions in Industrial Transition: Policies for People and Places", OECD Publishing, 2019). A exigência de estudo de impacto fiscal por Eixo mitiga renúncias não fundamentadas.
+
+Inalterado o texto e mantidos os fundamentos, esta Subsecretaria reafirma seu posicionamento de **nada a opor** à sanção do PL nº 1884/2026.
