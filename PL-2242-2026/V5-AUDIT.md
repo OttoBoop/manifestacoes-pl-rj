@@ -14,3 +14,5 @@
 
 ## Audit 2ª passada (2026-07-10)
 - ✅ Lei estadual confirmada: **Lei nº 10.885, de 14/07/2025** (DOE-RJ 15/07/2025) — citação da manifestação ("Lei nº 10.885/2025") correta; nota do consolidado corrigida.
+
+**NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.

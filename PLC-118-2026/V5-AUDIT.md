@@ -13,3 +13,5 @@
 | commit + push | ⏳ | Neste commit |
 
 **Pendências p/ revisão humana:** posição contrária (Marcel decide); citação Newmark sem título formal (inline); OCR do art. 2º truncado (T1 recuperou texto oficial no SCPRO).
+
+**NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.

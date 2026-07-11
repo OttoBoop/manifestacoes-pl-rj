@@ -17,3 +17,5 @@
 ## Audit 2ª passada (2026-07-10, pós-reauth NB)
 - ✅ Uber US Safety Report: publicado ago/2024 — ano confirmado.
 - ⚠️→✅ TfL 2019: título completado para "Uber London Limited found to be not fit and proper **to hold a private hire operator licence**" (aparas aplicadas p/ manter 369 palavras; PDF regenerado).
+
+**NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.

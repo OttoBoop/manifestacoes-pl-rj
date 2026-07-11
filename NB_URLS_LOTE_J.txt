@@ -1,0 +1,25 @@
+# NBs do Lote J — estado REAL verificado via list_sources.py em 2026-07-10
+# Regra aprendida (W-7/W-8 no PROOF): nb_add_source/nb_upload saem com exit 0 mesmo falhando,
+# e o NB DESCARTA silenciosamente domínios que bloqueiam seu fetcher (planalto, aplicnt/camara.rj,
+# e.camara, leismunicipais, portal.stf, camara.rio, furmancenter). Fonte "aceita" ≠ fonte no painel.
+# O rastro CANÔNICO de fontes (com URLs) é local: <PASTA>/relatorios/ (inventários F-T.N) — o NB é acervo complementar.
+
+PL-1884-2026 | https://notebooklm.google.com/notebook/42668b20-e603-44b7-a47a-3b9e57a01412
+#   4 fontes no painel: PDF SEI (duplicado ×2), Rodrik/UNIDO, OECD 2019. Recusadas pelo NB: planalto LC214/LC116, SCPRO, e.camara.
+PLC-118-2026 | https://notebooklm.google.com/notebook/8b80a44f-f883-4bc1-9b3c-d51a7f2dfc7f
+#   3 fontes: PDF SEI, SMDU/prefeitura.rio, 1 c/ conteúdo 403. Recusadas: aplicnt ×2, e.camara ×2, leismunicipais, portal.stf, planalto CF.
+PL-2265-2026 | https://notebooklm.google.com/notebook/28e39b19-c7c2-4452-854f-8442be1bedba
+#   8/8: PDF + 7 (STJ entrou como página Cloudflare "Just a moment" — conteúdo inválido; URL real no relatorios/).
+PL-2188-2026 | https://notebooklm.google.com/notebook/7731ecbd-2427-443f-ae8a-ff96b58b2f61
+#   7/8: PDF + 6 (TfL como "Just a moment"/Cloudflare). Recusada: planalto Lei 13.640.
+PL-2199-2026 | https://notebooklm.google.com/notebook/4ef43039-de27-4ae7-ad60-1caa384da5bb
+#   8/9: PDF + 7 (STF Informativo como "403 Forbidden"). Recusada: planalto Lei 8.987.
+PL-2239-2026 | https://notebooklm.google.com/notebook/87ff6627-e19b-4251-aebf-342f9e5886e1
+#   8/8 completo.
+PL-2242-2026 | https://notebooklm.google.com/notebook/7ecbcc15-87fa-4d8b-8f31-ec7ee59cf030
+#   7/8: PDF + 6 (Agência Brasil/EBC e Agência SP entraram com conteúdo de página de erro; URLs reais no relatorios/).
+PL-2276-2026 | https://notebooklm.google.com/notebook/1ec49ef3-9356-4a09-aa1d-72baf126b2a4
+#   6/8: PDF + 5. Recusadas: Furman PDF, camara.rio LOA.
+
+# Melhoria futura (não aplicada): p/ textos legais (planalto etc.), baixar o HTML/PDF localmente
+# e subir via nb_upload_file.py em vez de URL — contorna o bloqueio ao fetcher do NB.

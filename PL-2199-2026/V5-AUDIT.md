@@ -13,3 +13,5 @@
 | commit + push | ⏳ | Neste commit |
 
 **Sensibilidade política:** a Lei 8.518/2024 (derrubada por unanimidade) é do mesmo autor do PL — o texto da manifestação cita a lei impessoalmente, sem nomear.
+
+**NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.

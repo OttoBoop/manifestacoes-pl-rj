@@ -51,3 +51,5 @@
 | 250–370 palavras | ✅ | 369 palavras |
 | PDF ≤ 1 página | ✅ | 1 página, 15 KB — `manifestacao_PL-1884-2026-v2.pdf` |
 | Posição | ✅ | **Nada a opor à sanção** (reafirmação — texto idêntico + contextualização da reforma tributária) |
+
+**NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.

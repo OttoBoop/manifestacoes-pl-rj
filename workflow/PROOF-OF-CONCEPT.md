@@ -202,6 +202,8 @@ PDF do PL
 | W-4 | PDFs escaneados — pdftotext retorna só capa (~2000 chars) | Upload do PDF ao NB (Gemini faz OCR interno) via `nb_upload_file.py` | ✅ testado — NB indexou PL 1904/2026 escaneado e retornou conteúdo correto |
 | W-5 | Agentes paralelos crasharam em todos os 9 PLs V3 | Coordenador-direto como fallback (EC-5); usado em toda a rodada V3 | ⚠️ V3 workaround documentado — causou pesquisa mais rasa |
 | W-6 | Agentes paralelos crash em V5 | Retry ×2 com timeout 8min antes de coordenador-direto; registrar como fallback de último recurso | ✅ protocolo V5 — não foi testado ainda |
+| W-7 | `nb_add_source.py`/`nb_upload_file.py` saem com **exit 0 mesmo falhando** | Detectar sucesso pelo OUTPUT ("1 ✅"), nunca pelo exit code; verificar estado final via `list_sources.py` | ✅ descoberto no Lote J (10/07) — batch reportou 57/57 falso; reparo com grep no output |
+| W-8 | NB **descarta silenciosamente** fontes de domínios que bloqueiam seu fetcher (planalto, aplicnt, e.camara, leismunicipais, portal.stf, camara.rio, furmancenter) e indexa páginas de erro de outros (Cloudflare/403/404) | Conferir painel via `list_sources.py` após popular; p/ textos legais, baixar localmente e subir como ARQUIVO em vez de URL; rastro canônico de fontes fica em `<PASTA>/relatorios/` | ✅ documentado no Lote J — ver NB_URLS_LOTE_J.txt |
 
 ---
 
