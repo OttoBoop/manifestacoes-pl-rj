@@ -42,10 +42,10 @@ Um único "conforme a ILO (2024)" já cumpre o requisito.
 ### 2. Nenhum dado solto sem fonte
 Qualquer número, percentual, ranking ou estatística deve ter `(INSTITUIÇÃO, ANO)` imediatamente após. Sem isso, o dado é removido ou o pesquisador é rejeitado.
 
-### 3. Posição default "nada a opor"
-A SMDE raramente posiciona-se formalmente contra um PL. Regra:
-- Default: "nada a opor" — sem ressalvas no corpo do texto (Marcel remove sistematicamente toda seção de ressalvas)
-- "Contrário" só com ≥ 3 argumentos econômicos independentes **E** consulta ao usuário antes de finalizar
+### 3. Posição categórica — praxe "nada a opor"
+A posição é uma das categorias pedidas pelo ofício (Favorável / Contrário / Nada a opor / Sem competência), **sem híbridos**: "nada a opor com sugestões de emenda" não existe no fluxo (Otávio, 10/07/2026). Regra:
+- Praxe da casa: "nada a opor" — sem seção de ressalvas, recomendações ou sugestões no corpo (Marcel remove sistematicamente toda seção de ressalvas)
+- O workflow **nunca recomenda rejeição** (`workflow_manifestacao_pl.md`, Fase 4: "O sistema analisa; a decisão política é da Subsecretaria"). Evidência fortemente adversa → "nada a opor" com os argumentos contrários **citados** no corpo (precedente PL-1934, Marcel: "colocar nada a opor, e citar os argumentos contrários") + destaque no V5-AUDIT para o revisor humano
 
 ### 4. Inventário → texto (carry-through ≥ 80%)
 Se o pesquisador listou 5 fontes no F-T.N, no mínimo 4 devem aparecer citadas no texto. Listar fontes no inventário sem usá-las é sintoma de pesquisa desconectada da síntese.

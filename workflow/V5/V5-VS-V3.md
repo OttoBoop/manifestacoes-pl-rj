@@ -32,7 +32,7 @@ Adicionalmente: `audit_sources` nunca aplicado a V3; agentes paralelos crasharam
 | **Fontes internacionais** | 0 por manifestação | ≥ 1 obrigatório (bloqueante: relatório rejeitado sem) |
 | **Carry-through** | 37% (1–4 de 5–7 fontes chegam ao texto) | ≥ 80% obrigatório; síntese DEVE preservar citações |
 | **audit_sources (P3)** | Aplicado a 1/11 PLs (V1 PL-74 apenas) | Obrigatório: Wave 1+2 antes de finalizar |
-| **Posição default** | "Nada a opor" ou "contrário" por análise econômica pura | "Nada a opor" com caveats; "contrário" só com ≥3 argumentos + consulta ao usuário |
+| **Posição default** | "Nada a opor" ou "contrário" por análise econômica pura | Posição categórica; praxe "nada a opor" com argumentos adversos citados no corpo — o workflow nunca recomenda rejeição |
 
 ---
 
@@ -170,7 +170,7 @@ Ressalva técnica (4 pontos):
 | Agentes paralelos crasharam | Timeout curto + sem retry | Timeout 8 min; retry ×2; fallback coordenador-direto documentado como W-6 |
 | audit_sources ignorado | Não estava no loop de execução | audit_sources Wave 1+2 é gate: manifestação não é "concluída" sem ele |
 | Citações inventariadas mas não no texto (37%) | Síntese não forçava carry-through | Instrução na síntese: "preserve ≥ 80% das citações dos relatórios dos pesquisadores" |
-| PL-1934 posição "contrário" | Análise econômica pura sem calibragem institucional | Default "nada a opor"; "contrário" exige ≥3 argumentos + consulta ao usuário |
+| PL-1934 posição "contrário" | Análise econômica pura sem calibragem institucional | "Nada a opor" com argumentos contrários citados no corpo (o workflow não recomenda rejeição) |
 
 ---
 

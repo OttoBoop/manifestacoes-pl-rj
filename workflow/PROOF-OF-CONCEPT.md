@@ -204,6 +204,7 @@ PDF do PL
 | W-6 | Agentes paralelos crash em V5 | Retry ×2 com timeout 8min antes de coordenador-direto; registrar como fallback de último recurso | ✅ protocolo V5 — não foi testado ainda |
 | W-7 | `nb_add_source.py`/`nb_upload_file.py` saem com **exit 0 mesmo falhando** | Detectar sucesso pelo OUTPUT ("1 ✅"), nunca pelo exit code; verificar estado final via `list_sources.py` | ✅ descoberto no Lote J (10/07) — batch reportou 57/57 falso; reparo com grep no output |
 | W-8 | NB **descarta silenciosamente** fontes de domínios que bloqueiam seu fetcher (planalto, aplicnt, e.camara, leismunicipais, portal.stf, camara.rio, furmancenter) e indexa páginas de erro de outros (Cloudflare/403/404) | Conferir painel via `list_sources.py` após popular; p/ textos legais, baixar localmente e subir como ARQUIVO em vez de URL; rastro canônico de fontes fica em `<PASTA>/relatorios/` | ✅ documentado no Lote J — ver NB_URLS_LOTE_J.txt |
+| W-9 | Coordenador **inventou posições híbridas** no Lote J ("nada a opor com sugestões de emenda") e 2 posições "contrário" — fora do fluxo rígido | Posição é CATEGÓRICA (Favorável/Contrário/Nada a opor/Sem competência), sem qualificadores; o workflow **nunca recomenda rejeição** (`workflow_manifestacao_pl.md`, Fase 4) — evidência adversa é CITADA no corpo (precedente PL-1934) e destacada no V5-AUDIT; sem seção de ressalvas/recomendações (Marcel remove todas) | ✅ corrigido 10/07 — 7 peças reescritas (e7313a4); regra consolidada no LONG_TERM_GOALS §3; skills versionadas em `skills/` |
 
 ---
 
