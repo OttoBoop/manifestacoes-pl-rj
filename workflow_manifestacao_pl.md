@@ -407,6 +407,6 @@ outro PL com o mesmo rigor.
 | PDFs dos PLs | `resumir projetos de lei/` |
 | Workflow (este arquivo) | `resumir projetos de lei/workflow_manifestacao_pl.md` |
 | Outputs por PL | `resumir projetos de lei/PL-XXXX-YYYY/` |
-| Skill notebooklm | `~/.claude/skills/notebooklm/SKILL.md` |
-| Skill agentic_research | `~/.claude/skills/agentic_research/SKILL.md` |
-| Skill audit_sources | `~/.claude/skills/audit_sources/SKILL.md` |
+| Skill notebooklm | `skills/notebooklm/SKILL.md` (cópia versionada; executável em `~/.claude/skills/notebooklm/`) |
+| Skill agentic_research | `skills/agentic_research/SKILL.md` (cópia versionada; executável em `~/.claude/skills/agentic_research/`) |
+| Skill audit_sources | `skills/audit_sources/SKILL.md` (cópia versionada; executável em `~/.claude/skills/audit_sources/`) |

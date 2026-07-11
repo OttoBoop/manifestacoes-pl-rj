@@ -81,3 +81,7 @@
 !entregáveis 10-07/manifestacao_PL-2276-2026-short.pdf
 *.pyc
 __pycache__/
+
+# skills copiadas p/ o repo — nunca versionar estado de execução
+skills/notebooklm/.venv/
+skills/notebooklm/data/

@@ -67,6 +67,8 @@ A pipeline evoluiu em 4 versões. Cada uma adiciona um vetor metodológico ao an
    - `notebooklm/` — query de NB via Playwright (autenticação manual única no Google)
    - `agentic_research/` — orquestração de duplas pesquisador + escritor
    - `audit_sources/` — verificação de citações
+
+   Cópias versionadas das três skills acompanham este repo em [skills/](skills/) (ver [skills/ORIGEM.md](skills/ORIGEM.md)).
 2. **Python 3.10+** com `weasyprint`, `pymupdf`, e dependências da skill notebooklm (`patchright`).
 3. **Conta Google ativa** no NotebookLM (autenticada na primeira execução da skill).
 4. **Chromium** disponível em `/usr/bin/chromium` (caminho hardcoded nos scripts).
@@ -164,6 +166,7 @@ git push origin main
 resumir projetos de lei/
 ├── README.md                              ← este arquivo
 ├── workflow_manifestacao_pl.md            ← documentação V1 histórica
+├── skills/                                ← cópias versionadas das 3 skills do fluxo (ver skills/ORIGEM.md)
 ├── .gitignore                              ← bloqueia *.pdf; exceções por PL
 ├── workflow/
 │   ├── PROOF-OF-CONCEPT.md                ← log de execução, workarounds, estado de cada PL
