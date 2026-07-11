@@ -13,3 +13,7 @@
 | commit + push | ⏳ | Neste commit |
 
 **Nota:** números da justificativa do PL (SENATRAN/SUS/57%) NÃO usados como fatos — não verificados em fonte primária.
+
+## Audit 2ª passada (2026-07-10, pós-reauth NB)
+- ✅ Uber US Safety Report: publicado ago/2024 — ano confirmado.
+- ⚠️→✅ TfL 2019: título completado para "Uber London Limited found to be not fit and proper **to hold a private hire operator licence**" (aparas aplicadas p/ manter 369 palavras; PDF regenerado).

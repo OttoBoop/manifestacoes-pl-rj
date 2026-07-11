@@ -10,3 +10,6 @@
 | 250–370 / PDF 1 pág | ✅ | 367 palavras; 1 página (PDF gerado pelo escritor, page_count verificado pelo coordenador) |
 | NB / audit formal | ⚠️ | NB indisponível — desvio registrado; anos de Furman (2007) e PMSP (2017) a confirmar na 2ª passada |
 | commit + push | ⏳ | Neste commit |
+
+## Audit 2ª passada (2026-07-10)
+- ✅ Ellen/Schwartz/Voicu 2007 confirmado (título completo tem subtítulo ": Evidence from New York City"; veículo do artigo é Brookings-Wharton Papers on Urban Affairs; Furman divulgou o brief — citação atual defensável); ✅ PMSP Adote uma Praça: Decreto 57.583/2017 (reformulado pelo Decreto 61.170/2022 — programa vigente). Placar: 2/2 confirmadas.

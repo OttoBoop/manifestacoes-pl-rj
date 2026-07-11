@@ -10,3 +10,6 @@
 | 250–370 / PDF 1 pág | ✅ | 370 palavras; 1 página |
 | NB / audit formal | ⚠️ | NB indisponível — desvio registrado; nota: título da matéria de São Jorge fala "R$ 50 mi" (projeção) e o corpo usa R$ 47,6 mi (medido) — coerente, fonte cobre ambos |
 | commit + push | ⏳ | Neste commit |
+
+## Audit 2ª passada (2026-07-10)
+- ✅ UNWTO 2014 (título literal confere); ✅ MTur 01/10/2025; ✅ A12/Santuário release 05/01/2026 (10.486.118 devotos — "10,5 mi" fiel ao arredondamento da fonte). Placar: 3/3 confirmadas.

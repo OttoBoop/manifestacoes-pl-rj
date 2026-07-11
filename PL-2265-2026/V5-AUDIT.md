@@ -13,3 +13,6 @@
 | commit + push | ⏳ | Neste commit |
 
 **Divergência reconciliada:** contagens de anúncios variam por scrape (40,8k em 30/03 vs 48,7k em 24/06; AirROI ~28,5k metodologia distinta) — texto usa Inside Airbnb 24/06/2026 c/ data explícita.
+
+## Audit 2ª passada (2026-07-10)
+- ✅ FipeZap: publicação formal existe (Informe dez/2025, PDF fipe.org.br) — +9,44% confirmado; ✅ FGV/Airbnb R$ 9,9 bi + 61,6 mil empregos (dados 2024; release Airbnb out/2025 — cuidado p/ não confundir com o release seguinte de dados 2025); ✅ Prefeitura 12,5 mi/R$ 27,2 bi (título literal confirmado, publicado 19/01/2026). Placar: 3/3 confirmadas.

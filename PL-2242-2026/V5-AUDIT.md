@@ -11,3 +11,6 @@
 | 250–370 / PDF 1 pág | ✅ | 370 palavras; 1 página |
 | NB / audit formal | ⚠️ | NB indisponível — desvio registrado |
 | commit + push | ⏳ | Neste commit |
+
+## Audit 2ª passada (2026-07-10)
+- ✅ Lei estadual confirmada: **Lei nº 10.885, de 14/07/2025** (DOE-RJ 15/07/2025) — citação da manifestação ("Lei nº 10.885/2025") correta; nota do consolidado corrigida.
