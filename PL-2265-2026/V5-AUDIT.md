@@ -18,3 +18,5 @@
 - ✅ FipeZap: publicação formal existe (Informe dez/2025, PDF fipe.org.br) — +9,44% confirmado; ✅ FGV/Airbnb R$ 9,9 bi + 61,6 mil empregos (dados 2024; release Airbnb out/2025 — cuidado p/ não confundir com o release seguinte de dados 2025); ✅ Prefeitura 12,5 mi/R$ 27,2 bi (título literal confirmado, publicado 19/01/2026). Placar: 3/3 confirmadas.
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** removidas as "sugestões pontuais de aperfeiçoamento" da abertura e a lista de revisões de artigos do fechamento (posição é categórica, sem recomendações). 353 palavras; PDF regenerado (1 pág).

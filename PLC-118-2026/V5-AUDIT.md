@@ -15,3 +15,5 @@
 **Pendências p/ revisão humana:** posição contrária (Marcel decide); citação Newmark sem título formal (inline); OCR do art. 2º truncado (T1 recuperou texto oficial no SCPRO).
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** posição "contrário na forma atual" convertida para **nada a opor** com a análise adversa integralmente citada no corpo (outorga, vacância, precedentes SP/BH/Curitiba, óbices apontados como matéria da PGM), conforme o rulebook do fluxo (workflow_manifestacao_pl.md: "Nunca: recomendação de rejeição") e o precedente PL-1934 do Marcel ("colocar nada a opor, e citar os argumentos contrários"). Fechamento sem recomendações. 370 palavras; PDF regenerado (1 pág). **A evidência adversa segue destacada para o revisor humano.**

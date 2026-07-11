@@ -16,3 +16,5 @@
 - ✅ Lei estadual confirmada: **Lei nº 10.885, de 14/07/2025** (DOE-RJ 15/07/2025) — citação da manifestação ("Lei nº 10.885/2025") correta; nota do consolidado corrigida.
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** removida a posição híbrida "nada a opor, com sugestões de emenda". Citação da Lei 12.009/2009 (motofrete) realocada para o corpo, descritivamente; harmonização com a Lei estadual 10.885/2025 mantida como análise. 355 palavras; PDF regenerado (1 pág).

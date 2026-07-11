@@ -15,3 +15,5 @@
 - ✅ UNWTO 2014 (título literal confere); ✅ MTur 01/10/2025; ✅ A12/Santuário release 05/01/2026 (10.486.118 devotos — "10,5 mi" fiel ao arredondamento da fonte). Placar: 3/3 confirmadas.
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** removida a frase "Recomenda-se apenas, a título de técnica legislativa…" do fechamento (o fluxo não comporta recomendações). 338 palavras; PDF regenerado (1 pág).

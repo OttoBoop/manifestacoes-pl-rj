@@ -15,3 +15,5 @@
 - ✅ Ellen/Schwartz/Voicu 2007 confirmado (título completo tem subtítulo ": Evidence from New York City"; veículo do artigo é Brookings-Wharton Papers on Urban Affairs; Furman divulgou o brief — citação atual defensável); ✅ PMSP Adote uma Praça: Decreto 57.583/2017 (reformulado pelo Decreto 61.170/2022 — programa vigente). Placar: 2/2 confirmadas.
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** fechamento "recomendando-se regulamentação harmonizada…" reformulado para forma descritiva ("em complementaridade com…"). 366 palavras; PDF regenerado (1 pág).

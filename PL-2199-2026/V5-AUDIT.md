@@ -15,3 +15,5 @@
 **Sensibilidade política:** a Lei 8.518/2024 (derrubada por unanimidade) é do mesmo autor do PL — o texto da manifestação cita a lei impessoalmente, sem nomear.
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** posição "contrário" convertida para **nada a opor** com a análise adversa integralmente citada no corpo (reequilíbrio Lei 8.987/1995, R$ 370 mi/ano de arrecadação, ADI 2.733, TJRJ fev/2026 sobre a Lei 8.518/2024 análoga, regressividade IBGE, modelo NJTA), conforme o rulebook ("Nunca: recomendação de rejeição") e o precedente PL-1934. Fechamento sem recomendações. 370 palavras; PDF regenerado (1 pág). **Atenção do revisor: jurisprudência direta e recente é adversa ao instrumento — a decisão é da Subsecretaria.**

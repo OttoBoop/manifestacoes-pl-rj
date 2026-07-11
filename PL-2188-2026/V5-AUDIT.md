@@ -19,3 +19,5 @@
 - ⚠️→✅ TfL 2019: título completado para "Uber London Limited found to be not fit and proper **to hold a private hire operator licence**" (aparas aplicadas p/ manter 369 palavras; PDF regenerado).
 
 **NB do caso (10/07, pós-reauth):** ver `NB_URLS_LOTE_J.txt` — PDF SEI no NB; fontes web parcialmente aceitas (NB recusa domínios anti-bot — W-8 do PROOF). Inventário canônico: `relatorios/`.
+
+**Correção 10/07 (formato):** removida a posição híbrida "nada a opor, com sugestões de emenda" (não existe no fluxo — posição é categórica). Abertura e fechamento na fórmula padrão; a relação com o art. 11-A da Lei 12.587/2012 e a LGPD permanece citada descritivamente no corpo. 362 palavras; PDF regenerado (1 pág).
