@@ -70,7 +70,7 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 36 | PL 2262/2026 | CVL 4436/2026 | — (a confirmar) | Inclui Semana do Rio Innovation Week no calendário (Lei 5.146/10) | Nada a opor | 316 | 4 (1) | 23-06 |
 | 37 | PL 2263/2026 | CVL 4439/2026 | — (a confirmar) | Inclui Dia do Empreendedorismo Prateado no calendário (Lei 5.146/10) | Nada a opor | 273 | 4 (2) | 23-06 |
 | 38 | PL 1884/2026 (2ª rodada) | CVL 5305/2026 (urgentíssimo) | Rafael Aloisio Freitas | AUTÓGRAFO Eixo Econômico Municipal — texto idêntico, zero emendas | Nada a opor à sanção | 369 | 4 (2) | 10-07 |
-| 39 | PLC 118/2026 | CVL 4965/2026 | Junior da Lucinha | Requalificação de galpões industriais (Jacarepaguá/Bangu/Sta Cruz) | 🔴 **Contrário** | 359 | 4 (2) | 10-07 |
+| 39 | PLC 118/2026 | CVL 4965/2026 | Junior da Lucinha | Requalificação de galpões industriais (Jacarepaguá/Bangu/Sta Cruz) | 🔴 **Contrário** | 366 | 4 (2) | 10-07 |
 | 40 | PL 2188/2026 | CVL 5120/2026 | Thais Ferreira | Lei Alexia Nunes — segurança/identidade em apps de transporte (OTM) | Nada a opor | 362 | 5 (2) | 10-07 |
 | 41 | PL 2199/2026 | CVL 5115/2026 | Felipe Michel | Isenção de pedágio 60+ (Linha Amarela/Transolímpica) | 🔴 **Contrário** | 359 | 4 (1) | 10-07 |
 | 42 | PL 2239/2026 | CVL 5207/2026 | Diego Faro | Turismo religioso + empreendedorismo religioso (Lei 5.675/13) | Nada a opor | 338 | 4 (1) | 10-07 |
