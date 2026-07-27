@@ -1,0 +1,106 @@
+MANIFESTAÇÕES TÉCNICAS — SMDE — ENTREGÁVEL 23/07/2026 (Lote K)
+Subsecretaria de Desenvolvimento Econômico
+7 manifestações: 3 nada a opor + 3 CONTRÁRIAS (PL-2289, PL-2290, PL-2326) + 2 ciência de lei (638, 1964)
+Posições emergiram da análise (esquema V5) e passaram por verificação adversarial (gate céticos: fonte + lógica). O PL-2425 começou contrário e foi revertido a nada a opor após o gate lógico apontar non sequitur.
+
+══════════════════════════════════════════════════════════════════════
+1. SEI 000184.010996/2026-06
+   PL 2417/2026 — Mitigação/compensação econômica de impactos de obras públicas — Ofício CVL 7293/2026 — NADA A OPOR
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Ofício CVL nº 7293/2026, referente ao PL nº 2417/2026, de autoria dos Vereadores Fernando Armelau e Atila Nunes, que institui política municipal de mitigação e compensação econômica de impactos decorrentes de obras públicas, intervenções urbanas e obras de infraestrutura de longa duração ou com atraso relevante, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+A proposição institui procedimento administrativo de reconhecimento de "prejuízo econômico especial e anormal" sofrido por atividade regular na área diretamente afetada, do qual podem decorrer um Certificado Municipal de Impacto — que não gera direito automático à compensação (art. 8º) — e um crédito para abater débitos tributários municipais do beneficiário, sob teto triplo (art. 11). Não cria fundo, conselho, órgão nem indenização pecuniária, subordinando-se às normas de responsabilidade fiscal (art. 1º, §2º).
+
+O diagnóstico é empiricamente sólido. Obras longas impõem dano concentrado ao comércio lindeiro: RAY, Rosalie ("Open for business?", Journal of Transport and Land Use, 2017) mede risco de fechamento 46% maior para negócios vizinhos e não capta queda significativa de faturamento — o dano surge como falência, amparando a exigência de prejuízo líquido e a vedação ao "prejuízo presumido" (art. 5º, §3º). FAN, Yingling et al. ("The Effects of Highway Improvement Projects on Nearby Business Activity", MnDOT, 2024) mostram o dano concentrado em pequenos negócios de local único sob obras prolongadas — o público (art. 10) e o gatilho (art. 3º, IV) que o texto elege. No Rio, as obras do VLT na Marechal Floriano cortaram 20% a 30% da clientela de lojas centenárias, sem compensação (JORNAL DO BRASIL. "Comerciantes resistem às obras do VLT na Marechal Floriano", Jornal do Brasil, 2018).
+
+Os filtros probatórios — prejuízo material efetivo, nexo causal e apuração de lucros cessantes por média histórica (art. 5º) — espelham a jurisprudência do STJ ("Indenização por lucros cessantes exige comprovação objetiva do dano", Portal STJ, 2017), que veda conjecturas. A efetivação observará o art. 14 da Lei de Responsabilidade Fiscal (BRASIL, LC nº 101/2000), condição que o desenho internaliza ao travar o crédito no débito tributário.
+
+Nesse sentido, a proposta reconhece dano documentado mediante instrumento fiscalmente contido e probatoriamente rigoroso. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 2417/2026.
+
+
+══════════════════════════════════════════════════════════════════════
+2. SEI 000184.009693/2026-32
+   PL 2289/2026 — Vedação de tarifa de esgoto em áreas com Coletores de Tempo Seco (CTS) — Ofício CVL 6227/2026 — ⚠ CONTRÁRIO
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Ofício CVL nº 6227/2026, referente ao PL nº 2289/2026, de autoria da Vereadora Rosa Fernandes e demais subscritores, que veda a cobrança total ou parcial de tarifa de esgotamento sanitário em imóveis atendidos predominantemente por sistemas de Coletores de Tempo Seco (CTS), esta Subsecretaria posiciona-se em sentido contrário à proposta.
+
+O art. 1º condiciona a cobrança à prestação contínua e integral de coleta e tratamento, estendendo a vedação a todas as prestadoras do Município. O mecanismo, contudo, colide com a tese repetitiva vinculante do STJ no Tema 565 (REsp 1.339.313/RJ), segundo a qual "a legislação que rege a matéria dá suporte para a cobrança da tarifa de esgoto mesmo ausente o tratamento final dos dejetos", bastando a coleta e o afastamento que o CTS efetivamente realiza. Tampouco procede a premissa de "ausência de serviço": a literatura técnica internacional qualifica o dry-weather sewage intake como estratégia legítima de transição rumo ao separador absoluto (VOLSCHAN JR., I. "The challenge of dry-weather sewage intakes as a sustainable strategy to develop urban sanitation in the tropics", Water Practice & Technology, 2020), e não como não prestação.
+
+Ao vício material soma-se defeito de competência. Os blocos regionalizados da CEDAE — inclusive o bloco 2, da Iguá, que atende à Barra da Tijuca, origem da demanda — são concessões estaduais reguladas pela AGENERSA (AGENERSA, 2022), não pelo Município. Lei municipal que anula a tarifa dessas concessões usurpa a política tarifária do poder concedente e desestabiliza o equilíbrio econômico-financeiro do contrato, vício já assentado pelo STF na ADI 6.912 (CONJUR. "Isenção de tarifas a atingidos por enchentes é inconstitucional", Consultor Jurídico, 2022). Não por outra razão, o Tribunal de Justiça fluminense anulou lei municipal de idêntico teor — a Lei de Petrópolis nº 8.500/2023, que vedava a cobrança sem prova do serviço — por vício de iniciativa e interferência no contrato de concessão (CONJUR. "TJ-RJ anula lei que proibia taxa de esgoto sem prova do serviço", Consultor Jurídico, 2023).
+
+Nesse sentido, o PL veda por lei municipal aquilo que a jurisprudência vinculante declara lícito e que se sujeita à regulação tarifária estadual, replicando vício já sancionado pelo TJRJ em legislação idêntica. Esta Subsecretaria posiciona-se em sentido contrário ao PL nº 2289/2026.
+
+
+══════════════════════════════════════════════════════════════════════
+3. SEI 000184.009700/2026-04
+   PL 2290/2026 — Cobrança de esgoto sobre consumo mínimo presumido — Ofício CVL 6233/2026 — ⚠ CONTRÁRIO
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Ofício CVL nº 6233/2026, referente ao PL nº 2290/2026, de autoria da Vereadora Rosa Fernandes e outros, que dispõe sobre a cobrança do esgotamento sanitário faturado por consumo mínimo presumido de água, esta Subsecretaria posiciona-se em sentido de contrário à proposta.
+
+O projeto separa o consumo mínimo presumido do efetivamente medido (art. 1º), vincula a tarifa de esgoto ao volume aferido por hidrômetro (art. 2º) e veda a equiparação automática entre ambos (art. 3º). Colide, porém, com a moldura que invoca. O art. 30, III da Lei nº 11.445/2007 autoriza a cobrança a considerar quantidade mínima de consumo "visando à garantia de objetivos sociais", sobretudo dos usuários de menor renda (BRASIL. "Lei nº 11.445, de 5 de janeiro de 2007", Planalto, 2007/2020). Ao revisar o Tema 414 em 2024, o Superior Tribunal de Justiça reafirmou a licitude da tarifa mínima como franquia de consumo por economia, extensível ao esgoto (SUPERIOR TRIBUNAL DE JUSTIÇA. "Primeira Seção revisa tese sobre tarifa de água e esgoto em condomínios com hidrômetro único", STJ Notícias, 2024). Cobrar o esgoto por proxy do volume de água somado a parcela fixa mínima é o desenho-padrão internacional de recuperação de custos (OECD. "Managing Water for All: An OECD Perspective on Pricing and Financing", OECD Publishing, 2009).
+
+Soma-se defeito de competência. A prestação decorre de concessão estadual regionalizada dos blocos da CEDAE, regulada pela AGENERSA, cuja política tarifária é inerente ao poder concedente e ao equilíbrio econômico-financeiro do contrato (SUPREMO TRIBUNAL FEDERAL. "ADI 3.343/DF", STF). Não por acaso, o Órgão Especial do TJRJ já anulou lei estadual de idêntico teor — a Lei nº 6.361/2018, que vedava a cobrança por consumo presumido — por vício de iniciativa e ruptura do equilíbrio contratual (CONJUR. "TJ-RJ anula lei que proibia cobrança por estimativa", Consultor Jurídico, 2021). Um veto municipal a serviço de concessão estadual deflagraria pleitos de recomposição do equilíbrio contratual, transferindo o ônus ao erário ou aos demais usuários.
+
+Nesse sentido, o PL contraria a lei federal que invoca, a jurisprudência vinculante do STJ e a competência tarifária do regulador estadual, replicando inconstitucionalidade já reconhecida pelo TJRJ em legislação de idêntico teor. Esta Subsecretaria posiciona-se em sentido de contrário ao PL nº 2290/2026.
+
+
+══════════════════════════════════════════════════════════════════════
+4. SEI 000184.009856/2026-87
+   PL 2326/2026 — Uso obrigatório da marca 'Visit Rio' — Ofício CVL 6366/2026 — ⚠ CONTRÁRIO
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Ofício CVL nº 6366/2026, referente ao PL nº 2326/2026, de autoria do Vereador Pedro Duarte, que torna obrigatória a utilização da marca "Visit Rio" na comunicação de eventos realizados em espaços públicos ou apoiados por órgão da Administração municipal, esta Subsecretaria posiciona-se em sentido contrário à proposta.
+
+O PL converte em lei ordinária o Decreto Rio nº 56.184/2025, já editado pelo próprio Executivo, e impõe o uso da marca — sob pena de cancelamento de autorizações, apoios e patrocínios (art. 2º) — na comunicação de eventos em espaço público ou custeados pelo Município (CÂMARA MUNICIPAL DO RIO DE JANEIRO. "Projeto de Lei nº 2326/2026", Processo SEI 000184.009856/2026-87, 2026). O ativo é vultoso: o Rio recebeu 12,5 milhões de visitantes em 2025, que movimentaram R$ 27,2 bilhões (PREFEITURA DO RIO DE JANEIRO. "Recorde no Rio", prefeitura.rio, 2026).
+
+Três defeitos pesam contra a proposta. Primeiro, a titularidade: o decreto-espelho reconhece que a marca pertence ao Visit Rio Convention Bureau, fundação privada sem fins lucrativos (ECONODATA. "Visit Rio Convention Bureau", 2026). Obrigar por lei, sob sanção, o uso de sinal de titularidade privada institucionaliza vantagem a particular e submete a comunicação pública a licenciamento que o Município não controla — ao contrário do desenho internacional, em que a marca-destino é detida por órgão público (VISITBRITAIN. "Who We Are & Our Team", 2026). Segundo, a rigidez: a marca de destino é ativo dinâmico, que demanda gestão adaptativa contínua (RUIZ-REAL; URIBE-TORIL; GÁZQUEZ-ABAD. "Destination branding", Journal of Destination Marketing & Management, 2020); fixá-la em lei condiciona qualquer rebranding a novo processo legislativo. Terceiro, e decisivo, o vício de iniciativa: dispor por lei parlamentar sobre a organização e o funcionamento da Administração invade competência do Executivo (art. 84, VI, "a", da CF), já exercida no próprio Decreto Rio nº 56.184/2025 — e o STF firmou que "padece de inconstitucionalidade formal lei de iniciativa parlamentar que disponha sobre atribuições de órgãos da Administração Pública" (BRASIL. Supremo Tribunal Federal. "ADI nº 3981/SP", 2020).
+
+Nesse sentido, a proposta apenas engessa em lei — sob titularidade privada e com risco de inconstitucionalidade — o que o decreto vigente já assegura com mais flexibilidade e menor custo administrativo. Esta Subsecretaria posiciona-se em sentido contrário ao PL nº 2326/2026.
+
+
+══════════════════════════════════════════════════════════════════════
+5. SEI 000184.011057/2026-71
+   PL 2425/2026 — Diretrizes para fomento à inovação tecnológica — Ofício CVL 7338/2026 — NADA A OPOR
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Ofício CVL nº 7338/2026, referente ao PL nº 2425/2026, de autoria do Vereador Junior da Lucinha, que institui diretrizes para o fomento à inovação tecnológica no Município, esta Subsecretaria posiciona-se em sentido de nada a opor à proposta.
+
+O projeto determina que o Executivo institua mecanismos de suporte às microempresas e empresas de pequeno porte de base tecnológica mediante equalização de taxas de juros (art. 2º, I) e prestação de garantias em operações de crédito (art. 2º, II), custeados por fundos municipais de inovação (art. 3º) e condicionados à prévia dotação orçamentária (art. 4º). O objetivo é economicamente legítimo e alinha-se à missão da Subsecretaria: o acesso a crédito e a garantias é gargalo reconhecido das pequenas empresas inovadoras.
+
+As diretrizes convergem com instrumentos que já existem e que a regulamentação pode articular. No plano municipal, a Lei nº 6.788/2020 institui o Fundo Municipal de Inovação (FINOVA), que reserva cotas ao fomento de micro e pequenas empresas inovadoras e à garantia de financiamentos a empreendimentos inovadores (RIO DE JANEIRO. "Lei nº 6.788, de 28 de outubro de 2020", LegisWeb, 2020) — ao qual o próprio art. 3º do PL remete. No plano federal, o Pronampe assegura, em caráter permanente, aval do Fundo Garantidor de Operações de 85% a 100% do crédito a micro e pequenas empresas (BRASIL. "Lei nº 13.999, de 18 de maio de 2020", Planalto, 2020). A articulação com esses marcos evita duplicação e concentra o esforço municipal onde ele agrega.
+
+A efetividade dependerá do desenho da execução: a experiência internacional mostra que garantias públicas de crédito só entregam adicionalidade econômica quando dotadas de entidade gestora, governança e gestão de risco adequadas (OECD. "Evaluating Publicly Supported Credit Guarantee Programmes for SMEs", OECD, 2017; WORLD BANK GROUP; FIRST INITIATIVE. "Principles for Public Credit Guarantee Schemes for SMEs", World Bank, 2015) — parâmetros que o art. 4º, ao condicionar os mecanismos a dotação e regulamentação, permite incorporar. Nesse sentido, o PL nº 2425/2026 reforça a agenda municipal de inovação em convergência com instrumentos vigentes. Esta Subsecretaria posiciona-se em sentido de nada a opor ao PL nº 2425/2026.
+
+
+══════════════════════════════════════════════════════════════════════
+6. SEI 000184.010055/2026-64
+   PL 638/2025 → Lei nº 9.513/2026 — Selo Empresa Amiga das Entregadoras(es) — Despacho de Ciência — CIÊNCIA DE LEI
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Despacho de Ciência da Lei nº 9.513, de 8 de julho de 2026, exarado pela Coordenadoria-Geral de Assuntos Legislativos e Parlamentares da Casa Civil (Processo SEI 000184.010055/2026-64), que encaminha a esta Subsecretaria a matéria para conhecimento e providências de regulamentação, na forma do art. 7º, manifestamo-nos.
+
+A Lei nº 9.513/2026, originária do Projeto de Lei nº 638/2025, institui o Selo Empresa Amiga das Entregadoras e dos Entregadores — distinção honorífica e voluntária, que reconhece estabelecimentos que disponibilizem banheiro, água, descanso ou refeição aos entregadores (art. 3º). O selo não impõe obrigação a particulares; tem por finalidade valorizar boas práticas de responsabilidade social (art. 1º, § 3º) e ancora-se no direito humano à alimentação adequada, reproduzindo os conceitos de segurança alimentar e nutricional da Lei federal nº 11.346/2006 — LOSAN.
+
+A carência que a norma endereça é real e documentada. Na avaliação Fairwork Brasil 2025, nenhuma das dez plataformas examinadas obteve pontuação no princípio Fair Conditions, concluindo que as empresas "consistently fail to ensure safety and social protection, instead transferring risks to their workers" (FAIRWORK. "Fairwork Brazil Ratings 2025", Fairwork/Oxford Internet Institute, 2025). No plano sanitário, a agência francesa ANSES vincula as condições da entrega a "sleep disorders and metabolic, respiratory or cardiovascular diseases" (ANSES. "Working conditions of food delivery couriers for digital platforms are damaging to their health", ANSES, 2025). Banheiro, hidratação e alimentação — objeto do selo — configuram medidas de saúde ocupacional. A própria Prefeitura já reconhece a pauta ao manter, em parceria com a 99, os pontos "Parada", dotados de banheiros e áreas de descanso (CET-RIO. "Prefeitura do Rio e 99 inauguram ponto de apoio para entregadores", Prefeitura do Rio, 2026).
+
+Ao eleger o reconhecimento reputacional, custeado por dotações orçamentárias próprias (art. 6º), a Lei amplia a rede de provedores dessas amenidades sem imposição a privados nem custo direto relevante ao erário. Na regulamentação atribuída a esta Subsecretaria, os critérios objetivos de verificação (art. 3º, § 3º) deverão assegurar aferição robusta, requisito reconhecido de credibilidade de qualquer certificação (ISO/IEC. "17065:2012 — Conformity assessment: requirements for bodies certifying products, processes and services", ISO, 2012).
+
+Esta Subsecretaria toma ciência da Lei nº 9.513/2026 e reconhece seu alinhamento com a política municipal de desenvolvimento econômico.
+
+
+══════════════════════════════════════════════════════════════════════
+7. SEI 000184.010075/2026-35
+   PL 1964/2026 → Lei nº 9.528/2026 — Dia do Empresário no Calendário Oficial — Despacho de Ciência — CIÊNCIA DE LEI
+══════════════════════════════════════════════════════════════════════
+
+Em atenção ao Despacho de Ciência da Lei encaminhado pela Secretaria Municipal da Casa Civil (Despacho CVL/CGALP, Processo SEI nº 000184.010075/2026-35), referente à Lei nº 9.528, de 8 de julho de 2026, de autoria do Vereador Fernando Armelau, que inclui o Dia do Empresário no Calendário Oficial da Cidade consolidado pela Lei nº 5.146/2010, esta Subsecretaria manifesta-se nos termos a seguir.
+
+A Lei nº 9.528/2026 acresce ao § 11 do art. 6º da Lei nº 5.146, de 7 de janeiro de 2010, o Dia do Empresário, a ser celebrado anualmente em 25 de novembro. O texto sancionado reproduz integralmente a proposição originária — dois artigos, com vigência imediata —, sem alteração de mérito e sem impacto normativo sobre estruturas administrativas ou exigências ao setor privado. Trata-se de marco simbólico de reconhecimento institucional à contribuição do empresariado ao desenvolvimento econômico e urbano da cidade.
+
+O reconhecimento encontra respaldo na relevância da atividade empresarial para a economia. As micro e pequenas empresas representam cerca de 99% das empresas do País, respondem por aproximadamente 55% dos empregos com carteira assinada e por quase 30% do PIB brasileiro (SEBRAE. "Participação das Micro e Pequenas Empresas na Economia Brasileira", Biblioteca SEBRAE, 2024). No Rio de Janeiro, o dinamismo é expressivo: em 2025 o estado abriu 425,3 mil pequenos negócios, o terceiro maior volume do País, com a capital liderando com 185,4 mil registros, dos quais 80,4% de microempreendedores individuais (AGÊNCIA SEBRAE RIO. "Mais de 400 mil pequenos negócios foram abertos no Rio de Janeiro", ASN Rio de Janeiro, 2025). A taxa total de empreendedorismo entre adultos brasileiros alcançou 33,4% em 2024, uma das mais altas do mundo (GLOBAL ENTREPRENEURSHIP MONITOR. "GEM Brasil 2024", SEBRAE/ANEGEPE, 2025). No plano internacional, as pequenas e médias empresas respondem por mais da metade dos empregos formais no mundo, o que reforça o valor do reconhecimento institucional ao empresariado (WORLD BANK. "Innovation & Entrepreneurship", World Bank, 2024).
+
+Esta Subsecretaria toma ciência da Lei nº 9.528/2026 e reconhece seu alinhamento com a política municipal de desenvolvimento econômico.
+

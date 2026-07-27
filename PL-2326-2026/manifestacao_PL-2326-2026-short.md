@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2326/2026
+
+**Ofício:** CVL nº 6366/2026 | **Órgão:** SMDE — Subsecretaria de Desenvolvimento Econômico | **Data:** julho de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 6366/2026, referente ao PL nº 2326/2026, de autoria do Vereador Pedro Duarte, que torna obrigatória a utilização da marca "Visit Rio" na comunicação de eventos realizados em espaços públicos ou apoiados por órgão da Administração municipal, esta Subsecretaria posiciona-se em sentido **contrário** à proposta.
+
+O PL converte em lei ordinária o Decreto Rio nº 56.184/2025, já editado pelo próprio Executivo, e impõe o uso da marca — sob pena de cancelamento de autorizações, apoios e patrocínios (art. 2º) — na comunicação de eventos em espaço público ou custeados pelo Município (CÂMARA MUNICIPAL DO RIO DE JANEIRO. "Projeto de Lei nº 2326/2026", Processo SEI 000184.009856/2026-87, 2026). O ativo é vultoso: o Rio recebeu 12,5 milhões de visitantes em 2025, que movimentaram R$ 27,2 bilhões (PREFEITURA DO RIO DE JANEIRO. "Recorde no Rio", prefeitura.rio, 2026).
+
+Três defeitos pesam contra a proposta. Primeiro, a titularidade: o decreto-espelho reconhece que a marca pertence ao Visit Rio Convention Bureau, fundação privada sem fins lucrativos (ECONODATA. "Visit Rio Convention Bureau", 2026). Obrigar por lei, sob sanção, o uso de sinal de titularidade privada institucionaliza vantagem a particular e submete a comunicação pública a licenciamento que o Município não controla — ao contrário do desenho internacional, em que a marca-destino é detida por órgão público (VISITBRITAIN. "Who We Are & Our Team", 2026). Segundo, a rigidez: a marca de destino é ativo dinâmico, que demanda gestão adaptativa contínua (RUIZ-REAL; URIBE-TORIL; GÁZQUEZ-ABAD. "Destination branding", Journal of Destination Marketing & Management, 2020); fixá-la em lei condiciona qualquer rebranding a novo processo legislativo. Terceiro, e decisivo, o vício de iniciativa: dispor por lei parlamentar sobre a organização e o funcionamento da Administração invade competência do Executivo (art. 84, VI, "a", da CF), já exercida no próprio Decreto Rio nº 56.184/2025 — e o STF firmou que "padece de inconstitucionalidade formal lei de iniciativa parlamentar que disponha sobre atribuições de órgãos da Administração Pública" (BRASIL. Supremo Tribunal Federal. "ADI nº 3981/SP", 2020).
+
+Nesse sentido, a proposta apenas engessa em lei — sob titularidade privada e com risco de inconstitucionalidade — o que o decreto vigente já assegura com mais flexibilidade e menor custo administrativo. Esta Subsecretaria posiciona-se em sentido contrário ao PL nº 2326/2026.
