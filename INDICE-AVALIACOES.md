@@ -48,7 +48,7 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 14 | PL 1954/2026 | CVL 1722/2026 | Felipe Pires | Fundo de Reparação e Renda da População Negra (FMRDRPN) | Nada a opor | 326 | 4 (1) | 01-06 |
 | 15 | PLC 98/2026 | CVL 1227/2026 | Salvino Oliveira | Certidão de renda em HIS, EIS e locação de curta duração (LC 97/09) | Nada a opor | 345 | 4 (2) | 27-05 |
 | 16 | PLC 102/2026 | CVL 1268/2026 | Marcio Ribeiro | Manutenção, auditoria e seguro em shopping centers | Nada a opor | 355 | 5 (2) | 27-05 |
-| 17 | PLC 103/2026 | CVL 1279/2026 | Paulo Messina | Reviver Centro — reavaliação bienal de incentivos (LC 229/21) | Nada a opor | 364 | 5 (2) | 27-05 |
+| 17 | PLC 103/2026 | CVL 1279/2026 | Paulo Messina | Reviver Centro — reavaliação bienal de incentivos (LC 229/21) | 🔴 Contrário | 369 | 4 (2) | 27-05 (rev. 27-07) |
 | 18 | PLC 104/2026 | CVL 1283/2026 | Rafael Aloisio Freitas | Estruturas em áreas de concessão vs. regime de quiosques | Nada a opor | 366 | 4 (2) | 27-05 |
 | 19 | PLC 105/2026 | CVL 1322/2026 | Marcio Santos | Recarga de veículos elétricos (Código de Obras LC 198/19) | Nada a opor | 346 | 4 | 27-05 |
 | 20 | PLC 106/2026 | CVL 1329/2026 | Flávio Valle | Recarga de veículos elétricos em condomínios | Nada a opor | 348 | 4 | 27-05 |
