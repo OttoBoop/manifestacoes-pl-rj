@@ -2,7 +2,7 @@
 
 > Tabela mestre de todas as manifestações já produzidas pela pipeline.
 > Fonte canônica de detalhe por PL: `workflow/PROOF-OF-CONCEPT.md` (inventário de PDFs) + `<PASTA>/V5-AUDIT.md`.
-> **Atualizado:** 2026-07-10 — **45 manifestações entregues** + 1 bloqueada. Lote J: posições emergiram da análise (V5). ⚠️ 1 contrária — PL-2199 — para revisão do Marcel antes do envio.
+> **Atualizado:** 2026-07-27 — **57 manifestações** na tabela + 1 bloqueada. Lote L (27-07, linhas 53–57): 4 nada a opor + 1 favorável (PL-2362, fomento voluntário ao turismo); PL-2338 avaliado só pela ótica econômica. PLC-103 (linha 17) revisto para 🔴 Contrário por determinação do Marcel. Posições emergem da análise (V5).
 
 ---
 
@@ -84,6 +84,11 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 50 | PL 2425/2026 | CVL 7338/2026 | Junior da Lucinha | Diretrizes para fomento à inovação tecnológica | Nada a opor | 350 | 4 (2) | 23-07 |
 | 51 | PL 638/2025 | Ciência (Lei 9.513/26) | Maíra do MST, Salvino, Rick Azevedo, Niquinho | Selo Empresa Amiga das Entregadoras(es) | Ciência de lei | 368 | 4 (3) | 23-07 |
 | 52 | PL 1964/2026 | Ciência (Lei 9.528/26) | Fernando Armelau | Dia do Empresário no Calendário Oficial (Lei 5.146/10) | Ciência de lei | 335 | 4 (2) | 23-07 |
+| 53 | PL 2135/2026 | CVL 3932/2026 | Rick Azevedo | Vedação de benefício fiscal a empresa com condenação trabalhista transitada em julgado (CNDT) | Nada a opor | 368 | 4 (1) | 27-07 |
+| 54 | PL 2146/2026 | CVL 3949/2026 | Rick Azevedo | Selo Inovação Sustentável e Selo Inovação Digital (honorífico) | Nada a opor | 368 | 4 (4) | 27-07 |
+| 55 | PL 2338/2026 | CVL 7113/2026 | Dr. Gilberto | Banheiros de uso neutro em estab. de uso coletivo (avaliado só pela ótica econômica) | Nada a opor | 369 | 5 (4) | 27-07 |
+| 56 | PL 2362/2026 | CVL 7184/2026 | Carlo Caiado, Marcio Ribeiro | Programa "Carioca no Hotel" — descontos de hospedagem a moradores (voluntário) | 🟢 **Favorável** | 366 | 4 (3) | 27-07 |
+| 57 | PL 2364/2026 | CVL 7187/2026 | Tainá de Paula | Financiamento Climático Compartilhado (matchfunding + Títulos de Impacto Ambiental) | Nada a opor | 336 | 4 (3) | 27-07 |
 
 ---
 

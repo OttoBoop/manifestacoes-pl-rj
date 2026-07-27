@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2135/2026
+
+**Ofício:** CVL nº 3932/2026 | **Órgão:** SMDE — Subsecretaria de Desenvolvimento Econômico | **Data:** julho de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 3932/2026, referente ao PL nº 2135/2026, de autoria do Vereador Rick Azevedo, que veda a concessão de benefícios fiscais e isenções tributárias municipais a empresas ou grupos econômicos com condenações trabalhistas transitadas em julgado, esta Subsecretaria posiciona-se em sentido de **nada a opor** à proposta.
+
+O projeto condiciona a fruição de qualquer benefício fiscal municipal à conformidade trabalhista. O art. 1º veda a concessão a empresa com condenação trabalhista transitada em julgado, enquanto não comprovado o cumprimento integral; o art. 2º define benefício fiscal (isenção, remissão, anistia); o art. 3º exige a Certidão Negativa de Débitos Trabalhistas (CNDT) para o pedido; e os arts. 4º e 5º preveem revogação, restituição ao erário, impedimento de cinco anos e publicação semestral dos impedidos.
+
+Sob a ótica econômica, a medida não impõe dano e alinha-se ao arcabouço vigente. A regularidade perante a Justiça do Trabalho, aferida pela CNDT, já é requisito de habilitação nas contratações públicas (BRASIL. "Lei nº 12.440/2011 — institui a Certidão Negativa de Débitos Trabalhistas (CNDT)", Diário Oficial da União, 2011; BRASIL. "Lei nº 14.133/2021 — Nova Lei de Licitações e Contratos Administrativos", Diário Oficial da União, 2021), exigência que o Supremo Tribunal Federal declarou constitucional por "garantir a igualdade de condições a todos os concorrentes" (SUPREMO TRIBUNAL FEDERAL. "ADI 4716 e ADI 4742 — constitucionalidade da Lei 12.440/2011 e de sua exigência em licitações", Supremo Tribunal Federal, 2024). Estendê-la aos incentivos fiscais é redundância, não dano. O ônus é baixo: a CNDT é gratuita, eletrônica e válida por 180 dias, e débitos garantidos ou com exigibilidade suspensa geram certidão positiva com efeitos de negativa, preservando quem litiga de boa-fé; o impedimento de cinco anos acomoda-se na faixa sancionatória federal (art. 156) e é reversível. Ademais, incentivo fiscal é renúncia de receita — subsídio implícito; direcioná-lo apenas a empresas adimplentes protege a isonomia e evita subsidiar vantagem de custo obtida por descumprir a lei trabalhista, o social dumping ou race to the bottom (BURTLESS, G. "Workers' Rights: Labor Standards and Global Trade", The Brookings Review, 2001).
+
+Nesse sentido, a proposta qualifica o gasto tributário e protege a concorrência justa. Esta Subsecretaria posiciona-se em sentido de **nada a opor** ao PL nº 2135/2026.

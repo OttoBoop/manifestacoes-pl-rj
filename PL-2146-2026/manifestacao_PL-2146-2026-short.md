@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2146/2026
+
+**Ofício:** CVL nº 3949/2026 | **Órgão:** SMDE — Subsecretaria de Desenvolvimento Econômico | **Data:** julho de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 3949/2026, referente ao PL nº 2146/2026, de autoria do Vereador Rick Azevedo, que institui o Selo Inovação Sustentável e o Selo Inovação Digital no âmbito do Município, esta Subsecretaria posiciona-se em sentido de **nada a opor** à proposta.
+
+O projeto cria dois selos de reconhecimento — Inovação Sustentável e Inovação Digital (Art. 1º) —, de caráter honorífico, voltados a estimular a competitividade e a transformação digital (Art. 2º). Os critérios de concessão serão fixados em regulamento do Executivo (Art. 3º); a validade é de dois anos, renovável (Art. 4º); e as empresas podem exibir o selo em sua divulgação (Art. 5º). O desenho não impõe obrigação a privados — a adesão é voluntária — nem custo direto relevante ao erário.
+
+Sob a ótica econômica, o instrumento opera como mecanismo de sinalização de qualidade que reduz a assimetria de informação entre empresa e mercado. A certificação voluntária permite à firma sinalizar de forma crível atributos não-observáveis, sobretudo para empresas menores, ampliando seu acesso a financiamento externo (ULLAH, B. "Signaling value of quality certification: Financing under asymmetric information", Journal of Multinational Financial Management, 2020). Do lado da demanda, rótulos de sustentabilidade geram prêmio mensurável de disposição a pagar — meta-análise de 35 experimentos de escolha estima 3,79 PPP$/kg para alimentos com eco-rótulo (BASTOUNIS, A. et al. "The Impact of Environmental Sustainability Labels on Willingness-to-Pay for Foods: A Systematic Review and Meta-Analysis of Discrete Choice Experiments", Nutrients, 2021). O único condicionante é a credibilidade: o valor de sinalização depende de critérios objetivos e verificáveis (ISO/IEC. "ISO/IEC 17065:2012 — Conformity assessment — Requirements for bodies certifying products, processes and services", ISO/IEC, 2012), sob pena de diluição por proliferação de rótulos e greenwashing (KOVAČ, I. et al. "Greenwashing and consumer skepticism toward eco-labels in Croatia: challenges and policy directions", British Food Journal, 2025). Tal condicionante recai sobre a regulamentação (Art. 3º), locus dos critérios, e não constitui falha do desenho.
+
+Nesse sentido, tratando-se de selos honoríficos e voluntários, sem custo direto ou obrigação a privados, cujo valor de sinalização reduz assimetria informacional e cuja credibilidade cabe à regulamentação, não se identifica dano econômico aplicável. Esta Subsecretaria posiciona-se em sentido de **nada a opor** ao PL nº 2146/2026.

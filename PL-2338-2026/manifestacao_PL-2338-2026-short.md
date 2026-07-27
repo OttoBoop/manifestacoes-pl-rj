@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2338/2026
+
+**Ofício:** CVL nº 7113/2026 | **Órgão:** SMDE — Subsecretaria de Desenvolvimento Econômico | **Data:** julho de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 7113/2026, referente ao PL nº 2338/2026, de autoria do Vereador Dr. Gilberto, que dispõe sobre a obrigatoriedade de instalação de banheiros de uso neutro, de acesso universal e não-generificado, em estabelecimentos públicos e privados de uso coletivo, esta Subsecretaria posiciona-se em sentido de **nada a opor** à proposta.
+
+A proposição cria a obrigação de instalar ao menos um banheiro de uso neutro — sanitário individual, com porta e tranca, sem identificação de gênero — em órgãos públicos e em estabelecimentos privados de grande porte, como shoppings, instituições de ensino, terminais de transporte, arenas com mais de 500 lugares, hospitais e hotéis. A categoria é aditiva: não substitui nem reduz os sanitários masculino, feminino ou acessível já existentes. O prazo de adequação é de 12 meses, com multas corrigidas pelo IPCA e regulamentação pelo Executivo.
+
+Sob ótica exclusivamente econômica, o custo de conformidade é marginal e não danoso. Os obrigados são de grande porte e já constroem, por exigência da ABNT NBR 9050 e da Lei nº 10.098/2000, banheiros acessíveis individuais com porta (SIENGE. "Acessibilidade em Banheiros: Exigências e Soluções", Sienge, s.d.); o acréscimo de uma unidade representa delta próximo de zero. Precedentes externos confirmam a magnitude: incorporar acessibilidade em nova construção custa menos de 1% do custo de obra (ADA NATIONAL NETWORK. "Is it expensive to make all newly constructed places of public accommodation and commercial facilities accessible?", ADA National Network, s.d.), e a Califórnia absorveu mandato equivalente essencialmente ao custo de placas, pois o AB-1732 exige apenas a re-sinalização de sanitários individuais já existentes (CALIFORNIA STATE LEGISLATURE. "AB-1732 Single-user restrooms", California Legislative Information, 2016). A exigência é isonômica por classe de estabelecimento. Há, ainda, ganho de eficiência: layouts neutros reduzem a fila feminina de mais de 6 para menos de 1,5 minuto (SCIENCEDAILY. "No more queueing at the ladies' room", ScienceDaily, 2017) permitindo às firmas cortar custos sem elevar a espera (MARCOCI; BOVENS. "The gender-neutral bathroom: a new frame and some nudges", Behavioural Public Policy, 2023).
+
+Nesse sentido, o PL nº 2338/2026 impõe custo marginal a estabelecimentos já obrigados a acessibilidade equivalente, sendo concorrencialmente neutro e sem ônus desproporcional. Esta Subsecretaria posiciona-se em sentido de **nada a opor** ao PL nº 2338/2026.
