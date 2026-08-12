@@ -1,101 +1,96 @@
-*.pdf
+
+conversa completa/*.zip
 .DS_Store
+!entregáveis 01-06-2026/
+!entregáveis 04-06-2026/
+!entregáveis 07-06-2026/
+!entregáveis 10-07/manifestacao_PL-1884-2026-v2.pdf
+!entregáveis 10-07/manifestacao_PL-2188-2026-short.pdf
+!entregáveis 10-07/manifestacao_PL-2199-2026-short.pdf
+!entregáveis 10-07/manifestacao_PL-2239-2026-short.pdf
+!entregáveis 10-07/manifestacao_PL-2242-2026-short.pdf
+!entregáveis 10-07/manifestacao_PL-2265-2026-short.pdf
+!entregáveis 10-07/manifestacao_PL-2276-2026-short.pdf
+!entregáveis 10-07/manifestacao_PLC-118-2026-short.pdf
+!entregáveis 23-06-26/manifestacao_PL-2261-2026-short.pdf
+!entregáveis 23-06-26/manifestacao_PL-2262-2026-short.pdf
+!entregáveis 23-06-26/manifestacao_PL-2263-2026-short.pdf
+!entregáveis 23-06-26/manifestacao_PL-799-2025-short.pdf
+!entregáveis 23 07 26/manifestacao_*.pdf
+**/.~lock*
+.~lock*
+# Lote K (23-07-2026)
+*.pdf
+!PELOM-5-2026/manifestacao_PELOM-5-2026-short.pdf
+!PL-1320-2025/manifestacao_PL-1320-2025-short.pdf
+!PL-1538-2025/manifestacao_PL-1538-2025-short.pdf
+!PL-163-2025/manifestacao_PL-163-2025-short.pdf
 !PL-1795-2026/manifestacao_PL-1795-2026-short.pdf
+!PL-1795-2026/v4/manifestacao_v4-short.pdf
+!PL-1826-2026/manifestacao_PL-1826-2026-short.pdf
 !PL-1840-2026/manifestacao_PL-1840-2026-short.pdf
+!PL-1840-2026/v4/manifestacao_v4-short.pdf
 !PL-1844-2026/manifestacao_PL-1844-2026-short.pdf
+!PL-1844-2026/v4/manifestacao_v4-short.pdf
 !PL-1866-2026/manifestacao_PL-1866-2026-short.pdf
+!PL-1866-2026/v4/manifestacao_v4-short.pdf
 !PL-1883-2026/manifestacao_PL-1883-2026-short.pdf
+!PL-1883-2026/v4/manifestacao_v4-short.pdf
 !PL-1884-2026/manifestacao_PL-1884-2026-short.pdf
+!PL-1884-2026/manifestacao_PL-1884-2026-v2.pdf
+!PL-1884-2026/v4/manifestacao_v4-short.pdf
+!PL-1897-2026/manifestacao_PL-1897-2026-short.pdf
 !PL-1900-2026/manifestacao_PL-1900-2026-short.pdf
+!PL-1900-2026/v4/manifestacao_v4-short.pdf
+!PL-1904-2026/manifestacao_PL-1904-2026-short.pdf
+!PL-1921-2026/manifestacao_PL-1921-2026-short.pdf
 !PL-1934-2026/manifestacao_PL-1934-2026-short.pdf
+!PL-1934-2026/v4/manifestacao_v4-short.pdf
 !PL-1954-2026/manifestacao_PL-1954-2026-short.pdf
+!PL-1954-2026/v4/manifestacao_v4-short.pdf
+!PL-1964-2026/manifestacao_PL-1964-2026-ciencia-lei9528.pdf
+!PL-1964-2026/manifestacao_PL-1964-2026-short.pdf
+!PL-1985-2026/manifestacao_PL-1985-2026-short.pdf
+!PL-1990-2026/manifestacao_PL-1990-2026-short.pdf
+!PL-2007-2026/manifestacao_PL-2007-2026-short.pdf
+!PL-2040-2026/manifestacao_PL-2040-2026-short.pdf
+!PL-2076-2026/manifestacao_PL-2076-2026-short.pdf
+!PL-2078-2026/manifestacao_PL-2078-2026-short.pdf
+!PL-2097-2026/manifestacao_PL-2097-2026-short.pdf
+!PL-2135-2026/manifestacao_PL-2135-2026-short.pdf
+!PL-2146-2026/manifestacao_PL-2146-2026-short.pdf
+!PL-2188-2026/manifestacao_PL-2188-2026-short.pdf
+!PL-2199-2026/manifestacao_PL-2199-2026-short.pdf
+!PL-2239-2026/manifestacao_PL-2239-2026-short.pdf
+!PL-2242-2026/manifestacao_PL-2242-2026-short.pdf
+!PL-2261-2026/manifestacao_PL-2261-2026-short.pdf
+!PL-2262-2026/manifestacao_PL-2262-2026-short.pdf
+!PL-2263-2026/manifestacao_PL-2263-2026-short.pdf
+!PL-2265-2026/manifestacao_PL-2265-2026-short.pdf
+!PL-2276-2026/manifestacao_PL-2276-2026-short.pdf
+!PL-2289-2026/manifestacao_PL-2289-2026-short.pdf
+!PL-2290-2026/manifestacao_PL-2290-2026-short.pdf
+!PL-2326-2026/manifestacao_PL-2326-2026-short.pdf
+!PL-2338-2026/manifestacao_PL-2338-2026-short.pdf
+!PL-2362-2026/manifestacao_PL-2362-2026-short.pdf
+!PL-2364-2026/manifestacao_PL-2364-2026-short.pdf
+!PL-2417-2026/manifestacao_PL-2417-2026-short.pdf
+!PL-2425-2026/manifestacao_PL-2425-2026-short.pdf
+!PL-638-2025/manifestacao_PL-638-2025-short.pdf
 !PL-74-2025-v2/manifestacao_PL-74-2025-v3.pdf
 !PL-74-2025-v2/manifestacao_PL-74-2025-v4.pdf
 !PL-74-2025/v4/manifestacao_v4-short.pdf
-!PL-1795-2026/v4/manifestacao_v4-short.pdf
-!PL-1840-2026/v4/manifestacao_v4-short.pdf
-!PL-1844-2026/v4/manifestacao_v4-short.pdf
-!PL-1866-2026/v4/manifestacao_v4-short.pdf
-!PL-1883-2026/v4/manifestacao_v4-short.pdf
-!PL-1884-2026/v4/manifestacao_v4-short.pdf
-!PL-1900-2026/v4/manifestacao_v4-short.pdf
-!PL-1934-2026/v4/manifestacao_v4-short.pdf
-!PL-1954-2026/v4/manifestacao_v4-short.pdf
-!PL-1904-2026/manifestacao_PL-1904-2026-short.pdf
-!PL-1897-2026/manifestacao_PL-1897-2026-short.pdf
-!PLC-98-2026/manifestacao_PLC-98-2026-short.pdf
+!PL-799-2025/manifestacao_PL-799-2025-short.pdf
 !PLC-102-2026/manifestacao_PLC-102-2026-short.pdf
 !PLC-103-2026/manifestacao_PLC-103-2026-short.pdf
 !PLC-104-2026/manifestacao_PLC-104-2026-short.pdf
 !PLC-105-2026/manifestacao_PLC-105-2026-short.pdf
 !PLC-106-2026/manifestacao_PLC-106-2026-short.pdf
-!PL-1921-2026/manifestacao_PL-1921-2026-short.pdf
-!PL-1795-2026/manifestacao_PL-1795-2026-short.pdf
-!entregáveis 01-06-2026/
-!entregáveis 04-06-2026/
-!PL-163-2025/manifestacao_PL-163-2025-short.pdf
-!PL-1320-2025/manifestacao_PL-1320-2025-short.pdf
-!PL-1826-2026/manifestacao_PL-1826-2026-short.pdf
-!PL-1840-2026/manifestacao_PL-1840-2026-short.pdf
-!PL-1844-2026/manifestacao_PL-1844-2026-short.pdf
-!PL-1866-2026/manifestacao_PL-1866-2026-short.pdf
-!PL-1883-2026/manifestacao_PL-1883-2026-short.pdf
-!PL-1884-2026/manifestacao_PL-1884-2026-short.pdf
-!PL-1900-2026/manifestacao_PL-1900-2026-short.pdf
-!PL-1954-2026/manifestacao_PL-1954-2026-short.pdf
-!PL-1538-2025/manifestacao_PL-1538-2025-short.pdf
-!PL-1964-2026/manifestacao_PL-1964-2026-short.pdf
-!PL-1985-2026/manifestacao_PL-1985-2026-short.pdf
-!PL-1990-2026/manifestacao_PL-1990-2026-short.pdf
-!PL-2007-2026/manifestacao_PL-2007-2026-short.pdf
 !PLC-112-2026/manifestacao_PLC-112-2026-short.pdf
-!PL-2040-2026/manifestacao_PL-2040-2026-short.pdf
-!PELOM-5-2026/manifestacao_PELOM-5-2026-short.pdf
-!PL-2076-2026/manifestacao_PL-2076-2026-short.pdf
-!PL-2078-2026/manifestacao_PL-2078-2026-short.pdf
-!PL-2097-2026/manifestacao_PL-2097-2026-short.pdf
-!entregáveis 07-06-2026/
-!PL-799-2025/manifestacao_PL-799-2025-short.pdf
-!PL-2261-2026/manifestacao_PL-2261-2026-short.pdf
-!PL-2262-2026/manifestacao_PL-2262-2026-short.pdf
-!PL-2263-2026/manifestacao_PL-2263-2026-short.pdf
-!entregáveis 23-06-26/manifestacao_PL-799-2025-short.pdf
-!entregáveis 23-06-26/manifestacao_PL-2261-2026-short.pdf
-!entregáveis 23-06-26/manifestacao_PL-2262-2026-short.pdf
-!entregáveis 23-06-26/manifestacao_PL-2263-2026-short.pdf
-!PL-1884-2026/manifestacao_PL-1884-2026-v2.pdf
-!entregáveis 10-07/manifestacao_PL-1884-2026-v2.pdf
 !PLC-118-2026/manifestacao_PLC-118-2026-short.pdf
-!PL-2265-2026/manifestacao_PL-2265-2026-short.pdf
-!PL-2188-2026/manifestacao_PL-2188-2026-short.pdf
-!PL-2199-2026/manifestacao_PL-2199-2026-short.pdf
-!PL-2242-2026/manifestacao_PL-2242-2026-short.pdf
-!PL-2239-2026/manifestacao_PL-2239-2026-short.pdf
-!PL-2276-2026/manifestacao_PL-2276-2026-short.pdf
-!entregáveis 10-07/manifestacao_PLC-118-2026-short.pdf
-!entregáveis 10-07/manifestacao_PL-2265-2026-short.pdf
-!entregáveis 10-07/manifestacao_PL-2188-2026-short.pdf
-!entregáveis 10-07/manifestacao_PL-2199-2026-short.pdf
-!entregáveis 10-07/manifestacao_PL-2242-2026-short.pdf
-!entregáveis 10-07/manifestacao_PL-2239-2026-short.pdf
-!entregáveis 10-07/manifestacao_PL-2276-2026-short.pdf
+!PLC-98-2026/manifestacao_PLC-98-2026-short.pdf
 *.pyc
 __pycache__/
-
 # skills copiadas p/ o repo — nunca versionar estado de execução
-skills/notebooklm/.venv/
 skills/notebooklm/data/
-# Lote K (23-07-2026)
-!PL-2417-2026/manifestacao_PL-2417-2026-short.pdf
-!PL-2289-2026/manifestacao_PL-2289-2026-short.pdf
-!PL-2290-2026/manifestacao_PL-2290-2026-short.pdf
-!PL-2326-2026/manifestacao_PL-2326-2026-short.pdf
-!PL-2425-2026/manifestacao_PL-2425-2026-short.pdf
-!PL-638-2025/manifestacao_PL-638-2025-short.pdf
-!PL-1964-2026/manifestacao_PL-1964-2026-ciencia-lei9528.pdf
-!entregáveis 23 07 26/manifestacao_*.pdf
-!PL-2135-2026/manifestacao_PL-2135-2026-short.pdf
-!PL-2146-2026/manifestacao_PL-2146-2026-short.pdf
-!PL-2338-2026/manifestacao_PL-2338-2026-short.pdf
-!PL-2362-2026/manifestacao_PL-2362-2026-short.pdf
-!PL-2364-2026/manifestacao_PL-2364-2026-short.pdf
+skills/notebooklm/.venv/

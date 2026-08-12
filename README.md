@@ -44,7 +44,7 @@ A pipeline evoluiu em 4 versões. Cada uma adiciona um vetor metodológico ao an
 | **Entregável final** | .md longo | .md longo | .md curto + **PDF 1 página** (Times 12, 1.5) | Idem V3 + arquivos pró/contra/log de síntese |
 | **Posiciona auditoria** | Wave 1+2 com decisões para usuário | Idem | Auditoria consolidada autônoma | Auditoria consolidada autônoma |
 | **Estrutura de arquivos** | `PL-XXXX/` raiz | `PL-XXXX-v2/` separado | Subpasta dentro de v2 | Subpasta `PL-XXXX/v4/` |
-| **Quando usar** | Quando demanda é jurídica formal | Quando SMDE precisa dar opinião econômica (regra) | Quando produto final é peça de gabinete | Quando há trade-offs reais (impacto fiscal, externalidades, sobreposição regulatória) |
+| **Quando usar** | **Desativada (V5.2)** — análise jurídica é da PGM, nunca da SMDE | Quando SMDE precisa dar opinião econômica (regra) | Quando produto final é peça de gabinete | Quando há trade-offs reais (impacto fiscal, externalidades, sobreposição regulatória) |
 | **Aumenta tempo de processamento** | Baseline | ≈ baseline | +1 etapa de recorte | ≈ 2× tempo (2 fluxos + síntese) |
 
 ### O que cada versão introduziu
@@ -116,7 +116,7 @@ Invocar a skill com 4 tópicos econômicos (V2/V3) ou pró + contra em paralelo 
 
 Produzir manifestação técnica V3 sobre PL XXXX/YYYY para SMDE.
 - Tópicos: T1 exegese econômica | T2 impacto mensurado | T3 contexto do setor | T4 ressalvas operacionais
-- Regra: sem enumeração de incisos; sem competência constitucional; foco econômico
+- Regra (V5.2 — bloqueante): ótica exclusivamente econômica. Sem enumeração de incisos; sem QUALQUER argumento jurídico, pró ou contra (jurisprudência, ADI, (in)constitucionalidade, vício de iniciativa, fórmula de competência) — jurídico é da PGM. Gate: workflow/scripts/checar_economia_only.py. Ver workflow/V5.2/ECONOMIA-ONLY.md
 - NB: https://notebooklm.google.com/notebook/...
 - Citações obrigatórias: (SOBRENOME, I. "Título", Veículo, Ano)
 - Output: PL-XXXX-YYYY/manifestacao_PL-XXXX-YYYY.md (700-900 palavras)

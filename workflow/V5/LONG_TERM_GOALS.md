@@ -1,7 +1,7 @@
 # Metas de Longo Prazo — Pipeline de Manifestações Técnicas (V5+)
 
 > Documento de referência estratégica. Atualizar quando houver mudança de chefe, de estilo ou de escopo.  
-> Última atualização: 2026-05-26
+> Última atualização: 2026-08-12 — **V5.2**: novo critério não-negociável §6 (ótica exclusivamente econômica), determinação de Marcel 29/07/2026. Regra completa em `workflow/V5.2/ECONOMIA-ONLY.md`.
 
 ---
 
@@ -43,7 +43,7 @@ Um único "conforme a ILO (2024)" já cumpre o requisito.
 Qualquer número, percentual, ranking ou estatística deve ter `(INSTITUIÇÃO, ANO)` imediatamente após. Sem isso, o dado é removido ou o pesquisador é rejeitado.
 
 ### 3. Posição categórica — praxe "nada a opor"
-A posição é uma das categorias pedidas pelo ofício (Favorável / Contrário / Nada a opor / Sem competência), **sem híbridos**: "nada a opor com sugestões de emenda" não existe no fluxo (Otávio, 10/07/2026). Regra:
+A posição é uma das categorias pedidas pelo ofício (Favorável / Contrário / Nada a opor — "Sem competência" foi **eliminada** pela V5.2: declarar incompetência é juízo jurídico, e a SMDE sempre tem ótica econômica sobre qualquer PL), **sem híbridos**: "nada a opor com sugestões de emenda" não existe no fluxo (Otávio, 10/07/2026). Regra:
 - Praxe da casa: "nada a opor" — sem seção de ressalvas, recomendações ou sugestões no corpo (Marcel remove sistematicamente toda seção de ressalvas)
 - O workflow **nunca recomenda rejeição** (`workflow_manifestacao_pl.md`, Fase 4: "O sistema analisa; a decisão política é da Subsecretaria"). Evidência fortemente adversa → "nada a opor" com os argumentos contrários **citados** no corpo (precedente PL-1934, Marcel: "colocar nada a opor, e citar os argumentos contrários") + destaque no V5-AUDIT para o revisor humano
 
@@ -53,6 +53,9 @@ Se o pesquisador listou 5 fontes no F-T.N, no mínimo 4 devem aparecer citadas n
 ### 5. audit_sources obrigatório
 Nenhuma manifestação é marcada como concluída sem Wave 1 + Wave 2 de audit_sources aplicadas. A verificação de citações é parte estrutural, não opcional.
 
+### 6. Ótica exclusivamente econômica (V5.2 — Marcel, 29/07/2026)
+O corpo da manifestação sustenta a posição **só com argumentos econômicos**, pró ou contra. Proibido no corpo: jurisprudência (STF/STJ/TJ), ADI/ADPF/súmulas, (in)constitucionalidade, vício de iniciativa e fórmula de competência (municipal/legislativa/constitucional) — "se não pode pela lei tal, isso é competência dos advogados, PGM, não dos economistas" (Marcel). Citar a norma que o PL altera/converte é permitido (objeto, não argumento). Achados jurídicos vão à seção "Achados jurídicos — roteados à PGM" do V5-AUDIT. Gate mecânico obrigatório antes do PDF: `workflow/scripts/checar_economia_only.py`. Regra completa, exemplos e gate adversarial de 3 céticos: `workflow/V5.2/ECONOMIA-ONLY.md`.
+
 ---
 
 ## Tipos de fonte por tier
@@ -61,12 +64,12 @@ Para guiar o pesquisador na composição do mix:
 
 | Tier | Tipo | Exemplos brasileiros | Exemplos internacionais |
 |------|------|---------------------|------------------------|
-| T1 — Legal/Regulatório | Leis, resoluções, complementares | LC 116/2003, Resolução CVM 178/2023, CDC (Lei 8.078/1990) | Diretiva UE 2022/2041 (plataformas), OCDE Guidelines |
+| T1 — Legal/Regulatório | Norma que o PL altera/converte — **apenas como objeto da análise (V5.2); não conta no quota de citações nem serve de argumento** | LC 116/2003, CDC (Lei 8.078/1990) | Diretiva UE 2022/2041 (plataformas) |
 | T2 — Dados institucionais | Órgãos oficiais, institutos | IBGE, CEBRAP, FGV, ANCORD, ABRASEL, PROCON | ILO, OECD, World Bank, BID, Eurostat |
 | T3 — Acadêmico | Artigos, livros, policy papers | IPEA, FGV CPDOC, Insper | Prassl (2018), Ostrom (1990), De Soto (1989) |
 | T4 — Comparativo | Experiências em outros lugares | PROCON-SC, prefeituras SP/BH | Preston Model (UK), Shannon Airport (IRE) |
 
-Uma boa manifestação usa ≥ 1 de cada tier — especialmente T2 + T3.
+Uma boa manifestação usa ≥ 1 de T2, T3 e T4 — especialmente T2 + T3. T1 entra só quando é o objeto do PL e **não conta** para a meta de ≥4 citações / ≥1 internacional (V5.2, R5).
 
 ---
 

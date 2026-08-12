@@ -163,7 +163,7 @@ O coordenador lê o texto extraído do PL e monta o plano de análise.
 
 | # | Tópico | Pergunta central |
 |---|--------|-----------------|
-| T1 | **Exegese jurídica** | O que o PL exatamente cria, modifica ou revoga? Qual o contexto jurídico? Quais leis existentes são afetadas? |
+| T1 | **Exegese econômico-descritiva** (renomeada pela V5.2 — era "jurídica") | O que o PL exatamente cria, modifica ou revoga? Que leis/programas são afetados e qual o desenho econômico resultante? Sem juízo de validade jurídica — isso é da PGM. |
 | T2 | **Prós e benefícios** | Quais os efeitos positivos esperados? Há evidências empíricas de medidas similares? |
 | T3 | **Contras e riscos** | Quais os riscos e efeitos colaterais? Há precedentes negativos em outros contextos? |
 | T4 | **Dados + Comparativo** | Quais números sustentam (ou questionam) o PL? Como outros municípios trataram questão similar? |
@@ -211,11 +211,11 @@ Perguntas específicas: {3-5 perguntas derivadas do texto do PL}
 
 ### Prioridade de fontes por tópico
 
-**T1 (Exegese):**
-- Legislação municipal RJ (Leis Orgânicas, leis complementares, decretos)
-- Legislação federal correlata
-- Doutrina jurídica (livros, artigos de direito municipal/urbanístico)
-- Precedentes legislativos em outros municípios
+**T1 (Exegese econômico-descritiva — V5.2):**
+- Legislação municipal RJ que o PL altera/converte (como objeto, nunca como argumento de validade)
+- Legislação federal correlata (idem — desenho regulatório, não juízo de "pode/não pode")
+- Precedentes legislativos em outros municípios (o que fizeram e qual o efeito econômico)
+- ~~Doutrina jurídica~~ — removida pela V5.2; achados jurídicos vão ao V5-AUDIT (→ PGM)
 
 **T2 (Prós):**
 - Papers acadêmicos (Google Scholar, SciELO, NBER, IPEA)
@@ -271,8 +271,8 @@ Quando todos os 4 escritores entregaram, o coordenador costura o documento final
 > de [**nada a opor** / **apresentar as seguintes ressalvas técnicas**] à proposta.
 
 **Bloco 2 — Exegese** *(rascunho T1, ~2 parágrafos)*  
-O que o PL cria ou altera. Qual o enquadramento jurídico. Que leis existentes são tocadas.
-Qual a finalidade declarada.
+O que o PL cria ou altera. Que leis/programas existentes são tocados — como objeto, sem juízo
+de validade (V5.2). Qual a finalidade declarada e o desenho econômico resultante.
 
 **Bloco 3 — Análise dos efeitos** *(rascunhos T2 + T3, ~3-4 parágrafos)*  
 Prós com citações author-date. Contras e riscos com citações. Se análise não identificou

@@ -14,7 +14,7 @@ Cruzamento dos 20 SEI enviados pela Luiza contra o que já passou pela pipeline
 | 3 | 000184.005782/2026-18 | PL 2097/2026 | ✅ FEITO | entreg. 07-06 (2490e77) |
 | 4 | 000184.003956/2026-08 | PL 2040/2026 | ✅ FEITO | entreg. 07-06 (e71663a) |
 | 5 | 000184.004011/2026-03 | PELOM 5/2026 | ✅ FEITO | entreg. 07-06 (7ae4f8f) |
-| 6 | **001000.001254/2026-55** | — | ❌ **NÃO LOCALIZADO** | não está no dump do chat nem no repo |
+| 6 | **001000.001254/2026-55** | PDL 110/2025 | ✅ IDENTIFICADO (08/07) | = PDL 110/2025 (Ver. Dr. Rogerio Amorim, susta Decreto Rio 56.398/2025 — desapropriação Ordem de S. Francisco de Paula). PDF reenviado pela Luiza em 07/07 → `despachos tarefas/SEI_001000.001254_2026_55 (2).pdf`. Manifestação com o Marcel (2 versões em disputa) — ver `despachos tarefas/RELATORIO_VEJA_SE_ACHA_110_103.md` |
 | 7 | 000184.002441/2026-82 | PL 1883/2026 | ✅ FEITO | entreg. 01-06 |
 | 8 | 000184.002015/2026-49 | PL 74/2025 | ✅ FEITO | entreg. 01-06 (POC) |
 | 9 | 000184.002830/2026-16 | PL 1921/2026 | ✅ FEITO | entreg. 27-05 |

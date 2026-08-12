@@ -77,9 +77,9 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 43 | PL 2242/2026 | CVL 5372/2026 | Marcos Dias | QR Code de identificação de entregadores (apensado ao PL 324/2025) | Nada a opor | 355 | 4 (1) | 10-07 |
 | 44 | PL 2265/2026 | CVL 5431/2026 | Salvino Oliveira, Dr. Gilberto, Marcio Ribeiro | Hospedagem de curta duração em imóveis residenciais (cadastro/Airbnb) | Nada a opor | 354 | 6 (2) | 10-07 |
 | 45 | PL 2276/2026 | CVL 5446/2026 | Alana Passos | Programa Adote um Quarteirão (manutenção cooperada) | Nada a opor | 366 | 4 (2) | 10-07 |
-| 46 | PL 2289/2026 | CVL 6227/2026 | Rosa Fernandes+ | Vedação de tarifa de esgoto em áreas de Coletor de Tempo Seco (CTS) | 🔴 **Contrário** | 367 | 4 (1) | 23-07 |
-| 47 | PL 2290/2026 | CVL 6233/2026 | Rosa Fernandes+ | Cobrança de esgoto sobre consumo mínimo presumido | 🔴 **Contrário** | 366 | 5 (1) | 23-07 |
-| 48 | PL 2326/2026 | CVL 6366/2026 | Pedro Duarte | Uso obrigatório da marca 'Visit Rio' | 🔴 **Contrário** | 369 | 6 (2) | 23-07 |
+| 46 | PL 2289/2026 | CVL 6227/2026 | Rosa Fernandes+ | Vedação de tarifa de esgoto em áreas de Coletor de Tempo Seco (CTS) | Nada a opor — **refeito 12-08** (det. Marcel 29/07, economia-only; orig. contrário) | 363 | 2 (1) | 23-07 → 12-08 |
+| 47 | PL 2290/2026 | CVL 6233/2026 | Rosa Fernandes+ | Cobrança de esgoto sobre consumo mínimo presumido | Nada a opor — **refeito 12-08** (det. Marcel 29/07, economia-only; orig. contrário) | 349 | 2 (1) | 23-07 → 12-08 |
+| 48 | PL 2326/2026 | CVL 6366/2026 | Pedro Duarte | Uso obrigatório da marca 'Visit Rio' | Nada a opor — **refeito 12-08** (det. Marcel 29/07, c/ 4 fontes dele; orig. contrário) | 370 | 6 (1) | 23-07 → 12-08 |
 | 49 | PL 2417/2026 | CVL 7293/2026 | Fernando Armelau, Atila Nunes | Compensação econômica de impactos de obras públicas de longa duração | Nada a opor | 369 | 5 (2) | 23-07 |
 | 50 | PL 2425/2026 | CVL 7338/2026 | Junior da Lucinha | Diretrizes para fomento à inovação tecnológica | Nada a opor | 350 | 4 (2) | 23-07 |
 | 51 | PL 638/2025 | Ciência (Lei 9.513/26) | Maíra do MST, Salvino, Rick Azevedo, Niquinho | Selo Empresa Amiga das Entregadoras(es) | Ciência de lei | 368 | 4 (3) | 23-07 |

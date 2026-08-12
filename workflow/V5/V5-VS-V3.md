@@ -238,6 +238,15 @@ URL: {NB_URL}
 
 **Carry-through obrigatório**: toda fonte listada no F-T.N DEVE aparecer citada no
   seu relatório. Não liste fontes que você não utilizou no texto.
+
+**Ótica exclusivamente econômica (V5.2 — não negociável)**: seu relatório NÃO PODE
+  sustentar nada em argumento jurídico — proibido STF/STJ/TJ, ADI, ADPF, súmula,
+  jurisprudência, (in)constitucionalidade, vício de iniciativa, competência
+  (municipal/legislativa/constitucional). Citar a norma que o PL altera/converte é
+  permitido como OBJETO da análise. Se encontrar óbice ou respaldo jurídico relevante,
+  liste-o num campo separado ao final do relatório:
+  "ACHADOS JURÍDICOS (não vão ao corpo — roteados à PGM)".
+  Relatório cujo argumento central for jurídico é REJEITADO.
 ```
 
 ---
@@ -287,14 +296,23 @@ Salvar em `PL-XXXX-YYYY/V5-AUDIT.md` após cada execução:
 - Citações no short: N (meta ≥ 4: ✅/❌)
 - Fontes internacionais citadas: N (meta ≥ 1: ✅/❌)
 - Carry-through: N/M = X% (meta ≥ 80%: ✅/❌)
-- Posição adotada: nada a opor / contrário
+- Posição adotada: favorável / nada a opor / contrário
 - Posição alinhada com SMDE: ✅/❌
+- Corpo 100% econômico (checar_economia_only.py): ✅/❌ **BLOQUEANTE — V5.2**
 
 ## P3 — audit_sources
 - Wave 1 (extração): ✅/❌
 - Wave 2 (verificação): ✅/❌
 - Correções aplicadas: N
 - Status final: PASS / FAIL
+
+## P3.5 — Gate adversarial (obrigatório se posição ≠ nada a opor — V5.2)
+- Cético 1 (fonte): refutado=True/False
+- Cético 2 (lógica): refutado=True/False
+- Cético 3 (jurisdição — "a posição sobrevive deletando todo argumento jurídico?"): sobrevive=True/False
+
+## Achados jurídicos — roteados à PGM (V5.2; se houver)
+- [óbices/respaldos jurídicos encontrados na pesquisa; NÃO vão ao corpo]
 
 ## Status geral V5: ✅ PASS / ❌ FAIL — [observações]
 ```

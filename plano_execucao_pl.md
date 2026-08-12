@@ -1,5 +1,7 @@
 # Plano de Execução: Manifestação Técnica sobre PL
 
+> **[HISTÓRICO]** Documento da fase V1–V3 (mai/2026), mantido como registro. O método vigente é o V5/V5.2: `workflow/V5/` + `workflow/V5.2/ECONOMIA-ONLY.md` (ótica exclusivamente econômica — sem argumento jurídico no corpo).
+
 ## Pré-requisito (feito pelo usuário, 1 vez por PL)
 
 1. Acesse notebooklm.google.com
@@ -64,7 +66,7 @@ PROTOCOLO DE BUSCA (obrigatório nesta ordem):
 
 | Dupla | Pesquisador busca | Escritor produz |
 |-------|-------------------|-----------------|
-| T1 | Legislação base + o que o PL altera artigo a artigo | Exegese jurídica (2 parágrafos) |
+| T1 | Legislação base + o que o PL altera artigo a artigo | Exegese econômico-descritiva (2 parágrafos; sem juízo de validade — V5.2) |
 | T2 | Evidências de benefícios de medidas similares | Prós com citações formais |
 | T3 | Riscos, lacunas, precedentes negativos | Ressalvas técnicas operacionais |
 | T4 | Dados quantitativos locais + comparativo municipal | Parágrafo de dados |
