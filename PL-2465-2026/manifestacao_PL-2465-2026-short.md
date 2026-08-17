@@ -1,0 +1,13 @@
+# Manifestação Técnica — PL nº 2465/2026
+
+**Ofício:** CVL nº 7490/2026 | **Órgão:** SMDE — Subsecretaria de Desenvolvimento Econômico | **Data:** agosto de 2026
+
+---
+
+Em atenção ao Ofício CVL nº 7490/2026, referente ao PL nº 2465/2026, de autoria do Vereador Felipe Pires, que concede gratuidade no transporte coletivo municipal ao acompanhante de pessoa idosa em tratamento de doenças de alto risco de mortalidade, como as oncológicas, degenerativas e autoimunes, esta Subsecretaria posiciona-se em sentido de **nada a opor** à proposta.
+
+O PL condiciona o benefício a atestado médico e à comprovação de residência ou tratamento no Município (art. 2º) e remete despesas e implementação ao Executivo (arts. 3º a 5º). O objetivo tem respaldo econômico: a barreira de transporte é causa documentada de faltas e piores desfechos em saúde, sobretudo entre os de menor renda (SYED, S. T.; GERBER, B. S.; SHARP, L. K. "Traveling towards disease: transportation barriers to health care access", Journal of Community Health, 2013). Em centro oncológico do próprio Rio, a falta de transporte figura entre as causas de absenteísmo à quimioterapia, com descarte de fármacos de alto custo (SERRA-CAMPOS, A. O. et al. "Determinants of clinic absenteeism in a chemotherapy service of a cancer center located at Rio de Janeiro", Journal of Oncology Pharmacy Practice, 2024). O público é focalizado — o INCA estima 22.470 casos novos de câncer na capital em 2026, a maioria em idosos (INCA. "Estimativa 2026", 2026) —, custo marginal pequeno frente ao subsídio municipal de R$ 1,2 bilhão ao sistema de ônibus (SMTR. "Anexo I.1 – Sistema atual de Transporte Público", 2025).
+
+Cumpre registrar os argumentos contrários, de natureza econômica. A gratuidade especial do Jaé já cobre pessoas com doenças crônicas em tratamento continuado e seus acompanhantes, mediante laudo com CID e frequência mínima (PREFEITURA DO RIO DE JANEIRO. "Cadastramento para obtenção de gratuidade especial do Jaé", carioca.rio, 2026); o PL estende o benefício à faixa de 60 a 64 anos e afrouxa a prova. A expressão "degenerativas e autoimunes" é aberta — a hipertensão alcança 56,6% dos idosos de 65 a 74 anos (IBGE. "Pesquisa Nacional de Saúde 2019", 2020) — e cada gratuidade nova recai sobre o subsídio pago pelo Tesouro, hoje R$ 3,06 por quilômetro (PREFEITURA DO RIO DE JANEIRO. "Decreto Rio nº 57.473", 2025). Cabe ao regulamento delimitar o rol de doenças e ancorar a concessão no cadastro já existente, o que contém o custo.
+
+Portanto, considerados o benefício de acesso ao tratamento e o custo marginal do núcleo do público-alvo, e registrados os riscos econômicos da categoria aberta, esta Subsecretaria posiciona-se em sentido de **nada a opor** ao PL nº 2465/2026.

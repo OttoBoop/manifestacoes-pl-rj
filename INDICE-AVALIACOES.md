@@ -2,7 +2,7 @@
 
 > Tabela mestre de todas as manifestações já produzidas pela pipeline.
 > Fonte canônica de detalhe por PL: `workflow/PROOF-OF-CONCEPT.md` (inventário de PDFs) + `<PASTA>/V5-AUDIT.md`.
-> **Atualizado:** 2026-07-27 — **57 manifestações** na tabela + 1 bloqueada. Lote L (27-07, linhas 53–57): 4 nada a opor + 1 favorável (PL-2362, fomento voluntário ao turismo); PL-2338 avaliado só pela ótica econômica. PLC-103 (linha 17) revisto para 🔴 Contrário por determinação do Marcel. Posições emergem da análise (V5).
+> **Atualizado:** 2026-08-17 — **58 manifestações** na tabela + 1 bloqueada. Lote M (17-08, linha 58): PL-2465 nada a opor — 1ª peça integralmente V5.2 economia-only (gate checar_economia_only.py ✅). Refeitos 29-07 (linhas 46–48): PL-2289/2290/2326 → nada a opor por determinação do Marcel. Lote L (27-07, linhas 53–57): 4 nada a opor + 1 favorável (PL-2362, fomento voluntário ao turismo); PL-2338 avaliado só pela ótica econômica. PLC-103 (linha 17) revisto para 🔴 Contrário por determinação do Marcel. Posições emergem da análise (V5).
 
 ---
 
@@ -89,6 +89,7 @@ PDF do despacho (Ofício CVL/SGV ou Despacho de Ciência)
 | 55 | PL 2338/2026 | CVL 7113/2026 | Dr. Gilberto | Banheiros de uso neutro em estab. de uso coletivo (avaliado só pela ótica econômica) | Nada a opor | 369 | 5 (4) | 27-07 |
 | 56 | PL 2362/2026 | CVL 7184/2026 | Carlo Caiado, Marcio Ribeiro | Programa "Carioca no Hotel" — descontos de hospedagem a moradores (voluntário) | 🟢 **Favorável** | 366 | 4 (3) | 27-07 |
 | 57 | PL 2364/2026 | CVL 7187/2026 | Tainá de Paula | Financiamento Climático Compartilhado (matchfunding + Títulos de Impacto Ambiental) | Nada a opor | 336 | 4 (3) | 27-07 |
+| 58 | PL 2465/2026 | CVL 7490/2026 | Felipe Pires | Gratuidade no transporte coletivo p/ acompanhante de idoso em tratamento de doenças de alto risco (oncológicas, degenerativas, autoimunes) | Nada a opor | 437 | 6 (2) | 17-08 |
 
 ---
 

@@ -94,3 +94,4 @@ __pycache__/
 # skills copiadas p/ o repo — nunca versionar estado de execução
 skills/notebooklm/data/
 skills/notebooklm/.venv/
+!PL-2465-2026/manifestacao_PL-2465-2026-short.pdf
